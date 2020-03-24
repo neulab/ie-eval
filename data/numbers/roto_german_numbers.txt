@@ -1,0 +1,234 @@
+0	zero	Null
+1	one	ein
+2	two	zwei
+3	three	drei
+4	four	vier
+5	five	fünf
+6	six	sechs
+7	seven	Sieben
+8	eight	acht
+9	nine	neun
+10	ten	diese
+11	eleven	elf
+12	twelve	zwölf
+13	thirteen	dreizehn
+14	fourteen	vierzehn
+15	fifteen	fünfzehn
+16	sixteen	Sechszehn
+17	seventeen	siebzehn
+18	eighteen	achtzehn
+19	nineteen	neunzehn
+20	twenty	zwanzig
+21	twenty one	einundzwanzig
+22	twenty two	zweiundzwanzig
+23	twenty three	dreiundzwanzig
+24	twenty four	vierundzwanzig
+25	twenty five	fünfundzwanzig
+26	twenty six	sechsundzwanzig
+27	twenty seven	siebenundzwanzig
+28	twenty eight	achtundzwanzig
+29	twenty nine	neunundzwanzig
+30	thirty	dreißig
+31	thirty one	einunddreißig
+32	thirty two	zweiunddreißig
+33	thirty three	dreiunddreißig
+34	thirty four	vierunddreißig
+35	thirty five	fünfunddreißig
+36	thirty six	sechsunddreißig
+37	thirty seven	siebenunddreißig
+38	thirty eight	achtunddreißig
+39	thirty nine	neununddreißig
+40	forty	vierzig
+41	forty one	einundvierzig
+42	forty two	zweiundvierzig
+43	forty three	dreiundvierzig
+44	forty four	vierundvierzig
+45	forty five	fünfundvierzig
+46	forty six	sechsundvierzig
+47	forty seven	siebenundvierzig
+48	forty eight	Achtundvierzig
+49	forty nine	neunundvierzig
+50	fifty	fünfzig
+51	fifty one	einundfünfzig
+52	fifty two	zweiundfünfzig
+53	fifty three	dreiundfünfzig
+54	fifty four	vierundfünfzig
+55	fifty five	fünfundfünfzig
+56	fifty six	sechsundfünfzig
+57	fifty seven	siebenundfünfzig
+58	fifty eight	achtundfünfzig
+59	fifty nine	neunundfünfzig
+60	sixty	sechzig
+61	sixty one	einundsechzig
+62	sixty two	zweiundsechzig
+63	sixty three	dreiundsechzig
+64	sixty four	vierundsechzig
+65	sixty five	fünfundsechzig
+66	sixty six	sechsundsechzig
+67	sixty seven	siebenundsechzig
+68	sixty eight	achtundsechzig
+69	sixty nine	neunundsechzig
+70	seventy	siebzig
+71	seventy one	einundsiebzig
+72	seventy two	zweiundsiebzig
+73	seventy three	dreiundsiebzig
+74	seventy four	vierundsiebzig
+75	seventy five	fünfundsiebzig
+76	seventy six	sechsundsiebzig
+77	seventy seven	siebenundsiebzig
+78	seventy eight	achtundsiebzig
+79	seventy nine	neunundsiebzig
+80	eighty	achtzig
+81	eighty one	einundachtzig
+82	eighty two	zweiundachtzig
+83	eighty three	dreiundachtzig
+84	eighty four	vierundachtzig
+85	eighty five	fünfundachtzig
+86	eighty six	sechsundachtzig
+87	eighty seven	siebenundachtzig
+88	eighty eight	achtundachtzig
+89	eighty nine	neunundachtzig
+90	ninety	neunzig
+91	ninety one	einundneunzig
+92	ninety two	zweiundneunzig
+93	ninety three	dreiundneunzig
+94	ninety four	vierundneunzig
+95	ninety five	fünfundneunzig
+96	ninety six	sechsundneunzig
+97	ninety seven	siebenundneunzig
+98	ninety eight	achtundneunzig
+99	ninety nine	neunundneunzig
+100	one hundred	einhundert
+101	one hundred one	einhunderteins
+102	one hundred two	einhundertundzwei
+103	one hundred three	einhundertdrei
+104	one hundred four	Einhundertvier
+105	one hundred five	Einhundertfünf
+106	one hundred six	einhundertsechs
+107	one hundred seven	einhundertsieben
+108	one hundred eight	einhundertacht
+109	one hundred nine	einhundertneun
+110	one hundred ten	Einhundertzehn
+111	one hundred eleven	einhundertelf
+112	one hundred twelve	einhundertzwölf
+113	one hundred thirteen	Einhundertdreizehn
+114	one hundred fourteen	einhundertvierzehn
+115	one hundred fifteen	einhundertfünfzehn
+116	one hundred sixteen	einhundertsechzehn
+117	one hundred seventeen	einhundertsiebzehn
+118	one hundred eighteen	einhundertachtzehn
+119	one hundred nineteen	einhundertneunzehn
+120	one hundred twenty	einhundertzwanzig
+121	one hundred twenty one	einhunderteinundzwanzig
+122	one hundred twenty two	einhundertzweiundzwanzig
+123	one hundred twenty three	Einhundertdreiundzwanzig
+124	one hundred twenty four	einhundertvierundzwanzig
+125	one hundred twenty five	Einhundertfünfundzwanzig
+126	one hundred twenty six	einhundertsechsundzwanzig
+127	one hundred twenty seven	einhundertsiebenundzwanzig
+128	one hundred twenty eight	Einhundertachtundzwanzig
+129	one hundred twenty nine	einhundertneunundzwanzig
+130	one hundred thirty	einhundertdreißig
+131	one hundred thirty one	einhunderteinunddreißig
+132	one hundred thirty two	einhundert und zweiunddreißig
+133	one hundred thirty three	einhundertdreiunddreißig
+134	one hundred thirty four	einhundertvierunddreißig
+135	one hundred thirty five	einhundertfünfunddreißig
+136	one hundred thirty six	einhundertsechsunddreißig
+137	one hundred thirty seven	einhundertsiebenunddreißig
+138	one hundred thirty eight	einhundertachtunddreißig
+139	one hundred thirty nine	einhundertneununddreißig
+140	one hundred forty	Einhundertvierzig
+141	one hundred forty one	einhunderteinundvierzig
+142	one hundred forty two	einhundertzweiundvierzig
+143	one hundred forty three	einhundertdreiundvierzig
+144	one hundred forty four	einhundertvierundvierzig
+147	one hundred forty seven	einhundertsiebenundvierzig
+148	one hundred forty eight	Einhundertachtundvierzig
+149	one hundred forty nine	einhundertneunundvierzig
+150	one hundred fifty	einhundertfünfzig
+156	one hundred fifty six	einhundertsechsundfünfzig
+157	one hundred fifty seven	einhundertsiebenundfünfzig
+159	one hundred fifty nine	einhundertneunundfünfzig
+160	one hundred sixty	einhundertsechzig
+161	one hundred sixty one	einhunderteinundsechzig
+162	one hundred sixty two	einhundertzweiundsechzig
+168	one hundred sixty eight	einhundertachtundsechzig
+170	one hundred seventy	einhundertsiebzig
+173	one hundred seventy three	einhundertdreiundsiebzig
+177	one hundred seventy seven	einhundertsiebenundsiebzig
+180	one hundred eighty	einhundertachtzig
+184	one hundred eighty four	einhundertvierundachtzig
+187	one hundred eighty seven	einhundertsiebenundachtzig
+189	one hundred eighty nine	einhundertneunundachtzig
+190	one hundred ninety	Einhundertneunzig
+192	one hundred ninety two	einhundertzweiundneunzig
+193	one hundred ninety three	einhundertdreiundneunzig
+200	two hundred	zweihundert
+210	two hundred ten	zweihundertzehn
+216	two hundred sixteen	zweihundertsechzehn
+220	two hundred twenty	zwei hundert zwanzig
+223	two hundred twenty three	zweihundertdreiundzwanzig
+230	two hundred thirty	zweihundertdreißig
+240	two hundred forty	Zweihundert vierzig
+241	two hundred forty one	zweihunderteinundvierzig
+251	two hundred fifty one	zweihunderteinundfünfzig
+252	two hundred fifty two	zweihundertzweiundfünfzig
+253	two hundred fifty three	zweihundertdreiundfünfzig
+254	two hundred fifty four	zweihundert und vierundfünfzig
+259	two hundred fifty nine	zweihundertneunundfünfzig
+260	two hundred sixty	zweihundertsechzig
+261	two hundred sixty one	zweihunderteinundsechzig
+262	two hundred sixty two	zweihundert und zweiundsechzig
+266	two hundred sixty six	zweihundertsechsundsechzig
+273	two hundred seventy three	zweihundertdreiundsiebzig
+280	two hundred eighty	Zweihundert Acht
+281	two hundred eighty one	zweihunderteinundachtzig
+290	two hundred ninety	zweihundertneunzig
+310	three hundred ten	dreihundertzehn
+360	three hundred sixty	Dreihundertsechzig
+370	three hundred seventy	dreihundertsiebzig
+497	four hundred ninety seven	Vier Hundert Sieben und Neunzig
+502	five hundred two	zweiundfünfzig
+510	five hundred ten	fünfhundertzehn
+570	five hundred seventy	fünfhundertsiebzig
+850	eight hundred fifty	850
+919	nine hundred nineteen	neunhundertneunzehn
+921	nine hundred twenty one	neunhundert und einundzwanzig
+1951	one thousand and nine hundred fifty one	eintausendneunhunderteinundfünfzig
+1952	one thousand and nine hundred fifty two	eintausendneunhundertzweiundfünfzig
+1954	one thousand and nine hundred fifty four	eintausendneunhundertvierundfünfzig
+1969	one thousand and nine hundred sixty nine	eintausendneunhundertneunundsechzig
+1970	one thousand and nine hundred seventy	eintausendneunhundertsiebzig
+1971	one thousand and nine hundred seventy one	eintausendneunhunderteinundsiebzig
+1973	one thousand and nine hundred seventy three	eintausendneunhundertdreiundsiebzig
+1974	one thousand and nine hundred seventy four	eintausendneunhundertvierundsiebzig
+1975	one thousand and nine hundred seventy five	eintausendneunhundertfünfundsiebzig
+1980	one thousand and nine hundred eighty	eintausendneunhundertachtzig
+1985	one thousand and nine hundred eighty five	eintausendneunhundertfünfundachtzig
+1988	one thousand and nine hundred eighty eight	eintausendneunhundertachtundachtzig
+1989	one thousand and nine hundred eighty nine	eintausendneunhundertneunundachtzig
+1991	one thousand and nine hundred ninety one	eintausendneunhunderteinundneunzig
+1992	one thousand and nine hundred ninety two	eintausendneunhundertzweiundneunzig
+1993	one thousand and nine hundred ninety three	eintausendneunhundertdreiundneunzig
+1994	one thousand and nine hundred ninety four	eintausendneunhundertvierundneunzig
+1995	one thousand and nine hundred ninety five	eintausendneunhundertfünfundneunzig
+1997	one thousand and nine hundred ninety seven	eintausendneunhundertsiebenundneunzig
+1998	one thousand and nine hundred ninety eight	eintausendneunhundertachtundneunzig
+2001	two thousand and one	Zweitausendeins
+2002	two thousand and two	zweitausendundzwei
+2004	two thousand and four	Zweitausendvier
+2005	two thousand and five	zweitausendundfünf
+2006	two thousand and six	zweitausendundsechs
+2007	two thousand and seven	zweitausend und sieben
+2008	two thousand and eight	zweitausend und acht
+2009	two thousand and nine	zweitausendundneun
+2010	two thousand and ten	Zwei tausend zehn
+2011	two thousand and eleven	zweitausendundzwölf
+2012	two thousand and twelve	zweitausendundzwölf
+2013	two thousand and thirteen	zweitausenddreizehn
+2014	two thousand and fourteen	zweitausendvierzehn
+2015	two thousand and fifteen	Zweitausendundfünfzehn
+2016	two thousand and sixteen	zweitausend und sechzehn
+2017	two thousand and seventeen	zweitausend und siebzehn
+1999	one thousand and nine hundred ninety nine	eintausendneunhundertneunundneunzig

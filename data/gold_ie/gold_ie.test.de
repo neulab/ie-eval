@@ -1,0 +1,3827 @@
+Milwaukee Bucks | 18 | TEAM-WINS
+Milwaukee Bucks | 17 | TEAM-LOSSES
+Milwaukee Bucks | 95 | TEAM-PTS
+New York | 95 | TEAM-PTS
+New York Knicks | 5 | TEAM-WINS
+New York Knicks | 31 | TEAM-LOSSES
+New York Knicks | 82 | TEAM-PTS
+Bucks | 46 | TEAM-FG_PCT
+Knicks | 48 | TEAM-WINS
+Knicks | 36 | TEAM-LOSSES
+Zaza Pachulia | 16 | PLAYER-PTS
+Zaza Pachulia | 6 | PLAYER-FGM
+Zaza Pachulia | 12 | PLAYER-FGA
+Zaza Pachulia | 4 | PLAYER-FG3M
+Zaza Pachulia | 4 | PLAYER-FG3A
+Zaza Pachulia | 14 | PLAYER-REB
+Giannis Antetokounmpo | 16 | PLAYER-PTS
+Giannis Antetokounmpo | 6 | PLAYER-FGM
+Giannis Antetokounmpo | 9 | PLAYER-FGA
+Giannis Antetokounmpo | 1 | PLAYER-FG3M
+Giannis Antetokounmpo | 1 | PLAYER-FG3A
+Giannis Antetokounmpo | 3 | PLAYER-FG3M
+Giannis Antetokounmpo | 6 | PLAYER-FTA
+Giannis Antetokounmpo | 12 | PLAYER-REB
+Cole UNK | 12 | PLAYER-PTS
+Cole UNK | 6 | PLAYER-FGM
+Cole UNK | 10 | PLAYER-FGA
+Cole UNK | 19 | PLAYER-MIN
+Jason Smith | 10 | PLAYER-PTS
+Jason Smith | 3 | PLAYER-FGM
+Jason Smith | 11 | PLAYER-FGA
+Jason Smith | 4 | PLAYER-FG3M
+
+Jason Smith | 4 | PLAYER-FG3A
+Cleveland Cavaliers | 101 | TEAM-PTS
+Boston Celtics | 0 | TEAM-WINS
+Boston Celtics | 4 | TEAM-LOSSES
+Boston Celtics | 93 | TEAM-PTS
+LeBron James | 46 | PLAYER-MIN
+LeBron James | 43 | PLAYER-MIN
+Kyrie Irving | 43 | PLAYER-MIN
+
+Chris Paul | 20 | PLAYER-PTS
+Chris Paul | 20 | PLAYER-REB
+Crawford | 13 | PLAYER-FGA
+Crawford | 22 | PLAYER-PTS
+Crawford | 17 | PLAYER-PTS
+
+Speights | 17 | PLAYER-PTS
+James Harden | 34 | PLAYER-PTS
+Harden | 123 | PLAYER-PTS
+Ryan Anderson | 22 | PLAYER-PTS
+Dirk Nowitzki | 15 | PLAYER-MIN
+
+Harrison Barnes | 21 | PLAYER-PTS
+New Orleans Pelicans | 37 | TEAM-WINS
+New Orleans Pelicans | 30 | TEAM-LOSSES
+Milwaukee Bucks | 34 | TEAM-WINS
+Milwaukee Bucks | 33 | TEAM-LOSSES
+Davis | 20 | PLAYER-PTS
+Quincy Pondexter | 18 | PLAYER-PTS
+Jerryd Bayless | 34 | PLAYER-MIN
+
+Jerryd Bayless | 14 | PLAYER-PTS
+Golden State Warriors | 28 | TEAM-WINS
+Golden State Warriors | 1 | TEAM-LOSSES
+Golden State Warriors | 89 | TEAM-PTS
+Cleveland Cavaliers | 19 | TEAM-WINS
+Cleveland Cavaliers | 8 | TEAM-LOSSES
+Cleveland Cavaliers | 89 | TEAM-PTS
+Cleveland Cavaliers | 83 | TEAM-PTS
+Warriors | 41 | TEAM-FG_PCT
+Cleveland | 32 | TEAM-FG_PCT
+LeBron James | 25 | PLAYER-PTS
+Smith | 14 | PLAYER-PTS
+Kevin Love | 55 | PLAYER-REB
+Matthew | 10 | PLAYER-PTS
+Matthew | 31 | PLAYER-MIN
+Stephen Curry | 19 | PLAYER-PTS
+Stephen Curry | 6 | PLAYER-FGM
+Stephen Curry | 15 | PLAYER-FGA
+
+Memphis Grizzlies | 31 | TEAM-WINS
+Memphis Grizzlies | 12 | TEAM-LOSSES
+Memphis Grizzlies | 101 | TEAM-PTS
+Philadelphia 76ers | 8 | TEAM-WINS
+Philadelphia 76ers | 36 | TEAM-LOSSES
+Philadelphia 76ers | 83 | TEAM-PTS
+Zach Randolph | 27 | PLAYER-MIN
+Zach Randolph | 17 | PLAYER-PTS
+Zach Randolph | 14 | PLAYER-REB
+Jeff Green | 18 | PLAYER-PTS
+Vince Carter | 13 | PLAYER-PTS
+Jerami Grant | 16 | PLAYER-PTS
+Michael Carter-Williams | 10 | PLAYER-PTS
+UNK | 50 | TEAM-FG_PCT
+UNK | 20 | PLAYER-MIN
+UNK | 50 | TEAM-FG_PCT
+
+Houston Rockets | 108 | TEAM-PTS
+Miami | 108 | TEAM-PTS
+Miami Heat | 3 | TEAM-WINS
+Miami Heat | 1 | TEAM-LOSSES
+Miami Heat | 91 | TEAM-PTS
+Donatas Motiejunas | 13 | PLAYER-MIN
+Dwight Howard | 25 | PLAYER-PTS
+Dwight Howard | 10 | PLAYER-REB
+James Harden | 25 | PLAYER-PTS
+James Harden | 10 | PLAYER-REB
+Patrick Beverley | 15 | PLAYER-PTS
+Patrick Beverley | 5 | PLAYER-FGM
+Patrick Beverley | 8 | PLAYER-FGA
+Patrick Beverley | 4 | PLAYER-FG3M
+Chris Bosh | 21 | PLAYER-PTS
+Dwyane Wade | 19 | PLAYER-PTS
+Bosh | 25 | PLAYER-PTS
+Bosh | 11 | PLAYER-REB
+Mario Chalmers | 29 | PLAYER-MIN
+UNK Cole | 16 | PLAYER-MIN
+Chalmers | 12 | PLAYER-PTS
+UNK Williams | 14 | PLAYER-PTS
+UNK Williams | 4 | PLAYER-FGM
+UNK Williams | 6 | PLAYER-FGA
+UNK Williams | 3 | PLAYER-FG3M
+UNK Williams | 4 | PLAYER-FG3A
+UNK Williams | 3 | PLAYER-FG3M
+UNK Williams | 4 | PLAYER-FTA
+
+Shabazz UNK | 27 | PLAYER-MIN
+Oklahoma City Thunder | 101 | TEAM-PTS
+DeMarcus Cousins | 36 | PLAYER-PTS
+DeMarcus Cousins | 13 | PLAYER-REB
+Sacramento | 6 | TEAM-WINS
+Sacramento | 9 | TEAM-LOSSES
+Darren Collison | 21 | PLAYER-PTS
+Thunder | 8 | TEAM-WINS
+Thunder | 8 | TEAM-LOSSES
+
+Phoenix Suns | 34 | TEAM-WINS
+Phoenix Suns | 32 | TEAM-LOSSES
+Phoenix Suns | 106 | TEAM-PTS
+Phoenix | 106 | TEAM-PTS
+Minnesota Timberwolves | 14 | TEAM-WINS
+Minnesota Timberwolves | 49 | TEAM-LOSSES
+Minnesota Timberwolves | 97 | TEAM-PTS
+Suns | 50 | TEAM-FG_PCT
+Suns | 25 | TEAM-FG3_PCT
+Suns | 44 | TEAM-FG_PCT
+Timberwolves | 44 | TEAM-FG_PCT
+Markieff Morris | 37 | PLAYER-MIN
+Markieff Morris | 24 | PLAYER-PTS
+Markieff Morris | 10 | PLAYER-FGM
+Markieff Morris | 15 | PLAYER-FGA
+Markieff Morris | 0 | PLAYER-FG3M
+Markieff Morris | 2 | PLAYER-FG3A
+Markieff Morris | 4 | PLAYER-FG3M
+Markieff Morris | 4 | PLAYER-FTA
+Eric Bledsoe | 18 | PLAYER-PTS
+Eric Bledsoe | 7 | PLAYER-FGM
+Eric Bledsoe | 14 | PLAYER-FGA
+Eric Bledsoe | 2 | PLAYER-FG3M
+Eric Bledsoe | 5 | PLAYER-FG3A
+Eric Bledsoe | 2 | PLAYER-FG3M
+Eric Bledsoe | 2 | PLAYER-FTA
+Warren | 17 | PLAYER-PTS
+Warren | 8 | PLAYER-FGM
+Warren | 10 | PLAYER-FGA
+Warren | 0 | PLAYER-FG3M
+Warren | 1 | PLAYER-FG3A
+Warren | 1 | PLAYER-FG3M
+Warren | 2 | PLAYER-FTA
+Marcus Thornton | 14 | PLAYER-PTS
+Marcus Thornton | 6 | PLAYER-FGM
+Marcus Thornton | 12 | PLAYER-FGA
+Marcus Thornton | 1 | PLAYER-FG3M
+Marcus Thornton | 5 | PLAYER-FG3A
+Marcus Thornton | 1 | PLAYER-FG3M
+Marcus Thornton | 1 | PLAYER-FTA
+Marcus Thornton | 22 | PLAYER-MIN
+Justin Hamilton | 7 | PLAYER-FGM
+Justin Hamilton | 12 | PLAYER-FGA
+Justin Hamilton | 1 | PLAYER-FG3M
+Justin Hamilton | 4 | PLAYER-FGM
+Justin Hamilton | 15 | PLAYER-PTS
+Andrew Wiggins | 10 | PLAYER-PTS
+Andrew Wiggins | 5 | PLAYER-FGM
+Andrew Wiggins | 11 | PLAYER-FGA
+Andrew Wiggins | 0 | PLAYER-FG3M
+
+Andrew Wiggins | 1 | PLAYER-FG3A
+
+Chicago Bulls | 8 | TEAM-WINS
+Chicago Bulls | 3 | TEAM-LOSSES
+Los Angeles Clippers | 5 | TEAM-WINS
+Los Angeles Clippers | 4 | TEAM-LOSSES
+Jimmy Butler | 22 | PLAYER-PTS
+Jimmy Butler | 17 | PLAYER-FGA
+Joakim Noah | 16 | PLAYER-REB
+Los Angeles Clippers | 19 | PLAYER-PTS
+Blake Griffin | 19 | PLAYER-PTS
+Blake Griffin | 15 | PLAYER-FGA
+Griffin | 17 | PLAYER-FGA
+Jamal Crawford | 24 | PLAYER-PTS
+Jamal Crawford | 17 | PLAYER-FGA
+
+Memphis Grizzlies | 112 | TEAM-PTS
+Brooklyn Nets | 103 | TEAM-PTS
+Grizzlies | 34 | TEAM-WINS
+Grizzlies | 23 | TEAM-LOSSES
+Nets | 9 | TEAM-WINS
+Nets | 46 | TEAM-LOSSES
+Brooklyn | 46 | TEAM-FG_PCT
+Mike Conley | 37 | PLAYER-MIN
+Marc Gasol | 19 | PLAYER-PTS
+UNK Wright | 17 | PLAYER-PTS
+UNK Wright | 21 | PLAYER-MIN
+Vince Carter | 14 | PLAYER-PTS
+JaMychal Green | 10 | PLAYER-PTS
+Sean Kilpatrick | 15 | PLAYER-PTS
+Rondae Hollis-Jefferson | 13 | PLAYER-PTS
+
+Bojan Bogdanovic | 11 | PLAYER-PTS
+Miami Heat | 117 | TEAM-PTS
+Houston Rockets | 109 | TEAM-PTS
+Heat | 25 | TEAM-WINS
+Heat | 32 | TEAM-LOSSES
+Rockets | 40 | TEAM-WINS
+Rockets | 18 | TEAM-LOSSES
+Whiteside | 14 | PLAYER-REB
+Goran Dragic | 21 | PLAYER-PTS
+Rodney UNK | 11 | PLAYER-PTS
+Tyler Johnson | 16 | PLAYER-PTS
+Ryan Anderson | 17 | PLAYER-PTS
+Clint Capela | 12 | PLAYER-PTS
+Eric Gordon | 32 | PLAYER-MIN
+Patrick Beverley | 12 | PLAYER-PTS
+Patrick Beverley | 12 | PLAYER-MIN
+Trevor Ariza | 12 | PLAYER-PTS
+
+Trevor Ariza | 12 | PLAYER-MIN
+Los | 14 | PLAYER-REB
+Julius Randle | 14 | PLAYER-REB
+
+Houston Rockets | UNK | TEAM-PTS
+Phoenix Suns | 102 | TEAM-PTS
+Suns | 17 | TEAM-WINS
+Suns | 38 | TEAM-LOSSES
+Rockets | 40 | TEAM-WINS
+Rockets | 17 | TEAM-LOSSES
+James Harden | 40 | PLAYER-PTS
+Devin Booker | 18 | PLAYER-PTS
+Warren | 14 | PLAYER-PTS
+Alex Len | 13 | PLAYER-PTS
+Tyler Ulis | 13 | PLAYER-PTS
+Jared Dudley | 12 | PLAYER-PTS
+UNK Barbosa | 12 | PLAYER-PTS
+Patrick Beverley | 19 | PLAYER-PTS
+Patrick Beverley | 10 | PLAYER-REB
+Ryan Anderson | 16 | PLAYER-PTS
+Sam Dekker | 14 | PLAYER-PTS
+Trevor Ariza | 9 | PLAYER-PTS
+
+Clint Capela | 9 | PLAYER-PTS
+
+Williams | UNK | PLAYER-FGA
+Williams | 24 | PLAYER-PTS
+Williams | 8 | PLAYER-FGM
+Williams | 17 | PLAYER-FGA
+Williams | 21 | PLAYER-MIN
+Monroe | 22 | PLAYER-PTS
+Monroe | 7 | PLAYER-FGM
+Monroe | 17 | PLAYER-FGA
+Monroe | 8 | PLAYER-FG3M
+Monroe | 10 | PLAYER-FG3A
+Monroe | 14 | PLAYER-REB
+
+Toronto Raptors | 25 | TEAM-WINS
+Toronto Raptors | 15 | TEAM-LOSSES
+Toronto Raptors | 106 | TEAM-PTS
+Orlando Magic | 20 | TEAM-WINS
+Orlando Magic | 19 | TEAM-LOSSES
+Orlando Magic | 103 | TEAM-PTS
+Lowry | 24 | PLAYER-PTS
+DeRozan | 13 | PLAYER-PTS
+DeRozan | 11 | PLAYER-REB
+Luis Scola | 11 | PLAYER-PTS
+Corey | 19 | PLAYER-PTS
+Corey | 36 | PLAYER-MIN
+Joseph | 19 | PLAYER-PTS
+Joseph | 36 | PLAYER-MIN
+Fournier | 21 | PLAYER-PTS
+Tobias Harris | 16 | PLAYER-PTS
+Jason Smith | 16 | PLAYER-PTS
+
+Houston Rockets | 32 | TEAM-WINS
+Houston Rockets | 14 | TEAM-LOSSES
+Houston Rockets | 99 | TEAM-PTS
+Dallas Mavericks | 30 | TEAM-WINS
+Dallas Mavericks | 17 | TEAM-LOSSES
+Dallas Mavericks | 94 | TEAM-PTS
+UNK UNK | 13 | PLAYER-MIN
+Josh Smith | 18 | PLAYER-PTS
+Josh Smith | 4 | PLAYER-FGM
+Josh Smith | 5 | PLAYER-FGA
+Monta Ellis | 33 | PLAYER-PTS
+Chandler Parsons | 35 | PLAYER-PTS
+Chandler Parsons | 7 | PLAYER-FGM
+Chandler Parsons | 12 | PLAYER-FGA
+Dirk Nowitzki | 35 | PLAYER-PTS
+Dirk Nowitzki | 7 | PLAYER-FGM
+Dirk Nowitzki | 12 | PLAYER-FGA
+Rajon Rondo | 0 | PLAYER-FGM
+Rajon Rondo | 7 | PLAYER-FGA
+
+Jamal Murray | 9 | PLAYER-FGM
+Jamal Murray | 24 | PLAYER-PTS
+Wilson Chandler | 16 | PLAYER-PTS
+Jusuf Nurkic | 14 | PLAYER-PTS
+Jusuf Nurkic | 14 | PLAYER-REB
+Robin Lopez | 10 | PLAYER-PTS
+
+Jimmy Butler | 35 | PLAYER-PTS
+Charlotte Hornets | 39 | TEAM-WINS
+Charlotte Hornets | 29 | TEAM-LOSSES
+Miami Heat | 39 | TEAM-WINS
+Miami Heat | 29 | TEAM-LOSSES
+Kemba Walker | 18 | PLAYER-FGA
+Kemba Walker | 16 | PLAYER-FGA
+Kemba Walker | 21 | PLAYER-PTS
+Al Jefferson | 16 | PLAYER-FGA
+Nicolas Batum | 19 | PLAYER-PTS
+Nicolas Batum | 19 | PLAYER-FGA
+Luol | 22 | PLAYER-PTS
+Josh Richardson | 18 | PLAYER-PTS
+Hassan Whiteside | 17 | PLAYER-PTS
+
+Chicago Bulls | 32 | TEAM-WINS
+Chicago Bulls | 20 | TEAM-LOSSES
+Orlando Magic | 16 | TEAM-WINS
+Orlando Magic | 38 | TEAM-LOSSES
+Orlando | 32 | TEAM-WINS
+Orlando | 20 | TEAM-LOSSES
+Butler | 27 | PLAYER-PTS
+Butler | 16 | PLAYER-FGA
+Gasol | 25 | PLAYER-PTS
+Gasol | 16 | PLAYER-FGA
+Gasol | 15 | PLAYER-REB
+Gasol | 37 | PLAYER-MIN
+Derrick Rose | 14 | PLAYER-FGA
+Victor Oladipo | 18 | PLAYER-PTS
+Victor Oladipo | 16 | PLAYER-FGA
+Tobias Harris | 15 | PLAYER-PTS
+Tobias Harris | 17 | PLAYER-FGA
+Nikola Vucevic | 32 | PLAYER-MIN
+Nikola Vucevic | 14 | PLAYER-PTS
+Nikola Vucevic | 14 | PLAYER-FGA
+Evan Fournier | 14 | PLAYER-PTS
+
+Evan Fournier | 18 | PLAYER-MIN
+Atlanta Hawks | 46 | TEAM-WINS
+Atlanta Hawks | 32 | TEAM-LOSSES
+Atlanta Hawks | 103 | TEAM-PTS
+Phoenix Suns | 20 | TEAM-WINS
+Phoenix Suns | 59 | TEAM-LOSSES
+Phoenix Suns | 90 | TEAM-PTS
+Phoenix | 38 | PLAYER-PTS
+Jeff | 20 | PLAYER-PTS
+Paul Millsap | 13 | PLAYER-PTS
+Paul Millsap | 17 | PLAYER-REB
+Al Horford | 16 | PLAYER-PTS
+Al Horford | 10 | PLAYER-REB
+Kent Bazemore | 17 | PLAYER-PTS
+Kent Bazemore | 7 | PLAYER-FGM
+Kent Bazemore | 13 | PLAYER-FGA
+Kent Bazemore | 2 | PLAYER-FG3M
+Kent Bazemore | 5 | PLAYER-FG3A
+Atlanta | 41 | TEAM-FG_PCT
+Devin Booker | 12 | PLAYER-FGM
+UNK UNK | 14 | PLAYER-PTS
+UNK UNK | 4 | PLAYER-FGM
+UNK UNK | 9 | PLAYER-FGA
+UNK UNK | 4 | PLAYER-FG3M
+UNK UNK | 7 | PLAYER-FG3A
+
+Karl-Anthony Towns | 37 | PLAYER-PTS
+Karl-Anthony Towns | 15 | PLAYER-FGA
+Karl-Anthony Towns | 26 | PLAYER-FGA
+Karl-Anthony Towns | 13 | PLAYER-REB
+Andrew Wiggins | 23 | PLAYER-PTS
+Andrew Wiggins | 20 | PLAYER-PTS
+Zach LaVine | 20 | PLAYER-PTS
+Shabazz Muhammad | 18 | PLAYER-PTS
+Brook Lopez | 30 | PLAYER-MIN
+Brook Lopez | 25 | PLAYER-PTS
+Sean Kilpatrick | 14 | PLAYER-PTS
+
+Caris | 27 | PLAYER-MIN
+Sacramento Kings | 6 | TEAM-WINS
+Sacramento Kings | 4 | TEAM-LOSSES
+Sacramento Kings | 94 | TEAM-PTS
+San Antonio Spurs | 5 | TEAM-WINS
+San Antonio Spurs | 4 | TEAM-LOSSES
+San Antonio Spurs | 91 | TEAM-PTS
+
+New Orleans Pelicans | 104 | TEAM-PTS
+Dallas Mavericks | 104 | TEAM-PTS
+Pelicans | 53 | TEAM-FG_PCT
+Dallas | 9 | TEAM-WINS
+Dallas | 22 | TEAM-LOSSES
+Deron Williams | 24 | PLAYER-PTS
+Seth Curry | 16 | PLAYER-PTS
+Harrison Barnes | 15 | PLAYER-PTS
+Wesley Matthews | 17 | PLAYER-PTS
+Wesley Matthews | 4 | PLAYER-FGM
+Wesley Matthews | 11 | PLAYER-FGA
+New Orleans | 12 | TEAM-WINS
+New Orleans | 21 | TEAM-LOSSES
+Anthony Davis | 28 | PLAYER-PTS
+Anthony Davis | 8 | PLAYER-FGM
+Anthony Davis | 14 | PLAYER-FGA
+Anthony Davis | 16 | PLAYER-REB
+Jrue Holiday | 2 | PLAYER-FGM
+Jrue Holiday | 11 | PLAYER-FGA
+Jrue Holiday | 11 | PLAYER-FGM
+Langston Galloway | 33 | PLAYER-PTS
+Langston Galloway | 13 | PLAYER-FGM
+Langston Galloway | 18 | PLAYER-FGA
+E'Twaun Moore | 33 | PLAYER-PTS
+E'Twaun Moore | 13 | PLAYER-FGM
+
+E'Twaun Moore | 18 | PLAYER-FGA
+Sacramento Kings | 30 | TEAM-WINS
+Sacramento Kings | 45 | TEAM-LOSSES
+Sacramento Kings | 120 | TEAM-PTS
+Washington Wizards | 36 | TEAM-WINS
+Washington Wizards | 39 | TEAM-LOSSES
+Washington Wizards | 111 | TEAM-PTS
+Cousins | 29 | PLAYER-PTS
+Cousins | 10 | PLAYER-REB
+Cousins | 11 | PLAYER-FGM
+Cousins | 18 | PLAYER-FGA
+Cousins | 32 | PLAYER-MIN
+Gay | 15 | PLAYER-PTS
+Beal | 24 | PLAYER-PTS
+Kings | 48 | TEAM-FG_PCT
+Miami Heat | 43 | TEAM-WINS
+Miami Heat | 30 | TEAM-LOSSES
+Phoenix Suns | 20 | TEAM-WINS
+
+Phoenix Suns | 55 | TEAM-LOSSES
+Oklahoma City | 36 | PLAYER-MIN
+Leonard | 29 | PLAYER-PTS
+
+Oklahoma City Thunder | 21 | TEAM-WINS
+Oklahoma City Thunder | 10 | TEAM-LOSSES
+Denver Nuggets | 12 | TEAM-WINS
+Denver Nuggets | 19 | TEAM-LOSSES
+Thunder | 58 | TEAM-FG_PCT
+Kenneth Faried | 25 | PLAYER-PTS
+Will Barton | 19 | PLAYER-PTS
+Westbrook | 30 | PLAYER-PTS
+Durant | 26 | PLAYER-PTS
+
+Enes Kanter | 21 | PLAYER-PTS
+Suns | 7 | TEAM-WINS
+Suns | 5 | TEAM-LOSSES
+Pistons | 3 | TEAM-WINS
+Pistons | 9 | TEAM-LOSSES
+Phoenix | 18 | PLAYER-PTS
+Goran Dragic | 12 | PLAYER-PTS
+Morris | 10 | PLAYER-PTS
+Tucker | 16 | PLAYER-PTS
+Suns | 50 | TEAM-FG_PCT
+Jennings | 19 | PLAYER-PTS
+Jennings | 7 | PLAYER-FGM
+Jennings | 19 | PLAYER-FGA
+Jennings | 1 | PLAYER-FG3M
+Jennings | 9 | PLAYER-FG3A
+Detroit | 19 | PLAYER-PTS
+Detroit | 7 | PLAYER-FGM
+Detroit | 9 | PLAYER-FG3A
+Greg Monroe | 7 | PLAYER-FGM
+Greg Monroe | 19 | PLAYER-FGA
+Greg Monroe | 1 | PLAYER-FG3M
+Greg Monroe | 9 | PLAYER-FG3A
+Caldwell-Pope | 15 | PLAYER-PTS
+Caldwell-Pope | 25 | PLAYER-MIN
+
+Josh Smith | 25 | PLAYER-MIN
+Golden State Warriors | 56 | TEAM-WINS
+Golden State Warriors | 6 | TEAM-LOSSES
+Orlando Magic | 27 | TEAM-WINS
+Orlando Magic | 35 | TEAM-LOSSES
+Curry | 14 | PLAYER-FGM
+Curry | 24 | PLAYER-FGA
+Curry | 41 | PLAYER-PTS
+Curry | 13 | PLAYER-REB
+Oladipo | 16 | PLAYER-FGA
+Oladipo | 19 | PLAYER-PTS
+Oladipo | 20 | PLAYER-PTS
+Fournier | 20 | PLAYER-PTS
+Aaron Gordon | 20 | PLAYER-PTS
+Brandon Jennings | 24 | PLAYER-MIN
+Brandon Jennings | 20 | PLAYER-PTS
+Los Angeles Lakers | 13 | TEAM-WINS
+Los Angeles Lakers | 51 | TEAM-LOSSES
+Utah Jazz | 29 | TEAM-WINS
+
+Utah Jazz | 33 | TEAM-LOSSES
+Denver Nuggets | 117 | TEAM-PTS
+Milwaukee Bucks | 117 | TEAM-PTS
+Bucks | 21 | TEAM-WINS
+Bucks | 28 | TEAM-LOSSES
+Jabari Parker | 27 | PLAYER-PTS
+Jabari Parker | 11 | PLAYER-REB
+Giannis Antetokounmpo | 23 | PLAYER-PTS
+John Henson | 16 | PLAYER-PTS
+Nuggets | 22 | TEAM-WINS
+Nuggets | 27 | TEAM-LOSSES
+Wilson Chandler | 23 | PLAYER-PTS
+Danilo Gallinari | 23 | PLAYER-PTS
+Kenneth Faried | 19 | PLAYER-PTS
+Kenneth Faried | 11 | PLAYER-REB
+Jamal Murray | 18 | PLAYER-PTS
+Jamal Murray | 5 | PLAYER-FGM
+
+Jamal Murray | 9 | PLAYER-FGA
+Philadelphia 76ers | 93 | TEAM-PTS
+Minnesota Timberwolves | 9 | TEAM-PTS
+Timberwolves | 11 | TEAM-WINS
+Timberwolves | 24 | TEAM-LOSSES
+Zach LaVine | 28 | PLAYER-PTS
+UNK UNK | 10 | PLAYER-PTS
+Andrew Wiggins | 2 | PLAYER-FGM
+Andrew Wiggins | 15 | PLAYER-FGA
+Shabazz | 10 | PLAYER-PTS
+UNK | 10 | PLAYER-PTS
+
+Ersan Ilyasova | 19 | PLAYER-PTS
+Dallas Mavericks | 42 | TEAM-WINS
+Dallas Mavericks | 39 | TEAM-LOSSES
+Dallas Mavericks | 101 | TEAM-PTS
+Deron | 23 | PLAYER-PTS
+Deron | 9 | PLAYER-FGM
+Deron | 16 | PLAYER-FGA
+Deron | 2 | PLAYER-FG3M
+Deron | 6 | PLAYER-FG3A
+Deron | 3 | PLAYER-FG3M
+Deron | 3 | PLAYER-FTA
+Deron | 37 | PLAYER-MIN
+Dirk Nowitzki | 32 | PLAYER-MIN
+Dirk Nowitzki | 22 | PLAYER-PTS
+Dirk Nowitzki | 7 | PLAYER-FGM
+Dirk Nowitzki | 12 | PLAYER-FGA
+Dirk Nowitzki | 4 | PLAYER-FG3M
+Dirk Nowitzki | 7 | PLAYER-FG3A
+Dirk Nowitzki | 4 | PLAYER-FG3M
+Dirk Nowitzki | 4 | PLAYER-FTA
+Dirk Nowitzki | 11 | PLAYER-REB
+Wesley Matthews | 20 | PLAYER-PTS
+Wesley Matthews | 38 | PLAYER-MIN
+Gordon Hayward | 40 | PLAYER-MIN
+Gordon Hayward | 26 | PLAYER-PTS
+Gordon Hayward | 11 | PLAYER-FGM
+Gordon Hayward | 21 | PLAYER-FGA
+Gordon Hayward | 1 | PLAYER-FG3M
+Gordon Hayward | 9 | PLAYER-FG3A
+Gordon Hayward | 3 | PLAYER-FG3M
+Gordon Hayward | 4 | PLAYER-FTA
+Shelvin Mack | 18 | PLAYER-PTS
+Shelvin Mack | 8 | PLAYER-FGM
+Shelvin Mack | 14 | PLAYER-FGA
+Shelvin Mack | 2 | PLAYER-FG3M
+Shelvin Mack | 7 | PLAYER-FG3A
+Shelvin Mack | 28 | PLAYER-MIN
+Shelvin Mack | 11 | PLAYER-PTS
+Derrick Favors | 8 | PLAYER-FGM
+Derrick Favors | 14 | PLAYER-FGA
+Derrick Favors | 2 | PLAYER-FG3M
+Derrick Favors | 7 | PLAYER-FG3A
+Derrick Favors | 28 | PLAYER-MIN
+
+Derrick Favors | 11 | PLAYER-PTS
+San Antonio Spurs | 33 | TEAM-WINS
+San Antonio Spurs | 19 | TEAM-LOSSES
+San Antonio Spurs | 95 | TEAM-PTS
+Indiana Pacers | 20 | TEAM-WINS
+Indiana Pacers | 33 | TEAM-LOSSES
+Indiana Pacers | 93 | TEAM-PTS
+
+Utah Jazz | 16 | TEAM-WINS
+Utah Jazz | 20 | TEAM-LOSSES
+Utah Jazz | 98 | TEAM-PTS
+Miami Heat | 83 | TEAM-PTS
+Jazz | 55 | TEAM-FG_PCT
+Heat | 42 | TEAM-FG_PCT
+Dwyane Wade | 3 | PLAYER-FGM
+Chris Bosh | 24 | PLAYER-PTS
+Gordon Hayward | 34 | PLAYER-PTS
+Chris Johnson | 14 | PLAYER-PTS
+Chris Johnson | 31 | PLAYER-MIN
+Rodney Hood | 14 | PLAYER-PTS
+
+Golden State | 80 | PLAYER-PTS
+Warriors | 14 | TEAM-WINS
+Warriors | 2 | TEAM-LOSSES
+Kevin Durant | 29 | PLAYER-PTS
+Kevin Durant | 33 | PLAYER-MIN
+Stephen Curry | 24 | PLAYER-PTS
+Lakers | 8 | TEAM-WINS
+Lakers | 9 | TEAM-LOSSES
+Jordan Clarkson | 20 | PLAYER-PTS
+Jordan Clarkson | 15 | PLAYER-FGA
+Jordan Clarkson | 38 | PLAYER-MIN
+Los Angeles | 36 | TEAM-FG_PCT
+Los Angeles | 22 | PLAYER-FGA
+
+Pistons | 4 | TEAM-WINS
+Pistons | 2 | TEAM-LOSSES
+Pistons | 48 | TEAM-FG_PCT
+Andre Drummond | 34 | PLAYER-MIN
+Andre Drummond | 19 | PLAYER-PTS
+Andre Drummond | 20 | PLAYER-REB
+Marcus Morris | 15 | PLAYER-PTS
+Marcus Morris | 15 | PLAYER-PTS
+John | 15 | PLAYER-PTS
+Leuer | 15 | PLAYER-PTS
+Nuggets | 2 | TEAM-WINS
+Nuggets | 3 | TEAM-LOSSES
+Wilson Chandler | 31 | PLAYER-MIN
+Wilson Chandler | 21 | PLAYER-PTS
+Jusuf Nurkic | 24 | PLAYER-MIN
+
+Los Angeles | 51 | TEAM-FG_PCT
+Julius Randle | 19 | PLAYER-PTS
+Julius Randle | 14 | PLAYER-REB
+Nick Young | 20 | PLAYER-PTS
+Young | 6 | PLAYER-FGM
+Young | 11 | PLAYER-FGA
+Marc Gasol | 22 | PLAYER-PTS
+Marc Gasol | 8 | PLAYER-FGM
+Mike Conley | 21 | PLAYER-PTS
+Mike Conley | 7 | PLAYER-FGM
+
+Mike Conley | 16 | PLAYER-FGA
+Memphis Grizzlies | 29 | TEAM-WINS
+Memphis Grizzlies | 11 | TEAM-LOSSES
+Portland | 30 | TEAM-WINS
+Portland | 11 | TEAM-LOSSES
+Trail Blazers | 30 | TEAM-WINS
+Trail Blazers | 11 | TEAM-LOSSES
+Zach Randolph | 15 | PLAYER-REB
+Beno Udrih | 17 | PLAYER-PTS
+UNK Lee | 17 | PLAYER-PTS
+Jeff Green | 17 | PLAYER-PTS
+Chris Kaman | 30 | PLAYER-MIN
+Robin Lopez | 30 | PLAYER-MIN
+LaMarcus Aldridge | 32 | PLAYER-PTS
+
+LaMarcus Aldridge | 39 | PLAYER-MIN
+
+Nuggets | 33 | TEAM-WINS
+Nuggets | 37 | TEAM-LOSSES
+Gary Harris | 28 | PLAYER-PTS
+Will Barton | 24 | PLAYER-PTS
+Nikola Jokic | 22 | PLAYER-PTS
+Nikola Jokic | 13 | PLAYER-REB
+Rockets | 49 | TEAM-WINS
+Rockets | 22 | TEAM-LOSSES
+Harden | 39 | PLAYER-PTS
+Eric Gordon | 18 | PLAYER-PTS
+Trevor Ariza | 14 | PLAYER-PTS
+
+Patrick Beverley | 14 | PLAYER-PTS
+Los Angeles Clippers | 7 | TEAM-WINS
+Los Angeles Clippers | 4 | TEAM-LOSSES
+Los Angeles Clippers | 110 | TEAM-PTS
+Miami Heat | 6 | TEAM-WINS
+Miami Heat | 6 | TEAM-LOSSES
+Miami Heat | 93 | TEAM-PTS
+Chris Paul | 26 | PLAYER-PTS
+Chris Paul | 33 | PLAYER-MIN
+Shabazz UNK | 32 | PLAYER-MIN
+
+Shabazz UNK | 17 | PLAYER-PTS
+Boston Celtics | 41 | TEAM-WINS
+Boston Celtics | 30 | TEAM-LOSSES
+Boston Celtics | 107 | TEAM-PTS
+Orlando Magic | 29 | TEAM-WINS
+Orlando Magic | 41 | TEAM-LOSSES
+Boston | 33 | PLAYER-FGM
+Boston | 20 | PLAYER-FG3M
+Boston | 24 | PLAYER-FTA
+Isaiah Thomas | 28 | PLAYER-PTS
+Avery Bradley | 22 | PLAYER-PTS
+Avery Bradley | 9 | PLAYER-FGM
+Avery Bradley | 15 | PLAYER-FGA
+Avery Bradley | 21 | PLAYER-MIN
+Avery Bradley | 12 | PLAYER-FGA
+Avery Bradley | 4 | PLAYER-FG3M
+Avery Bradley | 6 | PLAYER-FG3A
+Avery Bradley | 4 | PLAYER-FG3M
+Avery Bradley | 4 | PLAYER-FTA
+Kelly Olynyk | 22 | PLAYER-PTS
+Kelly Olynyk | 21 | PLAYER-MIN
+Kelly Olynyk | 7 | PLAYER-FGM
+Victor Oladipo | 25 | PLAYER-PTS
+Evan Fournier | 13 | PLAYER-PTS
+Orlando | 42 | TEAM-FG_PCT
+Orlando | 5 | PLAYER-FGM
+
+New York Knicks | 3 | TEAM-WINS
+New York Knicks | 8 | TEAM-LOSSES
+New York Knicks | 109 | TEAM-PTS
+Denver Nuggets | 2 | TEAM-WINS
+Denver Nuggets | 7 | TEAM-LOSSES
+Denver Nuggets | 109 | TEAM-PTS
+Denver Nuggets | 93 | TEAM-PTS
+
+Houston Rockets | 11 | TEAM-WINS
+Houston Rockets | 3 | TEAM-LOSSES
+Houston Rockets | 91 | TEAM-PTS
+New York Knicks | 4 | TEAM-WINS
+New York Knicks | 11 | TEAM-LOSSES
+New York Knicks | 86 | TEAM-PTS
+Houston | 11 | TEAM-LOSSES
+Terrence Jones | 6 | PLAYER-FGM
+Terrence Jones | 12 | PLAYER-FGA
+Terrence Jones | 1 | PLAYER-FG3M
+Terrence Jones | 2 | PLAYER-FG3A
+Donatas Motiejunas | 13 | PLAYER-PTS
+Donatas Motiejunas | 6 | PLAYER-FGM
+Donatas Motiejunas | 12 | PLAYER-FGA
+Donatas Motiejunas | 1 | PLAYER-FG3M
+Donatas Motiejunas | 2 | PLAYER-FG3A
+Anthony | 18 | PLAYER-MIN
+Anthony | 14 | PLAYER-PTS
+UNK UNK | 4 | PLAYER-FGM
+UNK UNK | 7 | PLAYER-FGA
+UNK UNK | 0 | PLAYER-FG3M
+UNK UNK | 1 | PLAYER-FG3A
+UNK UNK | 1 | PLAYER-FG3M
+UNK UNK | 2 | PLAYER-FTA
+
+UNK UNK | 17 | PLAYER-MIN
+Utah Jazz | 109 | TEAM-PTS
+Jazz | 50 | TEAM-FG_PCT
+Jazz | 32 | PLAYER-MIN
+Jazz | 36 | TEAM-WINS
+Jazz | 22 | TEAM-LOSSES
+Gordon Hayward | 29 | PLAYER-PTS
+Derrick Favors | 19 | PLAYER-PTS
+Rudy Gobert | 15 | PLAYER-PTS
+Rudy Gobert | 16 | PLAYER-REB
+George Hill | 19 | PLAYER-PTS
+George Hill | 8 | PLAYER-FGM
+Bucks | 25 | TEAM-WINS
+Bucks | 31 | TEAM-LOSSES
+Giannis Antetokounmpo | 33 | PLAYER-PTS
+Giannis Antetokounmpo | 12 | PLAYER-REB
+Michael Beasley | 22 | PLAYER-PTS
+Michael Beasley | 10 | PLAYER-FGM
+
+Michael Beasley | 17 | PLAYER-FGA
+Atlanta Hawks | 101 | TEAM-PTS
+Celtics | 25 | TEAM-WINS
+Celtics | 15 | TEAM-LOSSES
+Thomas | 32 | PLAYER-MIN
+Kelly Olynyk | 26 | PLAYER-PTS
+Kelly Olynyk | 9 | PLAYER-FGM
+Kelly Olynyk | 11 | PLAYER-FGA
+Kelly Olynyk | 32 | PLAYER-MIN
+Jae Crowder | 18 | PLAYER-PTS
+Al Horford | 10 | PLAYER-PTS
+Hawks | 22 | TEAM-WINS
+Hawks | 17 | TEAM-LOSSES
+Paul Millsap | 23 | PLAYER-PTS
+Dwight Howard | 11 | PLAYER-PTS
+Dwight Howard | 6 | PLAYER-FGM
+Dwight Howard | 11 | PLAYER-FGA
+Dwight Howard | 27 | PLAYER-MIN
+Malcolm UNK | 17 | PLAYER-PTS
+Malcolm UNK | 6 | PLAYER-FGM
+Malcolm UNK | 11 | PLAYER-FGA
+Malcolm UNK | 3 | PLAYER-FGM
+Malcolm UNK | 27 | PLAYER-MIN
+
+Giannis Antetokounmpo | 24 | PLAYER-PTS
+Jabari Parker | 16 | PLAYER-PTS
+Dion Waiters | 33 | PLAYER-PTS
+Goran Dragic | 25 | PLAYER-PTS
+Hassan Whiteside | 16 | PLAYER-PTS
+
+Hassan Whiteside | 15 | PLAYER-REB
+Bulls | 14 | TEAM-WINS
+Bulls | 8 | TEAM-LOSSES
+Blazers | 17 | TEAM-WINS
+Blazers | 6 | TEAM-LOSSES
+LaMarcus Aldridge | 21 | PLAYER-PTS
+Chicago | 35 | PLAYER-PTS
+Aldridge | 35 | PLAYER-PTS
+Damian Lillard | 35 | PLAYER-PTS
+Blazers | 49 | TEAM-FG_PCT
+Blazers | 50 | TEAM-FG3_PCT
+Derrick Rose | 31 | PLAYER-PTS
+Derrick Rose | 14 | PLAYER-FGM
+Derrick Rose | 24 | PLAYER-FGA
+Taj Gibson | 13 | PLAYER-PTS
+Pau Gasol | 13 | PLAYER-PTS
+Aaron UNK | 17 | PLAYER-PTS
+
+Nikola | 15 | PLAYER-PTS
+Miami Heat | 6 | TEAM-WINS
+Miami Heat | 3 | TEAM-LOSSES
+Miami Heat | 92 | TEAM-PTS
+Utah Jazz | 4 | TEAM-WINS
+Utah Jazz | 4 | TEAM-LOSSES
+Utah Jazz | 91 | TEAM-PTS
+Bosh | 25 | PLAYER-PTS
+Rodney Hood | 10 | PLAYER-PTS
+Jazz | 4 | PLAYER-FGM
+Tyler Johnson | 17 | PLAYER-PTS
+
+Spurs | 40 | TEAM-WINS
+Spurs | 12 | TEAM-LOSSES
+San | 50 | TEAM-FG_PCT
+Leonard | 32 | PLAYER-PTS
+Tony Parker | 18 | PLAYER-PTS
+LaMarcus Aldridge | 15 | PLAYER-PTS
+Dario Saric | 20 | PLAYER-PTS
+Jahlil Okafor | 20 | PLAYER-PTS
+Robert Covington | 18 | PLAYER-PTS
+Nik Stauskas | 16 | PLAYER-PTS
+
+Nik Stauskas | 32 | PLAYER-MIN
+DeMarcus Cousins | 36 | PLAYER-PTS
+DeMarcus Cousins | 20 | PLAYER-REB
+DeMarcus Cousins | 24 | PLAYER-FGA
+Bradley Beal | 36 | PLAYER-PTS
+Bradley Beal | 24 | PLAYER-FGA
+John Wall | 19 | PLAYER-PTS
+Otto Porter | 25 | PLAYER-PTS
+Otto Porter | 15 | PLAYER-REB
+Marcin Gortat | 25 | PLAYER-PTS
+Marcin Gortat | 15 | PLAYER-REB
+Rudy Gay | 18 | PLAYER-PTS
+
+Orlando | 40 | TEAM-FG_PCT
+Orlando | 30 | TEAM-FG3_PCT
+Dennis | 18 | PLAYER-PTS
+Paul Millsap | 16 | PLAYER-PTS
+Dwight Howard | 13 | PLAYER-PTS
+Dwight Howard | 12 | PLAYER-REB
+Payton | 15 | PLAYER-PTS
+Aaron Gordon | 10 | PLAYER-REB
+
+Nikola Vucevic | 10 | PLAYER-PTS
+Miami Heat | 17 | TEAM-WINS
+Miami Heat | 21 | TEAM-LOSSES
+Los Angeles Lakers | 12 | TEAM-WINS
+Los Angeles Lakers | 27 | TEAM-LOSSES
+Heat | 42 | TEAM-FG_PCT
+Dwyane Wade | 14 | PLAYER-MIN
+Wade | 19 | PLAYER-PTS
+Wade | 16 | PLAYER-FGA
+Mario Chalmers | 19 | PLAYER-PTS
+Mario Chalmers | 16 | PLAYER-FGA
+Chris Bosh | 17 | PLAYER-FGA
+Hassan Whiteside | 15 | PLAYER-PTS
+Hassan Whiteside | 21 | PLAYER-MIN
+Kobe Bryant | 19 | PLAYER-FGA
+
+Ed Davis | 23 | PLAYER-MIN
+Los Angeles Lakers | 5 | TEAM-WINS
+Los Angeles Lakers | 13 | TEAM-LOSSES
+Detroit Pistons | 3 | TEAM-WINS
+Detroit Pistons | 15 | TEAM-LOSSES
+Kobe Bryant | 31 | PLAYER-PTS
+Bryant | 13 | PLAYER-REB
+Lakers | 37 | TEAM-FG_PCT
+Pistons | 37 | TEAM-FG_PCT
+
+
+Boston Celtics | 90 | TEAM-PTS
+Dallas Mavericks | 83 | TEAM-PTS
+Mavericks | 2 | TEAM-WINS
+Mavericks | 8 | TEAM-LOSSES
+Celtics | 6 | TEAM-WINS
+Celtics | 5 | TEAM-LOSSES
+Isaiah Thomas | 30 | PLAYER-PTS
+Barnes | 28 | PLAYER-PTS
+Matthews | 6 | PLAYER-FGM
+Matthews | 13 | PLAYER-FGA
+Matthews | 22 | PLAYER-PTS
+Barea | 28 | PLAYER-MIN
+Thomas | 30 | PLAYER-PTS
+Avery Bradley | 18 | PLAYER-PTS
+Avery Bradley | 13 | PLAYER-REB
+Kelly Olynyk | 29 | PLAYER-MIN
+Kelly Olynyk | 10 | PLAYER-PTS
+Al Horford | 29 | PLAYER-MIN
+
+Al Horford | 10 | PLAYER-PTS
+Dallas | 10 | TEAM-WINS
+Dallas | 23 | TEAM-LOSSES
+Harrison Barnes | 17 | PLAYER-FGA
+Harrison Barnes | 17 | PLAYER-PTS
+Wesley Matthews | 20 | PLAYER-PTS
+Devin Harris | 14 | PLAYER-PTS
+Dwight Powell | 14 | PLAYER-PTS
+Los Angeles | 12 | TEAM-WINS
+Los Angeles | 24 | TEAM-LOSSES
+Julius Randle | 18 | PLAYER-PTS
+Nick Young | 17 | PLAYER-PTS
+D'Angelo Russell | 15 | PLAYER-FGA
+D'Angelo Russell | 15 | PLAYER-PTS
+Jordan Clarkson | 25 | PLAYER-PTS
+
+Lou Williams | 25 | PLAYER-PTS
+Detroit Pistons | 4 | TEAM-WINS
+Detroit Pistons | 19 | TEAM-LOSSES
+Detroit Pistons | 105 | TEAM-PTS
+Phoenix Suns | 12 | TEAM-WINS
+Phoenix Suns | 12 | TEAM-LOSSES
+Phoenix Suns | 105 | TEAM-PTS
+Phoenix Suns | 103 | TEAM-PTS
+Andre Drummond | 23 | PLAYER-PTS
+Andre Drummond | 10 | PLAYER-FGM
+Andre Drummond | 14 | PLAYER-FGA
+Andre Drummond | 3 | PLAYER-FG3M
+Andre Drummond | 4 | PLAYER-FG3A
+Andre Drummond | 14 | PLAYER-REB
+Andre Drummond | 30 | PLAYER-MIN
+Josh Smith | 12 | PLAYER-PTS
+Josh Smith | 5 | PLAYER-FGM
+Josh Smith | 14 | PLAYER-FGA
+Josh Smith | 1 | PLAYER-FG3M
+Josh Smith | 4 | PLAYER-FG3A
+Josh Smith | 1 | PLAYER-FG3M
+Josh Smith | 4 | PLAYER-FTA
+Josh Smith | 11 | PLAYER-REB
+UNK Meeks | 4 | PLAYER-FGM
+UNK Meeks | 10 | PLAYER-FGA
+UNK Meeks | 4 | PLAYER-FG3M
+Goran Dragic | 18 | PLAYER-PTS
+Goran Dragic | 8 | PLAYER-FGM
+Goran Dragic | 12 | PLAYER-FGA
+Goran Dragic | 1 | PLAYER-FG3M
+Goran Dragic | 3 | PLAYER-FG3A
+Goran Dragic | 1 | PLAYER-FG3M
+Goran Dragic | 2 | PLAYER-FTA
+Tucker | 16 | PLAYER-PTS
+Tucker | 5 | PLAYER-FGM
+Tucker | 11 | PLAYER-FGA
+Tucker | 2 | PLAYER-FG3M
+Tucker | 4 | PLAYER-FG3A
+Isaiah Thomas | 28 | PLAYER-MIN
+Isaiah Thomas | 10 | PLAYER-PTS
+Isaiah Thomas | 3 | PLAYER-FGM
+Isaiah Thomas | 1 | PLAYER-FG3M
+Isaiah Thomas | 6 | PLAYER-FG3A
+
+Rockets | 30 | TEAM-WINS
+Rockets | 9 | TEAM-LOSSES
+James Harden | 40 | PLAYER-PTS
+Trevor Ariza | 17 | PLAYER-PTS
+Montrezl Harrell | 28 | PLAYER-PTS
+Montrezl Harrell | 13 | PLAYER-FGA
+Eric Gordon | 19 | PLAYER-PTS
+Raptors | 24 | TEAM-WINS
+Raptors | 13 | TEAM-LOSSES
+DeMar DeRozan | 36 | PLAYER-PTS
+
+DeMarre Carroll | 26 | PLAYER-PTS
+Dallas Mavericks | 48 | TEAM-WINS
+Dallas Mavericks | 31 | TEAM-LOSSES
+Denver Nuggets | 29 | TEAM-WINS
+Denver Nuggets | 50 | TEAM-LOSSES
+Dirk Nowitzki | 28 | PLAYER-MIN
+Dirk Nowitzki | 25 | PLAYER-PTS
+Dirk Nowitzki | 19 | PLAYER-FGA
+Dirk Nowitzki | 15 | PLAYER-FGA
+Richard Jefferson | 28 | PLAYER-MIN
+Richard Jefferson | 24 | PLAYER-PTS
+Richard Jefferson | 15 | PLAYER-FGA
+Richard Jefferson | 31 | PLAYER-MIN
+Devin Harris | 21 | PLAYER-PTS
+Devin Harris | 29 | PLAYER-MIN
+Danilo Gallinari | 47 | PLAYER-PTS
+Danilo Gallinari | 23 | PLAYER-FGA
+Danilo Gallinari | 46 | PLAYER-MIN
+Ty Lawson | 52 | PLAYER-MIN
+Ty Lawson | 19 | PLAYER-PTS
+Ty Lawson | 21 | PLAYER-FGA
+Wilson Chandler | 20 | PLAYER-PTS
+UNK UNK | 17 | PLAYER-PTS
+UNK UNK | 20 | PLAYER-MIN
+Kenneth Faried | 14 | PLAYER-PTS
+UNK | 20 | PLAYER-MIN
+
+Cleveland Cavaliers | 23 | TEAM-WINS
+Cleveland Cavaliers | 20 | TEAM-LOSSES
+Cleveland Cavaliers | 106 | TEAM-PTS
+Utah Jazz | 14 | TEAM-WINS
+Utah Jazz | 28 | TEAM-LOSSES
+Utah Jazz | 92 | TEAM-PTS
+Cavaliers | 52 | TEAM-FG_PCT
+LeBron James | 26 | PLAYER-PTS
+LeBron James | 8 | PLAYER-FGM
+LeBron James | 16 | PLAYER-FGA
+LeBron James | 0 | PLAYER-FG3M
+LeBron James | 2 | PLAYER-FG3A
+LeBron James | 10 | PLAYER-FG3M
+LeBron James | 14 | PLAYER-FTA
+Kevin Love | 19 | PLAYER-PTS
+Kevin Love | 7 | PLAYER-FGM
+Kevin Love | 15 | PLAYER-FGA
+Kevin Love | 1 | PLAYER-FG3M
+Kevin Love | 7 | PLAYER-FG3A
+Kevin Love | 4 | PLAYER-FG3M
+Kevin Love | 4 | PLAYER-FTA
+Kevin Love | 13 | PLAYER-REB
+Kyrie Irving | 18 | PLAYER-PTS
+Kyrie Irving | 8 | PLAYER-FGM
+Kyrie Irving | 13 | PLAYER-FGA
+Kyrie Irving | 2 | PLAYER-FG3M
+Kyrie Irving | 3 | PLAYER-FG3A
+Kyrie Irving | 0 | PLAYER-FG3M
+Kyrie Irving | 1 | PLAYER-FTA
+Kyrie Irving | 5 | PLAYER-FGM
+Kyrie Irving | 16 | PLAYER-FGA
+Kyrie Irving | 2 | PLAYER-FG3M
+Kyrie Irving | 11 | PLAYER-FG3A
+Kyrie Irving | 3 | PLAYER-FG3M
+Kyrie Irving | 4 | PLAYER-FTA
+Smith | 15 | PLAYER-PTS
+Smith | 5 | PLAYER-FGM
+Smith | 2 | PLAYER-FG3M
+Smith | 11 | PLAYER-FG3A
+Smith | 3 | PLAYER-FG3M
+Smith | 4 | PLAYER-FTA
+Enes Kanter | 24 | PLAYER-PTS
+Enes Kanter | 9 | PLAYER-FGM
+Enes Kanter | 20 | PLAYER-FGA
+Enes Kanter | 6 | PLAYER-FG3M
+Enes Kanter | 8 | PLAYER-FTA
+Enes Kanter | 17 | PLAYER-REB
+Gordon Hayward | 14 | PLAYER-PTS
+Gordon Hayward | 4 | PLAYER-FGM
+Gordon Hayward | 11 | PLAYER-FGA
+Gordon Hayward | 2 | PLAYER-FG3M
+Gordon Hayward | 4 | PLAYER-FG3A
+Gordon Hayward | 4 | PLAYER-FG3M
+Gordon Hayward | 4 | PLAYER-FTA
+UNK Millsap | 12 | PLAYER-PTS
+UNK Millsap | 4 | PLAYER-FGM
+UNK Millsap | 9 | PLAYER-FGA
+UNK Millsap | 2 | PLAYER-FG3M
+UNK Millsap | 5 | PLAYER-FG3A
+UNK Millsap | 2 | PLAYER-FG3M
+UNK Millsap | 2 | PLAYER-FTA
+UNK Millsap | 3 | PLAYER-FGM
+UNK Millsap | 4 | PLAYER-FGA
+UNK Millsap | 3 | PLAYER-FG3M
+UNK Millsap | 3 | PLAYER-FG3A
+UNK Millsap | 1 | PLAYER-FG3M
+UNK Millsap | 2 | PLAYER-FTA
+UNK Williams | 4 | PLAYER-FGM
+UNK Williams | 2 | PLAYER-FG3M
+UNK Williams | 10 | PLAYER-PTS
+UNK Williams | 3 | PLAYER-FGM
+UNK Williams | 4 | PLAYER-FGA
+UNK Williams | 3 | PLAYER-FG3M
+UNK Williams | 3 | PLAYER-FG3A
+UNK Williams | 1 | PLAYER-FG3M
+
+UNK Williams | 2 | PLAYER-FTA
+Cleveland Cavaliers | 128 | TEAM-PTS
+Houston Rockets | 120 | TEAM-PTS
+Cleveland | 4 | TEAM-WINS
+Cleveland | 0 | TEAM-LOSSES
+Rockets | 2 | TEAM-WINS
+Rockets | 2 | TEAM-LOSSES
+Eric Gordon | 16 | PLAYER-PTS
+Ryan Anderson | 12 | PLAYER-PTS
+Trevor Ariza | 11 | PLAYER-PTS
+Nene | 13 | PLAYER-PTS
+Kevin Love | 24 | PLAYER-PTS
+James | 19 | PLAYER-PTS
+James | 13 | PLAYER-REB
+Tristan Thompson | 10 | PLAYER-REB
+
+Miami Heat | 113 | TEAM-PTS
+Indiana Pacers | 95 | TEAM-PTS
+Heat | 27 | TEAM-WINS
+Heat | 32 | TEAM-LOSSES
+Pacers | 30 | TEAM-WINS
+Pacers | 29 | TEAM-LOSSES
+Myles Turner | 18 | PLAYER-PTS
+Jeff Teague | 16 | PLAYER-PTS
+Glenn Robinson III | 13 | PLAYER-PTS
+Rodney UNK | 12 | PLAYER-PTS
+Paul George | 10 | PLAYER-PTS
+Whiteside | 17 | PLAYER-REB
+Goran Dragic | 21 | PLAYER-PTS
+
+James Johnson | 15 | PLAYER-PTS
+San Antonio Spurs | 34 | TEAM-WINS
+San Antonio Spurs | 19 | TEAM-LOSSES
+San Antonio Spurs | 104 | TEAM-PTS
+Detroit Pistons | 21 | TEAM-WINS
+Detroit Pistons | 33 | TEAM-LOSSES
+Detroit Pistons | 87 | TEAM-PTS
+Pistons | 41 | TEAM-FG_PCT
+Green | 7 | PLAYER-FGM
+Green | 13 | PLAYER-FGA
+Green | 5 | PLAYER-FG3M
+Green | 10 | PLAYER-FGM
+Green | 19 | PLAYER-PTS
+Parker | 17 | PLAYER-PTS
+Parker | 6 | PLAYER-FGM
+Parker | 10 | PLAYER-FGA
+Parker | 5 | PLAYER-FG3M
+Parker | 5 | PLAYER-FTA
+Green | 17 | PLAYER-PTS
+Green | 6 | PLAYER-FGM
+Green | 10 | PLAYER-FGA
+Green | 5 | PLAYER-FG3M
+Augustin | 22 | PLAYER-PTS
+Augustin | 8 | PLAYER-FGM
+Augustin | 18 | PLAYER-FGA
+Augustin | 2 | PLAYER-FG3M
+Augustin | 6 | PLAYER-FG3A
+Augustin | 4 | PLAYER-FG3M
+Augustin | 4 | PLAYER-FTA
+Kentavious Caldwell-Pope | 20 | PLAYER-PTS
+Kentavious Caldwell-Pope | 7 | PLAYER-FGM
+Kentavious Caldwell-Pope | 14 | PLAYER-FGA
+Kentavious Caldwell-Pope | 2 | PLAYER-FG3M
+Kentavious Caldwell-Pope | 5 | PLAYER-FG3A
+Kentavious Caldwell-Pope | 4 | PLAYER-FG3M
+Kentavious Caldwell-Pope | 4 | PLAYER-FTA
+Andre Drummond | 10 | PLAYER-PTS
+Andre Drummond | 4 | PLAYER-FGM
+Andre Drummond | 10 | PLAYER-FGA
+Andre Drummond | 2 | PLAYER-FG3M
+
+Andre Drummond | 6 | PLAYER-FTA
+Golden State Warriors | 36 | TEAM-WINS
+Golden State Warriors | 7 | TEAM-LOSSES
+Chicago Bulls | 30 | TEAM-WINS
+Chicago Bulls | 17 | TEAM-LOSSES
+Derrick Rose | 30 | PLAYER-PTS
+Stephen Curry | 51 | PLAYER-PTS
+Klay Thompson | 51 | PLAYER-PTS
+
+
+Portland | 9 | TEAM-WINS
+Portland | 12 | TEAM-LOSSES
+Trail Blazers | 9 | TEAM-WINS
+Trail Blazers | 12 | TEAM-LOSSES
+Minnesota Timberwolves | 8 | TEAM-WINS
+Minnesota Timberwolves | 11 | TEAM-LOSSES
+Karl-Anthony Towns | 27 | PLAYER-PTS
+Andrew Wiggins | 15 | PLAYER-FGA
+Andrew Wiggins | 40 | PLAYER-MIN
+Andrew Wiggins | 17 | PLAYER-PTS
+UNK UNK | 15 | PLAYER-PTS
+UNK UNK | 24 | PLAYER-MIN
+Trail Blazers | 50 | TEAM-FG_PCT
+Damian Lillard | 19 | PLAYER-PTS
+Damian Lillard | 37 | PLAYER-MIN
+Ed Davis | 27 | PLAYER-MIN
+Ed Davis | 13 | PLAYER-PTS
+Al-Farouq Aminu | 16 | PLAYER-PTS
+
+Thunder | 12 | TEAM-WINS
+Thunder | 8 | TEAM-LOSSES
+Russell Westbrook | 14 | PLAYER-REB
+Victor Oladipo | 16 | PLAYER-FGA
+Victor Oladipo | 25 | PLAYER-PTS
+Wizards | 6 | TEAM-WINS
+Wizards | 11 | TEAM-LOSSES
+John Wall | 20 | PLAYER-FGA
+John Wall | 15 | PLAYER-PTS
+
+Andrew Wiggins | 29 | PLAYER-PTS
+
+Boston Celtics | 32 | TEAM-WINS
+Boston Celtics | 40 | TEAM-LOSSES
+New York Knicks | 14 | TEAM-WINS
+New York Knicks | 59 | TEAM-LOSSES
+Thomas | 18 | PLAYER-PTS
+
+Timberwolves | 1 | TEAM-WINS
+Timberwolves | 5 | TEAM-LOSSES
+Nets | 3 | TEAM-WINS
+Nets | 4 | TEAM-LOSSES
+Brooklyn | 119 | PLAYER-PTS
+Wiggins | 29 | PLAYER-FGA
+Karl-Anthony Towns | 21 | PLAYER-PTS
+Zach LaVine | 17 | PLAYER-PTS
+Zach LaVine | 16 | PLAYER-MIN
+Kris UNK | 16 | PLAYER-MIN
+Brook Lopez | 26 | PLAYER-PTS
+Trevor Booker | 15 | PLAYER-PTS
+Bojan Bogdanovic | 13 | PLAYER-PTS
+Rondae Hollis-Jefferson | 13 | PLAYER-PTS
+
+Sean Kilpatrick | 14 | PLAYER-PTS
+Westbrook | 31 | PLAYER-PTS
+Westbrook | 15 | PLAYER-FGM
+Westbrook | 11 | PLAYER-REB
+Westbrook | 13 | PLAYER-FGM
+Westbrook | 34 | PLAYER-FGA
+Westbrook | 40 | PLAYER-MIN
+Teague | 30 | PLAYER-PTS
+Teague | 9 | PLAYER-FGM
+Teague | 16 | PLAYER-FGA
+Teague | 9 | PLAYER-FGM
+
+Westbrook | 46 | PLAYER-PTS
+Westbrook | 11 | PLAYER-REB
+
+Dallas Mavericks | 15 | TEAM-WINS
+Dallas Mavericks | 5 | TEAM-LOSSES
+Dallas Mavericks | 107 | TEAM-PTS
+Milwaukee Bucks | 10 | TEAM-WINS
+Milwaukee Bucks | 10 | TEAM-LOSSES
+Milwaukee Bucks | 105 | TEAM-PTS
+Ellis | 11 | PLAYER-FGM
+Tyson Chandler | 18 | PLAYER-PTS
+Tyson Chandler | 8 | PLAYER-FGM
+Tyson Chandler | 11 | PLAYER-FGA
+Tyson Chandler | 2 | PLAYER-FG3M
+Tyson Chandler | 6 | PLAYER-FTA
+Tyson Chandler | 20 | PLAYER-REB
+Bucks | 52 | TEAM-FG_PCT
+Bucks | 64 | TEAM-FG3_PCT
+Brandon Knight | 25 | PLAYER-PTS
+Brandon Knight | 8 | PLAYER-FGM
+Brandon Knight | 16 | PLAYER-FGA
+Brandon Knight | 2 | PLAYER-FG3M
+Brandon Knight | 5 | PLAYER-FG3A
+Brandon Knight | 7 | PLAYER-FG3M
+Brandon Knight | 7 | PLAYER-FTA
+Khris Middleton | 30 | PLAYER-MIN
+
+San Antonio Spurs | 27 | TEAM-WINS
+San Antonio Spurs | 6 | TEAM-LOSSES
+San Antonio Spurs | 101 | TEAM-PTS
+San Antonio | 101 | TEAM-PTS
+Minnesota Timberwolves | 11 | TEAM-WINS
+Minnesota Timberwolves | 20 | TEAM-LOSSES
+Minnesota Timberwolves | 95 | TEAM-PTS
+Kawhi Leonard | 37 | PLAYER-MIN
+UNK | 15 | PLAYER-MIN
+UNK | 17 | PLAYER-PTS
+Manu Ginobili | 13 | PLAYER-PTS
+Manu Ginobili | 12 | PLAYER-PTS
+Tony Parker | 12 | PLAYER-PTS
+David West | 11 | PLAYER-PTS
+Patty Mills | 11 | PLAYER-PTS
+Andrew Wiggins | 18 | PLAYER-PTS
+Andrew Wiggins | 37 | PLAYER-MIN
+Karl-Anthony Towns | 31 | PLAYER-MIN
+Karl-Anthony Towns | 10 | PLAYER-PTS
+Karl-Anthony Towns | 12 | PLAYER-REB
+Ricky Rubio | 2 | PLAYER-FGM
+Ricky Rubio | 9 | PLAYER-FGA
+
+Brooklyn Nets | 5 | TEAM-WINS
+Brooklyn Nets | 7 | TEAM-LOSSES
+Brooklyn Nets | 94 | TEAM-PTS
+Oklahoma City Thunder | 3 | TEAM-WINS
+Oklahoma City Thunder | 11 | TEAM-LOSSES
+Oklahoma City Thunder | 92 | TEAM-PTS
+UNK | 22 | PLAYER-MIN
+
+Lamb | 17 | PLAYER-MIN
+Memphis Grizzlies | 19 | TEAM-WINS
+Memphis Grizzlies | 17 | TEAM-LOSSES
+Memphis Grizzlies | 91 | TEAM-PTS
+Portland | 15 | TEAM-WINS
+Portland | 22 | TEAM-LOSSES
+Portland | 91 | TEAM-PTS
+Portland | 78 | TEAM-PTS
+Trail Blazers | 15 | TEAM-WINS
+Trail Blazers | 22 | TEAM-LOSSES
+Trail Blazers | 78 | TEAM-PTS
+Allen Crabbe | 16 | PLAYER-PTS
+McCollum | 16 | PLAYER-PTS
+Al-Farouq Aminu | 15 | PLAYER-PTS
+Al-Farouq Aminu | 14 | PLAYER-REB
+Los Angeles Clippers | 22 | TEAM-WINS
+Los Angeles Clippers | 13 | TEAM-LOSSES
+Mike Conley | 41 | PLAYER-MIN
+Zach Randolph | 31 | PLAYER-MIN
+Zach Randolph | 26 | PLAYER-PTS
+Zach Randolph | 18 | PLAYER-REB
+Jeff Green | 17 | PLAYER-FGA
+Conley | 26 | PLAYER-MIN
+Oklahoma City Thunder | 24 | TEAM-WINS
+
+Oklahoma City Thunder | 11 | TEAM-LOSSES
+San Antonio Spurs | 41 | TEAM-WINS
+San Antonio Spurs | 8 | TEAM-LOSSES
+New Orleans Pelicans | 18 | TEAM-WINS
+New Orleans Pelicans | 30 | TEAM-LOSSES
+Spurs | 52 | TEAM-FG_PCT
+Davis | 28 | PLAYER-PTS
+Ryan Anderson | 20 | PLAYER-PTS
+Jrue Holiday | 20 | PLAYER-PTS
+LaMarcus Aldridge | 36 | PLAYER-PTS
+Kawhi Leonard | 26 | PLAYER-PTS
+Danny Green | 30 | PLAYER-PTS
+
+Houston Rockets | 132 | TEAM-PTS
+Golden State Warriors | UNK | TEAM-PTS
+Warriors | 16 | TEAM-WINS
+Warriors | 3 | TEAM-LOSSES
+Rockets | 12 | TEAM-WINS
+Rockets | 7 | TEAM-LOSSES
+Harden | 29 | PLAYER-PTS
+Harden | 15 | PLAYER-REB
+Harden | 13 | PLAYER-FGM
+Harden | 8 | PLAYER-FGM
+Harden | 23 | PLAYER-FGA
+Harden | 11 | PLAYER-FGM
+Ryan Anderson | 29 | PLAYER-PTS
+Ryan Anderson | 20 | PLAYER-PTS
+Ryan Anderson | 23 | PLAYER-PTS
+Eric Gordon | 20 | PLAYER-PTS
+Eric Gordon | 23 | PLAYER-PTS
+UNK | 10 | PLAYER-PTS
+Durant | 39 | PLAYER-PTS
+Durant | 13 | PLAYER-REB
+Stephen Curry | 28 | PLAYER-PTS
+Stephen Curry | 22 | PLAYER-FGA
+Stephen Curry | 20 | PLAYER-PTS
+Draymond Green | 20 | PLAYER-PTS
+
+Brooklyn Nets | 35 | TEAM-WINS
+Brooklyn Nets | 40 | TEAM-LOSSES
+Brooklyn Nets | 114 | TEAM-PTS
+Toronto Raptors | 45 | TEAM-WINS
+Toronto Raptors | 31 | TEAM-LOSSES
+Toronto Raptors | 109 | TEAM-PTS
+Brook Lopez | 17 | PLAYER-REB
+Brook Lopez | 10 | PLAYER-REB
+Brook Lopez | 30 | PLAYER-PTS
+Brook Lopez | 44 | PLAYER-MIN
+Thaddeus Young | 29 | PLAYER-PTS
+Thaddeus Young | 37 | PLAYER-MIN
+DeMar DeRozan | 27 | PLAYER-PTS
+DeMar DeRozan | 41 | PLAYER-MIN
+Lou Williams | 23 | PLAYER-PTS
+Lou Williams | 33 | PLAYER-MIN
+
+Jonas Valanciunas | 21 | PLAYER-PTS
+Atlanta Hawks | 107 | TEAM-PTS
+New York Knicks | 107 | TEAM-PTS
+Atlanta | 24 | TEAM-WINS
+Atlanta | 17 | TEAM-LOSSES
+Knicks | 18 | TEAM-WINS
+Knicks | 24 | TEAM-LOSSES
+Schroder | 28 | PLAYER-PTS
+Millsap | 17 | PLAYER-PTS
+Kent Bazemore | 16 | PLAYER-PTS
+Kris Humphries | 14 | PLAYER-PTS
+Carmelo Anthony | 30 | PLAYER-PTS
+Derrick Rose | 18 | PLAYER-PTS
+UNK | 14 | PLAYER-PTS
+
+Justin Holiday | 11 | PLAYER-PTS
+Dallas Mavericks | 47 | TEAM-WINS
+Dallas Mavericks | 31 | TEAM-LOSSES
+Dallas Mavericks | 107 | TEAM-PTS
+Dallas | 107 | TEAM-PTS
+Phoenix Suns | 39 | TEAM-WINS
+Phoenix Suns | 40 | TEAM-LOSSES
+Phoenix Suns | 104 | TEAM-PTS
+Dirk Nowitzki | 19 | PLAYER-PTS
+Dirk Nowitzki | 7 | PLAYER-FGM
+Dirk Nowitzki | 15 | PLAYER-FGA
+Dirk Nowitzki | 1 | PLAYER-FG3M
+Dirk Nowitzki | 4 | PLAYER-FG3A
+Tyson Chandler | 12 | PLAYER-PTS
+Tyson Chandler | 5 | PLAYER-FGM
+Tyson Chandler | 9 | PLAYER-FGA
+Tyson Chandler | 34 | PLAYER-MIN
+Monta Ellis | 20 | PLAYER-PTS
+Monta Ellis | 10 | PLAYER-FGM
+Monta Ellis | 21 | PLAYER-FGA
+Rajon Rondo | 12 | PLAYER-PTS
+Rajon Rondo | 6 | PLAYER-FGM
+Rajon Rondo | 9 | PLAYER-FGA
+Rajon Rondo | 30 | PLAYER-MIN
+Devin Harris | 12 | PLAYER-PTS
+Devin Harris | 5 | PLAYER-FGM
+Devin Harris | 9 | PLAYER-FGA
+UNK | 10 | PLAYER-PTS
+Gerald Green | 30 | PLAYER-PTS
+Gerald Green | 10 | PLAYER-FGM
+Gerald Green | 19 | PLAYER-FGA
+Gerald Green | 5 | PLAYER-FG3M
+Gerald Green | 10 | PLAYER-FG3A
+Gerald Green | 5 | PLAYER-FG3M
+Gerald Green | 5 | PLAYER-FTA
+Gerald Green | 30 | PLAYER-MIN
+Markieff | 5 | PLAYER-FGM
+Markieff | 7 | PLAYER-FGA
+Markieff | 1 | PLAYER-FG3M
+Markieff | 3 | PLAYER-FG3A
+Eric Bledsoe | 14 | PLAYER-PTS
+Eric Bledsoe | 5 | PLAYER-FGM
+Eric Bledsoe | 7 | PLAYER-FGA
+Eric Bledsoe | 1 | PLAYER-FG3M
+Eric Bledsoe | 3 | PLAYER-FG3A
+
+Washington Wizards | 11 | TEAM-WINS
+Washington Wizards | 5 | TEAM-LOSSES
+Washington Wizards | 107 | TEAM-PTS
+Washington | 107 | TEAM-PTS
+Miami Heat | 9 | TEAM-WINS
+Miami Heat | 8 | TEAM-LOSSES
+Miami Heat | 86 | TEAM-PTS
+John Wall | 18 | PLAYER-PTS
+Marcin Gortat | 15 | PLAYER-PTS
+Marcin Gortat | 10 | PLAYER-REB
+Bosh | 21 | PLAYER-PTS
+Bosh | 9 | PLAYER-FGM
+Bosh | 14 | PLAYER-FGA
+Bosh | 1 | PLAYER-FG3M
+Bosh | 3 | PLAYER-FG3A
+Bosh | 2 | PLAYER-FG3M
+Bosh | 5 | PLAYER-FTA
+Wade | 13 | PLAYER-FGA
+Wade | 20 | PLAYER-PTS
+Mario Chalmers | 11 | PLAYER-PTS
+
+Mario Chalmers | 30 | PLAYER-MIN
+Indiana Pacers | 39 | TEAM-WINS
+Indiana Pacers | 34 | TEAM-LOSSES
+Houston Rockets | 36 | TEAM-WINS
+Houston Rockets | 38 | TEAM-LOSSES
+Myles Turner | 11 | PLAYER-REB
+Myles Turner | 19 | PLAYER-PTS
+Myles Turner | 8 | PLAYER-FGM
+Myles Turner | 12 | PLAYER-FGA
+James Harden | 34 | PLAYER-PTS
+
+Chicago Bulls | 21 | TEAM-WINS
+Chicago Bulls | 12 | TEAM-LOSSES
+Milwaukee Bucks | 14 | TEAM-WINS
+Milwaukee Bucks | 23 | TEAM-LOSSES
+Jimmy Butler | 32 | PLAYER-PTS
+Jimmy Butler | 10 | PLAYER-FGA
+Jimmy Butler | 26 | PLAYER-PTS
+Pau Gasol | 26 | PLAYER-PTS
+Taj Gibson | 14 | PLAYER-REB
+Khris Middleton | 26 | PLAYER-PTS
+Khris Middleton | 14 | PLAYER-FGA
+Khris Middleton | 20 | PLAYER-PTS
+Michael Carter-Williams | 14 | PLAYER-FGA
+Michael Carter-Williams | 20 | PLAYER-PTS
+Jabari | 12 | PLAYER-REB
+Greg Monroe | 18 | TEAM-LOSSES
+Greg Monroe | 13 | PLAYER-PTS
+
+Greg Monroe | 12 | PLAYER-REB
+Andrew Wiggins | 56 | PLAYER-PTS
+Karl-Anthony Towns | 56 | PLAYER-PTS
+Wiggins | 29 | PLAYER-PTS
+Zach LaVine | 17 | PLAYER-PTS
+Kemba Walker | 22 | PLAYER-PTS
+Frank Kaminsky | 21 | PLAYER-PTS
+Marvin Williams | 21 | PLAYER-PTS
+Michael Kidd-Gilchrist | 15 | PLAYER-PTS
+Nicolas Batum | 15 | PLAYER-PTS
+
+Marco Belinelli | 15 | PLAYER-PTS
+Atlanta Hawks | 13 | TEAM-WINS
+Atlanta Hawks | 9 | TEAM-LOSSES
+Atlanta Hawks | 100 | TEAM-PTS
+Los Angeles Lakers | 3 | TEAM-WINS
+Los Angeles Lakers | 16 | TEAM-LOSSES
+Los Angeles Lakers | 100 | TEAM-PTS
+Hawks | 37 | TEAM-FG_PCT
+Lakers | 37 | TEAM-FG_PCT
+Horford | 16 | PLAYER-PTS
+Horford | 6 | PLAYER-FGM
+Horford | 11 | PLAYER-FGA
+Paul Millsap | 15 | PLAYER-PTS
+Kent Bazemore | 15 | PLAYER-PTS
+Kent Bazemore | 25 | PLAYER-MIN
+D'Angelo Russell | 16 | PLAYER-PTS
+D'Angelo Russell | 10 | PLAYER-REB
+Lou Williams | 30 | PLAYER-MIN
+Lou Williams | 18 | PLAYER-PTS
+Lou Williams | 6 | PLAYER-FGM
+Lou Williams | 13 | PLAYER-FGA
+Kobe Bryant | 14 | PLAYER-PTS
+Kobe Bryant | 4 | PLAYER-FGM
+Kobe Bryant | 19 | PLAYER-FGA
+Washington | 14 | PLAYER-PTS
+
+Denver Nuggets | 29 | TEAM-WINS
+Denver Nuggets | 41 | TEAM-LOSSES
+Denver Nuggets | 101 | TEAM-PTS
+Charlotte Hornets | 39 | TEAM-WINS
+Charlotte Hornets | 30 | TEAM-LOSSES
+Charlotte Hornets | 93 | TEAM-PTS
+Augustin | 24 | PLAYER-PTS
+Augustin | 8 | PLAYER-FGM
+Augustin | 11 | PLAYER-FGA
+Augustin | 3 | PLAYER-FG3M
+Augustin | 5 | PLAYER-FG3A
+Augustin | 5 | PLAYER-FG3M
+Augustin | 7 | PLAYER-FTA
+Augustin | 23 | PLAYER-MIN
+Nikola Jokic | 11 | PLAYER-PTS
+Nikola Jokic | 14 | PLAYER-REB
+Nikola Jokic | 25 | PLAYER-MIN
+Emmanuel Mudiay | 11 | PLAYER-PTS
+Emmanuel Mudiay | 34 | PLAYER-MIN
+Cody Zeller | 10 | PLAYER-PTS
+Cody Zeller | 29 | PLAYER-MIN
+Nicolas Batum | 40 | PLAYER-MIN
+Nicolas Batum | 24 | PLAYER-PTS
+Nicolas Batum | 9 | PLAYER-FGM
+Nicolas Batum | 18 | PLAYER-FGA
+Nicolas Batum | 5 | PLAYER-FG3M
+Nicolas Batum | 10 | PLAYER-FG3A
+Nicolas Batum | 1 | PLAYER-FG3M
+Nicolas Batum | 2 | PLAYER-FTA
+Nicolas Batum | 36 | PLAYER-MIN
+Kemba Walker | 9 | PLAYER-FGM
+Kemba Walker | 18 | PLAYER-FGA
+Kemba Walker | 15 | PLAYER-PTS
+Hornets | 42 | TEAM-FG_PCT
+
+Boston Celtics | 21 | TEAM-WINS
+Boston Celtics | 19 | TEAM-LOSSES
+Boston Celtics | 117 | TEAM-PTS
+Phoenix Suns | 13 | TEAM-WINS
+Phoenix Suns | 28 | TEAM-LOSSES
+Phoenix Suns | 103 | TEAM-PTS
+Brandon Knight | 16 | PLAYER-PTS
+Kelly Olynyk | 21 | PLAYER-PTS
+Isaiah Thomas | 19 | PLAYER-PTS
+Amir Johnson | 13 | PLAYER-PTS
+Amir Johnson | 10 | PLAYER-PTS
+Amir Johnson | 11 | PLAYER-REB
+Smart | 10 | PLAYER-PTS
+Smart | 11 | PLAYER-REB
+
+Lou Williams | 27 | PLAYER-PTS
+D'Angelo Russell | 17 | PLAYER-PTS
+UNK UNK | 23 | PLAYER-PTS
+Hassan Whiteside | 23 | PLAYER-PTS
+Hassan Whiteside | 13 | PLAYER-REB
+Goran Dragic | 21 | PLAYER-PTS
+
+James Johnson | 19 | PLAYER-PTS
+Wizards | 15 | TEAM-WINS
+Wizards | 16 | TEAM-LOSSES
+Pacers | 15 | TEAM-WINS
+Pacers | 18 | TEAM-LOSSES
+John Wall | 36 | PLAYER-PTS
+George | 34 | PLAYER-PTS
+George | 20 | PLAYER-FGA
+Jeff Teague | 19 | PLAYER-PTS
+Myles Turner | 15 | PLAYER-PTS
+Miles | 15 | PLAYER-PTS
+Porter | 22 | PLAYER-PTS
+Marcin Gortat | 13 | PLAYER-PTS
+Marcin Gortat | 16 | PLAYER-REB
+
+Bradley Beal | 18 | PLAYER-MIN
+Golden State Warriors | 105 | TEAM-PTS
+Atlanta Hawks | 105 | TEAM-PTS
+Golden State | 16 | TEAM-WINS
+Golden State | 2 | TEAM-LOSSES
+Kevin Durant | 25 | PLAYER-PTS
+Kevin Durant | 14 | PLAYER-REB
+Atlanta | 10 | TEAM-WINS
+Atlanta | 8 | TEAM-LOSSES
+Golden State | 12 | PLAYER-PTS
+Golden State | 34 | TEAM-FG_PCT
+Hawks | 5 | PLAYER-FGM
+Howard | 14 | PLAYER-PTS
+Howard | 5 | PLAYER-FGM
+
+Howard | 8 | PLAYER-FGA
+Sacramento Kings | 13 | TEAM-WINS
+Sacramento Kings | 17 | TEAM-LOSSES
+Sacramento Kings | 135 | TEAM-PTS
+New York Knicks | 5 | TEAM-WINS
+New York Knicks | 27 | TEAM-LOSSES
+New York Knicks | 135 | TEAM-PTS
+New York Knicks | 129 | TEAM-PTS
+DeMarcus Cousins | 32 | PLAYER-MIN
+DeMarcus Cousins | 39 | PLAYER-PTS
+Gay | 29 | PLAYER-PTS
+Gay | 27 | PLAYER-PTS
+Gay | 10 | PLAYER-REB
+Collison | 27 | PLAYER-PTS
+Kings | 55 | TEAM-FG_PCT
+Carmelo Anthony | 36 | PLAYER-PTS
+Carmelo Anthony | 11 | PLAYER-REB
+
+Carmelo Anthony | 46 | PLAYER-MIN
+Los Angeles Lakers | 122 | TEAM-PTS
+Milwaukee Bucks | 114 | TEAM-PTS
+Lakers | 19 | TEAM-WINS
+Lakers | 37 | TEAM-LOSSES
+Los Angeles | 52 | TEAM-FG_PCT
+Los Angeles | 50 | TEAM-FG_PCT
+Los Angeles | 58 | PLAYER-PTS
+Young | 26 | PLAYER-PTS
+Lou Williams | 21 | PLAYER-PTS
+Julius Randle | 15 | PLAYER-PTS
+Russell | 14 | PLAYER-PTS
+UNK UNK | 15 | PLAYER-PTS
+Malcolm Brogdon | 18 | PLAYER-PTS
+Michael Beasley | 15 | PLAYER-PTS
+
+Blazers | 63 | TEAM-FG_PCT
+Blazers | 50 | TEAM-FG3_PCT
+Damian Lillard | 21 | PLAYER-PTS
+Jusuf Nurkic | 14 | PLAYER-PTS
+Allen Crabbe | 10 | PLAYER-PTS
+Andrew Wiggins | 20 | PLAYER-PTS
+Kris UNK | 17 | PLAYER-PTS
+UNK UNK | 13 | PLAYER-PTS
+
+Davis | 30 | PLAYER-PTS
+Davis | 11 | PLAYER-FGM
+Davis | 21 | PLAYER-FGA
+Davis | 29 | PLAYER-PTS
+Davis | 52 | TEAM-FG_PCT
+Davis | 12 | PLAYER-REB
+Davis | 28 | PLAYER-PTS
+Davis | 12 | PLAYER-REB
+
+Dallas | 17 | TEAM-WINS
+Dallas | 30 | TEAM-LOSSES
+Seth Curry | 24 | PLAYER-PTS
+Dirk Nowitzki | 15 | PLAYER-PTS
+San Antonio | 36 | TEAM-WINS
+San Antonio | 11 | TEAM-LOSSES
+Kawhi Leonard | 24 | PLAYER-PTS
+
+Charlotte Hornets | 26 | TEAM-WINS
+Charlotte Hornets | 26 | TEAM-LOSSES
+Chicago Bulls | 27 | TEAM-WINS
+Chicago Bulls | 24 | TEAM-LOSSES
+Chicago Bulls | 108 | TEAM-PTS
+Kemba Walker | 30 | PLAYER-PTS
+Kemba Walker | 8 | PLAYER-FGM
+Kemba Walker | 19 | PLAYER-FGA
+Kemba Walker | 4 | PLAYER-FG3M
+Kemba Walker | 9 | PLAYER-FG3A
+Kemba Walker | 10 | PLAYER-FG3M
+Kemba Walker | 13 | PLAYER-FTA
+Nicolas Batum | 19 | PLAYER-PTS
+Nicolas Batum | 8 | PLAYER-FGM
+Nicolas Batum | 13 | PLAYER-FGA
+Nicolas Batum | 3 | PLAYER-FG3M
+Nicolas Batum | 6 | PLAYER-FG3A
+Nicolas Batum | 13 | PLAYER-REB
+Michael Kidd-Gilchrist | 20 | PLAYER-PTS
+Pau Gasol | 10 | PLAYER-FGA
+Pau Gasol | 22 | PLAYER-PTS
+Pau Gasol | 10 | PLAYER-REB
+UNK McDermott | 14 | PLAYER-PTS
+UNK McDermott | 6 | PLAYER-FGM
+UNK McDermott | 11 | PLAYER-FGA
+
+Charlotte Hornets | 21 | TEAM-WINS
+Charlotte Hornets | 27 | TEAM-LOSSES
+Charlotte Hornets | 92 | TEAM-PTS
+Washington | 21 | TEAM-WINS
+Washington | 92 | TEAM-PTS
+Washington Wizards | 31 | TEAM-WINS
+Washington Wizards | 18 | TEAM-LOSSES
+Washington Wizards | 88 | TEAM-PTS
+Hornets | 47 | TEAM-FG_PCT
+Al Jefferson | 9 | PLAYER-FGM
+Al Jefferson | 18 | PLAYER-PTS
+Brian Roberts | 18 | PLAYER-PTS
+Brian Roberts | 6 | PLAYER-FGM
+Brian Roberts | 10 | PLAYER-FGA
+Brian Roberts | 1 | PLAYER-FG3M
+Brian Roberts | 3 | PLAYER-FG3A
+Brian Roberts | 5 | PLAYER-FG3M
+Brian Roberts | 5 | PLAYER-FTA
+Brian Roberts | 34 | PLAYER-MIN
+Kemba Walker | 6 | PLAYER-FGM
+Kemba Walker | 10 | PLAYER-FGA
+Gerald Henderson | 17 | PLAYER-PTS
+Gerald Henderson | 6 | PLAYER-FGM
+Gerald Henderson | 13 | PLAYER-FGA
+Gerald Henderson | 1 | PLAYER-FG3M
+Gerald Henderson | 2 | PLAYER-FG3A
+Gerald Henderson | 4 | PLAYER-FG3M
+Gerald Henderson | 4 | PLAYER-FTA
+Michael Kidd-Gilchrist | 13 | PLAYER-PTS
+Michael Kidd-Gilchrist | 4 | PLAYER-FGM
+Michael Kidd-Gilchrist | 6 | PLAYER-FGA
+Michael Kidd-Gilchrist | 5 | PLAYER-FG3M
+Michael Kidd-Gilchrist | 10 | PLAYER-FTA
+Michael Kidd-Gilchrist | 13 | PLAYER-REB
+Beal | 18 | PLAYER-PTS
+Beal | 7 | PLAYER-FGM
+Beal | 16 | PLAYER-FGA
+Beal | 2 | PLAYER-FG3M
+Beal | 4 | PLAYER-FG3A
+Beal | 2 | PLAYER-FG3M
+Beal | 2 | PLAYER-FTA
+Wall | 7 | PLAYER-FGM
+Wall | 2 | PLAYER-FG3M
+Wall | 4 | PLAYER-FG3A
+Wall | 2 | PLAYER-FG3M
+Wall | 2 | PLAYER-FTA
+Wall | 16 | PLAYER-PTS
+Wall | 4 | PLAYER-FGM
+Wall | 14 | PLAYER-FGA
+Wall | 1 | PLAYER-FG3M
+Wall | 4 | PLAYER-FG3A
+Wall | 7 | PLAYER-FG3M
+Wall | 7 | PLAYER-FTA
+Beal | 44 | PLAYER-PTS
+Beal | 14 | PLAYER-REB
+Kris Humphries | 13 | PLAYER-PTS
+Kris Humphries | 4 | PLAYER-FGM
+Kris Humphries | 8 | PLAYER-FGA
+Kris Humphries | 5 | PLAYER-FG3M
+Kris Humphries | 6 | PLAYER-FTA
+
+Kris Humphries | 25 | PLAYER-MIN
+Milwaukee Bucks | 9 | TEAM-WINS
+Milwaukee Bucks | 13 | TEAM-LOSSES
+Portland | 9 | TEAM-WINS
+Portland | 13 | TEAM-LOSSES
+Trail Blazers | 9 | TEAM-WINS
+Trail Blazers | 13 | TEAM-LOSSES
+Monroe | 16 | PLAYER-PTS
+Monroe | 27 | PLAYER-MIN
+Antetokounmpo | 31 | PLAYER-MIN
+Antetokounmpo | 17 | PLAYER-PTS
+Monroe | 31 | PLAYER-MIN
+Damian Lillard | 38 | PLAYER-MIN
+Damian Lillard | 23 | PLAYER-PTS
+McCollum | 36 | PLAYER-MIN
+
+Timberwolves | 24 | TEAM-WINS
+Timberwolves | 36 | TEAM-LOSSES
+Kings | 22 | TEAM-WINS
+Kings | 35 | TEAM-LOSSES
+Minnesota | 40 | PLAYER-PTS
+Andrew Wiggins | 56 | PLAYER-PTS
+Karl-Anthony Towns | 56 | PLAYER-PTS
+Wiggins | 22 | PLAYER-FGA
+Wiggins | 27 | PLAYER-PTS
+Wiggins | 29 | PLAYER-PTS
+Wiggins | 17 | PLAYER-REB
+Towns | 29 | PLAYER-PTS
+Towns | 17 | PLAYER-REB
+Kosta Koufos | 14 | PLAYER-PTS
+Ben McLemore | 14 | PLAYER-PTS
+UNK UNK | 14 | PLAYER-PTS
+
+Koufos | 14 | PLAYER-PTS
+Oklahoma City Thunder | 29 | TEAM-WINS
+Oklahoma City Thunder | 12 | TEAM-LOSSES
+Minnesota Timberwolves | 12 | TEAM-WINS
+Minnesota Timberwolves | 29 | TEAM-LOSSES
+Andrew Wiggins | 25 | PLAYER-PTS
+Kevin Durant | 21 | PLAYER-PTS
+
+Dion Waiters | 20 | PLAYER-PTS
+Milwaukee Bucks | 12 | TEAM-WINS
+Milwaukee Bucks | 18 | TEAM-LOSSES
+Philadelphia 76ers | 1 | TEAM-WINS
+Philadelphia 76ers | 30 | TEAM-LOSSES
+Antetokounmpo | 23 | PLAYER-PTS
+Antetokounmpo | 13 | PLAYER-FGA
+Jabari Parker | 30 | PLAYER-MIN
+Jabari Parker | 16 | PLAYER-PTS
+Michael Carter-Williams | 18 | PLAYER-PTS
+Michael Carter-Williams | 13 | PLAYER-FGA
+Bucks | 60 | TEAM-FG_PCT
+Bucks | 41 | TEAM-FG3_PCT
+Jahlil Okafor | 17 | PLAYER-PTS
+Jahlil Okafor | 16 | PLAYER-FGA
+Hollis Thompson | 31 | PLAYER-MIN
+Hollis Thompson | 16 | PLAYER-PTS
+Nerlens Noel | 27 | PLAYER-MIN
+
+Austin Rivers | 28 | PLAYER-PTS
+Rivers | 44 | PLAYER-MIN
+Raymond Felton | 11 | PLAYER-PTS
+DeAndre Jordan | 18 | PLAYER-PTS
+DeAndre Jordan | 7 | PLAYER-FGM
+Jamal Crawford | 22 | PLAYER-PTS
+Marc Gasol | 23 | PLAYER-PTS
+Marc Gasol | 9 | PLAYER-FGM
+Marc Gasol | 16 | PLAYER-FGA
+
+Indiana Pacers | 11 | TEAM-WINS
+Indiana Pacers | 5 | TEAM-LOSSES
+Indiana Pacers | 107 | TEAM-PTS
+Los Angeles Lakers | 2 | TEAM-WINS
+Los Angeles Lakers | 14 | TEAM-LOSSES
+Los Angeles Lakers | 107 | TEAM-PTS
+Los Angeles Lakers | 103 | TEAM-PTS
+Hill | 11 | PLAYER-PTS
+Hill | 15 | PLAYER-PTS
+Ellis | 15 | PLAYER-PTS
+Miles | 9 | PLAYER-PTS
+Rodney UNK | 11 | PLAYER-PTS
+Jordan Clarkson | 22 | PLAYER-PTS
+Jordan Clarkson | 10 | PLAYER-REB
+Julius Randle | 11 | PLAYER-PTS
+Julius Randle | 12 | PLAYER-REB
+D'Angelo Russell | 8 | PLAYER-PTS
+D'Angelo Russell | 4 | PLAYER-FGM
+D'Angelo Russell | 11 | PLAYER-FGA
+Nick Young | 22 | PLAYER-PTS
+Clarkson | 22 | PLAYER-PTS
+
+Toronto Raptors | 51 | TEAM-WINS
+Toronto Raptors | 24 | TEAM-LOSSES
+Memphis Grizzlies | 41 | TEAM-WINS
+Memphis Grizzlies | 35 | TEAM-LOSSES
+DeRozan | 27 | PLAYER-PTS
+Jonas Valanciunas | 14 | PLAYER-PTS
+Zach Randolph | 16 | PLAYER-PTS
+Zach Randolph | 6 | PLAYER-FGM
+
+Zach Randolph | 18 | PLAYER-FGA
+New York Knicks | 18 | TEAM-WINS
+New York Knicks | 19 | TEAM-LOSSES
+Miami Heat | 21 | TEAM-WINS
+Miami Heat | 14 | TEAM-LOSSES
+Atlanta | 25 | PLAYER-PTS
+Robin Lopez | 19 | PLAYER-PTS
+Chris Bosh | 28 | PLAYER-PTS
+New York | 28 | PLAYER-PTS
+
+Clippers | 2 | TEAM-WINS
+Clippers | 0 | TEAM-LOSSES
+Jazz | 1 | TEAM-WINS
+Jazz | 2 | TEAM-LOSSES
+DeAndre Jordan | 16 | PLAYER-REB
+Redick | 19 | PLAYER-PTS
+
+Rivers | 19 | PLAYER-PTS
+Boston Celtics | 93 | TEAM-PTS
+New Orleans Pelicans | 93 | TEAM-PTS
+Celtics | 50 | TEAM-FG_PCT
+Isaiah Thomas | 22 | PLAYER-PTS
+Jared Sullinger | 20 | PLAYER-PTS
+Anthony Davis | 16 | PLAYER-PTS
+
+Ryan Anderson | 18 | PLAYER-PTS
+San Antonio Spurs | 39 | TEAM-WINS
+San Antonio Spurs | 7 | TEAM-LOSSES
+Houston Rockets | 25 | TEAM-WINS
+Houston Rockets | 23 | TEAM-LOSSES
+Spurs | 56 | TEAM-FG_PCT
+Spurs | 52 | TEAM-FG3_PCT
+LaMarcus Aldridge | 25 | PLAYER-PTS
+Danny Green | 18 | PLAYER-PTS
+Kawhi Leonard | 18 | PLAYER-PTS
+
+Boston Celtics | 1 | TEAM-WINS
+Boston Celtics | 2 | TEAM-LOSSES
+LaMarcus Aldridge | 24 | PLAYER-PTS
+San | 19 | PLAYER-PTS
+Kawhi Leonard | 19 | PLAYER-PTS
+
+Marcus Smart | 17 | PLAYER-PTS
+Blake Griffin | 20 | PLAYER-PTS
+
+Blake Griffin | 11 | PLAYER-REB
+Celtics | 3 | TEAM-WINS
+Celtics | 1 | TEAM-LOSSES
+Bulls | 3 | TEAM-WINS
+Bulls | 1 | TEAM-LOSSES
+Jae Crowder | 14 | PLAYER-MIN
+Isaiah Thomas | 23 | PLAYER-PTS
+Dwyane Wade | 22 | PLAYER-PTS
+Wade | 13 | PLAYER-FGA
+
+Portland | 39 | TEAM-WINS
+Portland | 36 | TEAM-LOSSES
+Portland | 105 | TEAM-PTS
+Trail Blazers | 39 | TEAM-WINS
+Trail Blazers | 36 | TEAM-LOSSES
+Trail Blazers | 105 | TEAM-PTS
+Sacramento Kings | 29 | TEAM-WINS
+Sacramento Kings | 45 | TEAM-LOSSES
+Sacramento Kings | 93 | TEAM-PTS
+Allen Crabbe | 21 | PLAYER-PTS
+Damian Lillard | 29 | PLAYER-PTS
+Damian Lillard | 12 | PLAYER-REB
+McCollum | 29 | PLAYER-PTS
+Al | 14 | PLAYER-PTS
+Aminu | 14 | PLAYER-PTS
+Curry | 21 | PLAYER-PTS
+Curry | 34 | PLAYER-MIN
+Washington Wizards | 36 | TEAM-WINS
+Washington Wizards | 37 | TEAM-LOSSES
+Boston Celtics | 43 | TEAM-WINS
+
+Boston Celtics | 30 | TEAM-LOSSES
+Charlotte Hornets | 100 | TEAM-PTS
+Indiana Pacers | 88 | TEAM-PTS
+Hornets | 27 | TEAM-WINS
+Hornets | 35 | TEAM-LOSSES
+Kemba Walker | 35 | PLAYER-MIN
+Kemba Walker | 28 | PLAYER-PTS
+Kemba Walker | 10 | PLAYER-FGM
+Kemba Walker | 22 | PLAYER-FGA
+Nicolas Batum | 21 | PLAYER-PTS
+Nicolas Batum | 43 | PLAYER-MIN
+Pacers | 32 | TEAM-WINS
+Pacers | 30 | TEAM-LOSSES
+Paul George | 36 | PLAYER-PTS
+Paul George | 15 | PLAYER-FGM
+Paul George | 25 | PLAYER-FGA
+Paul George | 10 | PLAYER-REB
+Paul George | 36 | PLAYER-MIN
+
+Denver Nuggets | 28 | TEAM-WINS
+Denver Nuggets | 45 | TEAM-LOSSES
+Denver Nuggets | 107 | TEAM-PTS
+Utah Jazz | 31 | TEAM-WINS
+Utah Jazz | 41 | TEAM-LOSSES
+Utah Jazz | 91 | TEAM-PTS
+Derrick Favors | 2 | PLAYER-FGM
+Derrick Favors | 9 | PLAYER-FGA
+Derrick Favors | 19 | PLAYER-MIN
+Jameer Nelson | 18 | PLAYER-PTS
+Will Barton | 12 | PLAYER-PTS
+Will Barton | 10 | PLAYER-REB
+Will Barton | 20 | PLAYER-MIN
+Danilo Gallinari | 4 | PLAYER-FGM
+Danilo Gallinari | 14 | PLAYER-FGA
+Danilo Gallinari | 13 | PLAYER-PTS
+Rudy Gobert | 14 | PLAYER-PTS
+Rudy Gobert | 14 | PLAYER-REB
+UNK Millsap | 16 | PLAYER-PTS
+Trey Burke | 5 | PLAYER-FGM
+Trey Burke | 22 | PLAYER-FGA
+Joe UNK | 5 | PLAYER-FGM
+
+Joe UNK | 22 | PLAYER-FGA
+Cleveland Cavaliers | 53 | TEAM-WINS
+Cleveland Cavaliers | 29 | TEAM-LOSSES
+Cleveland Cavaliers | 113 | TEAM-PTS
+Boston Celtics | 40 | TEAM-WINS
+Boston Celtics | 42 | TEAM-LOSSES
+Boston Celtics | 100 | TEAM-PTS
+Irving | 11 | PLAYER-FGM
+Irving | 21 | PLAYER-FGA
+Irving | 5 | PLAYER-FGM
+Irving | 9 | PLAYER-FGA
+Irving | 30 | PLAYER-PTS
+Celtics | 47 | TEAM-FG_PCT
+Celtics | 36 | TEAM-FG3_PCT
+James | 20 | PLAYER-PTS
+James | 8 | PLAYER-FGM
+James | 18 | PLAYER-FGA
+James | 1 | PLAYER-FG3M
+James | 3 | PLAYER-FG3A
+James | 3 | PLAYER-FG3M
+James | 4 | PLAYER-FTA
+Tristan Thompson | 26 | PLAYER-FGA
+Tristan Thompson | 12 | PLAYER-PTS
+Tristan Thompson | 4 | PLAYER-FGM
+Tristan Thompson | 6 | PLAYER-FGA
+Tristan Thompson | 4 | PLAYER-FG3M
+Tristan Thompson | 6 | PLAYER-FTA
+Thomas | 6 | PLAYER-FGM
+Thomas | 14 | PLAYER-FGA
+Thomas | 2 | PLAYER-FG3M
+Thomas | 5 | PLAYER-FGA
+Thomas | 32 | PLAYER-MIN
+Thomas | 22 | PLAYER-PTS
+Kelly Olynyk | 12 | PLAYER-PTS
+Kelly Olynyk | 5 | PLAYER-FGM
+Kelly Olynyk | 7 | PLAYER-FGA
+Kelly Olynyk | 2 | PLAYER-FG3M
+Kelly Olynyk | 3 | PLAYER-FG3A
+Turner | 12 | PLAYER-PTS
+Turner | 4 | PLAYER-FGM
+Turner | 12 | PLAYER-FGA
+Turner | 1 | PLAYER-FG3M
+Turner | 1 | PLAYER-FG3A
+Turner | 3 | PLAYER-FG3M
+Turner | 3 | PLAYER-FTA
+Turner | 3 | PLAYER-FGM
+Turner | 6 | PLAYER-FGA
+Turner | 4 | PLAYER-FG3M
+Turner | 4 | PLAYER-FTA
+UNK | 10 | PLAYER-PTS
+UNK | 3 | PLAYER-FGM
+UNK | 6 | PLAYER-FGA
+UNK | 4 | PLAYER-FG3M
+
+UNK | 4 | PLAYER-FTA
+Dallas Mavericks | 20 | TEAM-WINS
+Dallas Mavericks | 15 | TEAM-LOSSES
+Sacramento Kings | 14 | TEAM-WINS
+Sacramento Kings | 21 | TEAM-LOSSES
+Sacramento Kings | 117 | TEAM-PTS
+Darren Collison | 14 | PLAYER-PTS
+Rajon Rondo | 14 | PLAYER-PTS
+Belinelli | 14 | PLAYER-PTS
+Williams | 25 | PLAYER-PTS
+Nowitzki | 23 | PLAYER-PTS
+Nowitzki | 20 | PLAYER-PTS
+Wesley Matthews | 20 | PLAYER-PTS
+Chandler Parsons | 29 | PLAYER-MIN
+JaVale McGee | 17 | PLAYER-MIN
+
+Atlanta Hawks | 20 | TEAM-WINS
+Atlanta Hawks | 7 | TEAM-LOSSES
+Dallas Mavericks | 20 | TEAM-WINS
+Dallas Mavericks | 9 | TEAM-LOSSES
+Dallas | 20 | TEAM-WINS
+Dallas | 9 | TEAM-LOSSES
+Dennis | 22 | PLAYER-PTS
+Dennis | 15 | PLAYER-FGA
+Kyle Korver | 18 | PLAYER-PTS
+Paul Millsap | 13 | PLAYER-PTS
+DeMarre Carroll | 15 | PLAYER-PTS
+Al Horford | 15 | PLAYER-PTS
+Monta Ellis | 22 | PLAYER-FGA
+Monta Ellis | 18 | PLAYER-PTS
+Dirk Nowitzki | 16 | PLAYER-PTS
+Dirk Nowitzki | 13 | PLAYER-FGA
+
+Atlanta Hawks | 35 | TEAM-WINS
+Atlanta Hawks | 8 | TEAM-LOSSES
+Atlanta Hawks | 110 | TEAM-PTS
+Indiana Pacers | 15 | TEAM-WINS
+Indiana Pacers | 29 | TEAM-LOSSES
+Indiana Pacers | 91 | TEAM-PTS
+Jeff Teague | 17 | PLAYER-PTS
+DeMarre Carroll | 17 | PLAYER-PTS
+UNK | 13 | PLAYER-PTS
+Roy Hibbert | 20 | PLAYER-PTS
+Roy Hibbert | 14 | PLAYER-REB
+David West | 20 | PLAYER-PTS
+David West | 14 | PLAYER-REB
+Solomon Hill | 20 | PLAYER-PTS
+Miles | 27 | PLAYER-MIN
+Miles | 18 | PLAYER-PTS
+Miles | 7 | PLAYER-FGM
+Miles | 15 | PLAYER-FGA
+Miles | 2 | PLAYER-FG3M
+Miles | 8 | PLAYER-FG3A
+Miles | 2 | PLAYER-FG3M
+
+Miles | 2 | PLAYER-FTA
+Warren | 11 | PLAYER-FGM
+Warren | 14 | PLAYER-FGA
+Warren | 23 | PLAYER-PTS
+Alan Williams | 17 | PLAYER-PTS
+Alan Williams | 15 | PLAYER-REB
+Eric Bledsoe | 11 | PLAYER-PTS
+Giannis Antetokounmpo | 28 | PLAYER-PTS
+Giannis Antetokounmpo | 11 | PLAYER-FGM
+Giannis Antetokounmpo | 13 | PLAYER-FGA
+Michael Beasley | 17 | PLAYER-PTS
+Michael Beasley | 8 | PLAYER-FGM
+Michael Beasley | 10 | PLAYER-FGA
+
+Greg Monroe | 14 | PLAYER-PTS
+Gay | 25 | PLAYER-PTS
+Mason Plumlee | 33 | PLAYER-MIN
+
+Mason Plumlee | 22 | PLAYER-PTS
+Clippers | 40 | TEAM-WINS
+Clippers | 26 | TEAM-LOSSES
+Chris Paul | 30 | PLAYER-PTS
+Chris Paul | 16 | PLAYER-FGA
+Dario Saric | 16 | PLAYER-PTS
+Jahlil Okafor | 14 | PLAYER-PTS
+Robert Covington | 13 | PLAYER-PTS
+
+Blake Griffin | 15 | PLAYER-PTS
+Miami Heat | 8 | TEAM-WINS
+Miami Heat | 4 | TEAM-LOSSES
+Philadelphia 76ers | 0 | TEAM-WINS
+Philadelphia 76ers | 14 | TEAM-LOSSES
+Robert Covington | 21 | PLAYER-PTS
+Jahlil Okafor | 16 | PLAYER-PTS
+Miami | 27 | PLAYER-PTS
+Dwyane Wade | 27 | PLAYER-PTS
+
+Hassan Whiteside | 13 | PLAYER-PTS
+Boston Celtics | 1 | TEAM-WINS
+Boston Celtics | 1 | TEAM-LOSSES
+Boston Celtics | 113 | TEAM-PTS
+Terrence Ross | 21 | PLAYER-PTS
+Terrence Ross | 8 | PLAYER-FGM
+Terrence Ross | 12 | PLAYER-FGA
+DeMarre Carroll | 21 | PLAYER-PTS
+Kyle Lowry | 37 | PLAYER-PTS
+DeMar DeRozan | 37 | PLAYER-PTS
+Isaiah Thomas | 25 | PLAYER-PTS
+Amir Johnson | 11 | PLAYER-PTS
+
+Kelly Olynyk | 11 | PLAYER-PTS
+Steven Adams | 15 | PLAYER-PTS
+Steven Adams | 7 | PLAYER-FGM
+Steven Adams | 10 | PLAYER-FGA
+Enes Kanter | 19 | PLAYER-PTS
+Josh Richardson | 22 | PLAYER-PTS
+
+Chicago Bulls | 110 | TEAM-PTS
+Trail Blazers | 48 | TEAM-FG_PCT
+Bulls | 42 | TEAM-FG_PCT
+Bulls | 30 | TEAM-FG3_PCT
+Portland | 12 | TEAM-WINS
+Portland | 10 | TEAM-LOSSES
+Damian Lillard | 30 | PLAYER-PTS
+McCollum | 24 | PLAYER-PTS
+Allen Crabbe | 17 | PLAYER-PTS
+Chicago | 11 | TEAM-WINS
+Chicago | 9 | TEAM-LOSSES
+Dwyane Wade | 34 | PLAYER-PTS
+Jimmy Butler | 26 | PLAYER-PTS
+Robin Lopez | 14 | PLAYER-REB
+
+Nikola Mirotic | 18 | PLAYER-PTS
+Orlando Magic | 99 | TEAM-PTS
+Cleveland | 30 | PLAYER-PTS
+Kevin Love | 19 | PLAYER-PTS
+Tristan Thompson | 12 | PLAYER-REB
+Magic | 0 | TEAM-WINS
+Magic | 3 | TEAM-LOSSES
+Evan Fournier | 22 | PLAYER-PTS
+Evan Fournier | 37 | PLAYER-MIN
+
+Waiters | 5 | PLAYER-FGM
+
+Miami Heat | 41 | TEAM-WINS
+Miami Heat | 29 | TEAM-LOSSES
+New Orleans Pelicans | 26 | TEAM-WINS
+New Orleans Pelicans | 43 | TEAM-LOSSES
+
+Dragic | 21 | PLAYER-PTS
+Utah Jazz | 108 | TEAM-PTS
+New York Knicks | 101 | TEAM-PTS
+Utah | 44 | TEAM-WINS
+Utah | 28 | TEAM-LOSSES
+Gobert | 35 | PLAYER-PTS
+Gobert | 13 | PLAYER-FGM
+Gobert | 14 | PLAYER-FGA
+Gobert | 13 | PLAYER-REB
+New York | 27 | TEAM-WINS
+New York | 44 | TEAM-LOSSES
+Porzingis | 24 | PLAYER-PTS
+
+Smith | 23 | PLAYER-PTS
+Smith | 8 | PLAYER-FGM
+Smith | 17 | PLAYER-FGA
+Smith | 6 | PLAYER-FGM
+LeBron James | 8 | PLAYER-FGM
+Zach Randolph | 18 | PLAYER-PTS
+Marc Gasol | 18 | PLAYER-PTS
+
+James Harden | 27 | PLAYER-PTS
+James Harden | 14 | PLAYER-REB
+Eric Gordon | 24 | PLAYER-PTS
+Eric Bledsoe | 16 | PLAYER-PTS
+
+Brandon Knight | 36 | PLAYER-PTS
+Golden State | 62 | TEAM-FG_PCT
+Golden State | 50 | TEAM-FG_PCT
+Blake Griffin | 13 | PLAYER-PTS
+Blake Griffin | 20 | PLAYER-PTS
+Stephen Curry | 43 | PLAYER-PTS
+Kevin Durant | 23 | PLAYER-PTS
+Klay Thompson | 16 | PLAYER-PTS
+Thompson | 31 | PLAYER-FGM
+Thompson | 45 | PLAYER-FGA
+Curry | 31 | PLAYER-FGM
+
+Curry | 45 | PLAYER-FGA
+Memphis Grizzlies | 12 | TEAM-WINS
+Memphis Grizzlies | 9 | TEAM-LOSSES
+Phoenix Suns | 8 | TEAM-WINS
+Phoenix Suns | 13 | TEAM-LOSSES
+Phoenix Suns | 95 | TEAM-PTS
+Suns | 43 | TEAM-FG_PCT
+Eric Bledsoe | 23 | PLAYER-PTS
+Eric Bledsoe | 8 | PLAYER-FGM
+Eric Bledsoe | 22 | PLAYER-FGA
+Phoenix | 23 | PLAYER-PTS
+Phoenix | 8 | PLAYER-FGM
+Phoenix | 22 | PLAYER-FGA
+Brandon Knight | 17 | PLAYER-PTS
+Jon Leuer | 3 | PLAYER-FGM
+Jon Leuer | 11 | PLAYER-FGA
+Jon Leuer | 10 | PLAYER-PTS
+Jon Leuer | 11 | PLAYER-REB
+Marc Gasol | 22 | PLAYER-PTS
+Marc Gasol | 36 | PLAYER-MIN
+UNK Lee | 28 | PLAYER-MIN
+UNK Lee | 18 | PLAYER-PTS
+Green | 17 | PLAYER-MIN
+Mike Conley | 4 | PLAYER-FGM
+Mike Conley | 14 | PLAYER-FGA
+
+Mike Conley | 12 | PLAYER-PTS
+Golden State Warriors | 110 | TEAM-PTS
+Warriors | 46 | TEAM-WINS
+Warriors | 9 | TEAM-LOSSES
+Nuggets | 25 | TEAM-WINS
+Nuggets | 30 | TEAM-LOSSES
+Denver | 24 | PLAYER-MIN
+Jokic | 17 | PLAYER-PTS
+Jokic | 21 | PLAYER-REB
+Jokic | 12 | PLAYER-REB
+Jokic | 36 | PLAYER-MIN
+UNK Hernangomez | 27 | PLAYER-PTS
+UNK Hernangomez | 10 | PLAYER-REB
+Will Barton | 24 | PLAYER-PTS
+Will Barton | 23 | PLAYER-PTS
+Jameer Nelson | 23 | PLAYER-PTS
+Kevin Durant | 25 | PLAYER-PTS
+Kevin Durant | 27 | PLAYER-MIN
+Curry | 11 | PLAYER-PTS
+Curry | 4 | PLAYER-FGM
+
+Atlanta Hawks | 110 | TEAM-PTS
+Cleveland Cavaliers | 106 | TEAM-PTS
+Atlanta | 5 | TEAM-WINS
+Atlanta | 2 | TEAM-LOSSES
+Bazemore | 25 | PLAYER-PTS
+Millsap | 21 | PLAYER-PTS
+Mike Muscala | 10 | PLAYER-PTS
+Kyrie | 29 | PLAYER-PTS
+Kevin Love | 24 | PLAYER-PTS
+Kevin Love | 12 | PLAYER-REB
+LeBron James | 23 | PLAYER-PTS
+
+Channing Frye | 13 | PLAYER-PTS
+Chris Paul | 30 | PLAYER-PTS
+Chris Paul | 11 | PLAYER-FGM
+Chris Paul | 16 | PLAYER-FGA
+Blake Griffin | 12 | PLAYER-PTS
+Redick | 12 | PLAYER-PTS
+Speights | 11 | PLAYER-PTS
+Richaun Holmes | 24 | PLAYER-PTS
+Dario Saric | 16 | PLAYER-PTS
+Jahlil Okafor | 14 | PLAYER-PTS
+Jahlil Okafor | 13 | PLAYER-PTS
+Robert Covington | 13 | PLAYER-PTS
+McConnell | 10 | PLAYER-REB
+
+Toronto | 40 | TEAM-FG_PCT
+DeMar | 24 | PLAYER-PTS
+Serge Ibaka | 22 | PLAYER-PTS
+Serge Ibaka | 12 | PLAYER-REB
+Norman Powell | 17 | PLAYER-PTS
+Norman Powell | 11 | PLAYER-PTS
+Cory Joseph | 11 | PLAYER-PTS
+
+Jonas Valanciunas | 11 | PLAYER-REB
+Pacers | 13 | TEAM-WINS
+Pacers | 12 | TEAM-LOSSES
+Turner | 22 | PLAYER-PTS
+Hornets | 14 | TEAM-WINS
+Hornets | 11 | TEAM-LOSSES
+Michael Kidd-Gilchrist | 14 | PLAYER-PTS
+Marco Belinelli | 14 | PLAYER-PTS
+George | 22 | PLAYER-PTS
+
+Jeff Teague | 16 | PLAYER-PTS
+Orlando Magic | 19 | TEAM-WINS
+Orlando Magic | 13 | TEAM-LOSSES
+Orlando Magic | 100 | TEAM-PTS
+Brooklyn Nets | 9 | TEAM-WINS
+Brooklyn Nets | 23 | TEAM-LOSSES
+Brooklyn Nets | 100 | TEAM-PTS
+Nikola Vucevic | 20 | PLAYER-PTS
+Nikola Vucevic | 9 | PLAYER-FGM
+Nikola Vucevic | 18 | PLAYER-FGA
+Evan Fournier | 17 | PLAYER-PTS
+Evan Fournier | 3 | PLAYER-FGM
+Bogdanovic | 20 | PLAYER-PTS
+
+Dallas Mavericks | 12 | TEAM-WINS
+Dallas Mavericks | 5 | TEAM-LOSSES
+Toronto Raptors | 13 | TEAM-WINS
+Toronto Raptors | 3 | TEAM-LOSSES
+Monta Ellis | 36 | PLAYER-MIN
+Monta Ellis | 30 | PLAYER-PTS
+Devin Harris | 33 | PLAYER-MIN
+DeMar DeRozan | 20 | PLAYER-PTS
+Williams | 30 | PLAYER-MIN
+Williams | 16 | PLAYER-PTS
+Williams | 25 | PLAYER-MIN
+Williams | 14 | PLAYER-PTS
+Vasquez | 25 | PLAYER-MIN
+
+Vasquez | 14 | PLAYER-PTS
+Dallas Mavericks | 41 | TEAM-WINS
+Dallas Mavericks | 24 | TEAM-LOSSES
+Dallas Mavericks | 100 | TEAM-PTS
+Los Angeles | 41 | TEAM-WINS
+Los Angeles | 24 | TEAM-LOSSES
+Los Angeles | 46 | TEAM-LOSSES
+Los Angeles | 100 | TEAM-PTS
+Los Angeles Lakers | 16 | TEAM-WINS
+Los Angeles Lakers | 46 | TEAM-LOSSES
+Los Angeles Lakers | 93 | TEAM-PTS
+Mavericks | 49 | TEAM-FG_PCT
+Mavericks | 35 | TEAM-FG3_PCT
+Lakers | 46 | TEAM-FG_PCT
+Dirk Nowitzki | 12 | PLAYER-PTS
+Dirk Nowitzki | 5 | PLAYER-FGM
+Dirk Nowitzki | 12 | PLAYER-FGA
+Dirk Nowitzki | 2 | PLAYER-FG3M
+Dirk Nowitzki | 5 | PLAYER-FG3A
+Dirk Nowitzki | 26 | PLAYER-MIN
+Chandler Parsons | 11 | PLAYER-PTS
+Chandler Parsons | 5 | PLAYER-FGM
+Chandler Parsons | 11 | PLAYER-FGA
+Chandler Parsons | 1 | PLAYER-FG3M
+Chandler Parsons | 5 | PLAYER-FG3A
+Chandler Parsons | 0 | PLAYER-FG3M
+Chandler Parsons | 1 | PLAYER-FTA
+Jordan Clarkson | 15 | PLAYER-PTS
+Jordan Clarkson | 6 | PLAYER-FGM
+Jordan Clarkson | 13 | PLAYER-FGA
+Jordan Clarkson | 0 | PLAYER-FG3M
+Jordan Clarkson | 1 | PLAYER-FG3A
+Jordan Clarkson | 3 | PLAYER-FG3M
+Jordan Clarkson | 4 | PLAYER-FTA
+UNK UNK | 25 | PLAYER-MIN
+UNK UNK | 17 | PLAYER-PTS
+UNK UNK | 8 | PLAYER-FGM
+UNK UNK | 15 | PLAYER-FGA
+UNK UNK | 1 | PLAYER-FG3M
+UNK UNK | 1 | PLAYER-FG3A
+Wesley Johnson | 6 | PLAYER-FGM
+Wesley Johnson | 9 | PLAYER-FGA
+Wesley Johnson | 1 | PLAYER-FG3M
+Wesley Johnson | 3 | PLAYER-FG3A
+Wesley Johnson | 15 | PLAYER-PTS
+Wayne Ellington | 13 | PLAYER-PTS
+Wayne Ellington | 6 | PLAYER-FGM
+Wayne Ellington | 16 | PLAYER-FGA
+Wayne Ellington | 1 | PLAYER-FG3M
+
+Wayne Ellington | 7 | PLAYER-FG3A
+Dallas Mavericks | 27 | TEAM-WINS
+Dallas Mavericks | 22 | TEAM-LOSSES
+Brooklyn Nets | 12 | TEAM-WINS
+Brooklyn Nets | 35 | TEAM-LOSSES
+Parsons | 19 | PLAYER-PTS
+Zaza Pachulia | 16 | PLAYER-PTS
+
+Lopez | 28 | PLAYER-PTS
+Sacramento Kings | 10 | TEAM-WINS
+Sacramento Kings | 15 | TEAM-LOSSES
+Sacramento Kings | 107 | TEAM-PTS
+Houston Rockets | 12 | TEAM-WINS
+Houston Rockets | 14 | TEAM-LOSSES
+Houston | 41 | TEAM-FG_PCT
+James Harden | 33 | PLAYER-PTS
+Darren Collison | 14 | PLAYER-PTS
+Darren Collison | 13 | PLAYER-REB
+DeMarcus Cousins | 26 | PLAYER-PTS
+DeMarcus Cousins | 12 | PLAYER-REB
+Rudy Gay | 19 | PLAYER-REB
+
+Omri Casspi | 19 | PLAYER-REB
+Kawhi Leonard | 21 | PLAYER-PTS
+Kawhi Leonard | 7 | PLAYER-FGM
+Kawhi Leonard | 16 | PLAYER-FGA
+Pau Gasol | 17 | PLAYER-PTS
+Pau Gasol | 11 | PLAYER-REB
+Tony Parker | 17 | PLAYER-PTS
+Blake Griffin | 29 | PLAYER-PTS
+Blake Griffin | 9 | PLAYER-FGM
+Blake Griffin | 17 | PLAYER-FGA
+Austin Rivers | 23 | PLAYER-PTS
+Chris Paul | 17 | PLAYER-PTS
+
+Clippers | 44 | TEAM-FG_PCT
+Toronto Raptors | 20 | TEAM-WINS
+Toronto Raptors | 13 | TEAM-LOSSES
+Washington Wizards | 14 | TEAM-WINS
+Washington Wizards | 16 | TEAM-LOSSES
+DeMar DeRozan | 34 | PLAYER-PTS
+Otto Porter | 20 | PLAYER-PTS
+John Wall | 19 | PLAYER-PTS
+Jared Dudley | 17 | PLAYER-PTS
+Ross | 14 | PLAYER-PTS
+
+Bulls | 34 | TEAM-WINS
+Bulls | 38 | TEAM-LOSSES
+UNK UNK | 17 | PLAYER-PTS
+Nikola Mirotic | 28 | PLAYER-PTS
+Pistons | 34 | TEAM-WINS
+Pistons | 38 | TEAM-LOSSES
+Tobias Harris | 14 | PLAYER-PTS
+Morris | 14 | PLAYER-PTS
+Andre Drummond | 17 | PLAYER-REB
+Jon Leuer | 13 | PLAYER-PTS
+
+Paul UNK | 15 | PLAYER-PTS
+Brooklyn Nets | 20 | TEAM-WINS
+Brooklyn Nets | 51 | TEAM-LOSSES
+Brooklyn Nets | 104 | TEAM-PTS
+Cleveland Cavaliers | 51 | TEAM-WINS
+Cleveland Cavaliers | 21 | TEAM-LOSSES
+Cleveland Cavaliers | 95 | TEAM-PTS
+Brooklyn | 59 | PLAYER-FGM
+Brook Lopez | 22 | PLAYER-PTS
+Brook Lopez | 31 | PLAYER-MIN
+Brook Lopez | 16 | PLAYER-PTS
+Brook Lopez | 31 | PLAYER-MIN
+UNK UNK | 16 | PLAYER-PTS
+UNK UNK | 31 | PLAYER-MIN
+Nets | 44 | TEAM-FG_PCT
+LeBron James | 30 | PLAYER-PTS
+LeBron James | 13 | PLAYER-FGM
+LeBron James | 16 | PLAYER-FGA
+LeBron James | 1 | PLAYER-FG3M
+LeBron James | 3 | PLAYER-FG3A
+LeBron James | 3 | PLAYER-FG3M
+LeBron James | 4 | PLAYER-FTA
+LeBron James | 35 | PLAYER-MIN
+Kyrie Irving | 6 | PLAYER-FGM
+Kyrie Irving | 22 | PLAYER-FGA
+Kyrie Irving | 13 | PLAYER-PTS
+Kevin Love | 14 | PLAYER-FGA
+
+Kevin Love | 11 | PLAYER-PTS
+Washington Wizards | 123 | TEAM-PTS
+Denver Nuggets | 113 | TEAM-PTS
+Wizards | 39 | TEAM-WINS
+Wizards | 24 | TEAM-LOSSES
+John Wall | 30 | PLAYER-PTS
+Bradley Beal | 23 | PLAYER-PTS
+Nuggets | 29 | TEAM-WINS
+Nuggets | 35 | TEAM-LOSSES
+Nuggets | 53 | TEAM-FG_PCT
+Nuggets | 46 | TEAM-FG_PCT
+Gary Harris | 10 | PLAYER-FGM
+Gary Harris | 15 | PLAYER-FGA
+Gary Harris | 6 | PLAYER-FG3M
+Gary Harris | 9 | PLAYER-FG3A
+Gary Harris | 26 | PLAYER-PTS
+Denver | 10 | PLAYER-FGM
+Wilson Chandler | 21 | PLAYER-PTS
+Wilson Chandler | 19 | PLAYER-PTS
+Wilson Chandler | 10 | PLAYER-REB
+Mason Plumlee | 19 | PLAYER-PTS
+
+Mason Plumlee | 10 | PLAYER-REB
+Brooklyn Nets | 24 | TEAM-WINS
+Brooklyn Nets | 33 | TEAM-LOSSES
+Brooklyn Nets | 104 | TEAM-PTS
+Dallas Mavericks | 39 | TEAM-WINS
+Dallas Mavericks | 22 | TEAM-LOSSES
+Dallas Mavericks | 94 | TEAM-PTS
+Deron Williams | 25 | PLAYER-PTS
+Deron Williams | 35 | PLAYER-MIN
+Bojan Bogdanovic | 11 | PLAYER-MIN
+UNK Brown | 21 | PLAYER-MIN
+UNK UNK | 20 | PLAYER-MIN
+Dirk Nowitzki | 20 | PLAYER-PTS
+Dirk Nowitzki | 31 | PLAYER-MIN
+Devin Harris | 14 | PLAYER-PTS
+Devin Harris | 12 | PLAYER-PTS
+
+Al-Farouq Aminu | 12 | PLAYER-PTS
+Toronto Raptors | 38 | TEAM-WINS
+Toronto Raptors | 18 | TEAM-LOSSES
+Toronto Raptors | 114 | TEAM-PTS
+Toronto Raptors | 105 | TEAM-PTS
+Minnesota Timberwolves | 18 | TEAM-WINS
+Minnesota Timberwolves | 40 | TEAM-LOSSES
+Minnesota Timberwolves | 105 | TEAM-PTS
+Lowry | 6 | PLAYER-FGM
+Lowry | 14 | PLAYER-FGA
+Lowry | 3 | PLAYER-FG3M
+Lowry | 8 | PLAYER-FG3A
+Lowry | 6 | PLAYER-FG3M
+Lowry | 6 | PLAYER-FTA
+DeMar DeRozan | 31 | PLAYER-PTS
+DeMar DeRozan | 11 | PLAYER-FGM
+DeMar DeRozan | 19 | PLAYER-FGA
+DeMar DeRozan | 2 | PLAYER-FG3M
+DeMar DeRozan | 2 | PLAYER-FG3A
+DeMar DeRozan | 7 | PLAYER-FG3M
+DeMar DeRozan | 8 | PLAYER-FTA
+DeMar DeRozan | 38 | PLAYER-MIN
+Cory Joseph | 18 | PLAYER-PTS
+Cory Joseph | 6 | PLAYER-FGM
+Cory Joseph | 8 | PLAYER-FGA
+Cory Joseph | 1 | PLAYER-FG3M
+Cory Joseph | 2 | PLAYER-FG3A
+Cory Joseph | 5 | PLAYER-FG3M
+Cory Joseph | 8 | PLAYER-FTA
+Cory Joseph | 22 | PLAYER-MIN
+Andrew Wiggins | 26 | PLAYER-PTS
+Andrew Wiggins | 9 | PLAYER-FGM
+Andrew Wiggins | 19 | PLAYER-FGA
+Andrew Wiggins | 2 | PLAYER-FG3M
+Andrew Wiggins | 2 | PLAYER-FG3A
+Andrew Wiggins | 6 | PLAYER-FG3M
+Andrew Wiggins | 9 | PLAYER-FTA
+Ricky Rubio | 12 | PLAYER-PTS
+Ricky Rubio | 12 | PLAYER-FGM
+Ricky Rubio | 36 | PLAYER-MIN
+Ricky Rubio | 8 | PLAYER-FGM
+Ricky Rubio | 9 | PLAYER-FGA
+Ricky Rubio | 5 | PLAYER-FG3M
+Ricky Rubio | 6 | PLAYER-FTA
+UNK UNK | 21 | PLAYER-PTS
+UNK UNK | 8 | PLAYER-FGM
+UNK UNK | 9 | PLAYER-FGA
+UNK UNK | 5 | PLAYER-FG3M
+UNK UNK | 6 | PLAYER-FTA
+UNK | 41 | PLAYER-MIN
+Karl-Anthony Towns | 24 | PLAYER-PTS
+Karl-Anthony Towns | 13 | PLAYER-REB
+Karl-Anthony Towns | 16 | PLAYER-PTS
+
+Karl-Anthony Towns | 37 | PLAYER-MIN
+Cleveland Cavaliers | 33 | TEAM-WINS
+Cleveland Cavaliers | 12 | TEAM-LOSSES
+Cleveland Cavaliers | 114 | TEAM-PTS
+Detroit Pistons | 25 | TEAM-WINS
+Detroit Pistons | 22 | TEAM-LOSSES
+Detroit Pistons | 106 | TEAM-PTS
+Kevin Love | 29 | PLAYER-PTS
+Andre Drummond | 20 | PLAYER-PTS
+
+Kentavious Caldwell-Pope | 19 | PLAYER-PTS
+Wizards | 24 | TEAM-WINS
+Wizards | 20 | TEAM-LOSSES
+Hornets | 23 | TEAM-WINS
+Hornets | 22 | TEAM-LOSSES
+Washington | 54 | TEAM-FG_PCT
+John Wall | 47 | PLAYER-PTS
+Markieff Morris | 47 | PLAYER-PTS
+Wall | 24 | PLAYER-PTS
+Morris | 23 | PLAYER-PTS
+Bradley Beal | 18 | PLAYER-PTS
+Kemba Walker | 21 | PLAYER-PTS
+Marco Belinelli | 18 | PLAYER-PTS
+Cody Zeller | 13 | PLAYER-PTS
+Marvin Williams | 13 | PLAYER-PTS
+
+San Antonio Spurs | 4 | TEAM-WINS
+San Antonio Spurs | 2 | TEAM-LOSSES
+San Antonio Spurs | 114 | TEAM-PTS
+Charlotte Hornets | 2 | TEAM-WINS
+Charlotte Hornets | 4 | TEAM-LOSSES
+Spurs | 50 | TEAM-FG_PCT
+Kawhi Leonard | 23 | PLAYER-PTS
+San Antonio | 23 | PLAYER-PTS
+Patty Mills | 15 | PLAYER-PTS
+Manu Ginobili | 13 | PLAYER-PTS
+
+Atlanta Hawks | 11 | TEAM-WINS
+Atlanta Hawks | 7 | TEAM-LOSSES
+Memphis Grizzlies | 9 | TEAM-WINS
+Memphis Grizzlies | 8 | TEAM-LOSSES
+Memphis Grizzlies | 101 | TEAM-PTS
+Paul Millsap | 23 | PLAYER-PTS
+Paul Millsap | 6 | PLAYER-FGM
+Paul Millsap | 10 | PLAYER-FGA
+Paul Millsap | 11 | PLAYER-FG3M
+Paul Millsap | 13 | PLAYER-FTA
+Paul Millsap | 14 | PLAYER-REB
+Jeff Teague | 20 | PLAYER-PTS
+Jeff Teague | 5 | PLAYER-FGM
+Jeff Teague | 7 | PLAYER-FGA
+Jeff Teague | 4 | PLAYER-FG3M
+Jeff Teague | 6 | PLAYER-FG3A
+Jeff Teague | 29 | PLAYER-MIN
+Al Horford | 16 | PLAYER-PTS
+Al Horford | 2 | PLAYER-FGM
+Kent Bazemore | 14 | PLAYER-PTS
+Mike Conley | 16 | PLAYER-PTS
+Matt Barnes | 27 | PLAYER-MIN
+Matt Barnes | 15 | PLAYER-PTS
+Matt Barnes | 3 | PLAYER-FGM
+Vince Carter | 14 | PLAYER-PTS
+Vince Carter | 4 | PLAYER-FGM
+Vince Carter | 10 | PLAYER-FGA
+Vince Carter | 4 | PLAYER-FGM
+
+UNK Lee | 14 | PLAYER-PTS
+Lou Williams | 38 | PLAYER-PTS
+Lou Williams | 34 | PLAYER-MIN
+Rudy | 14 | PLAYER-PTS
+Rudy | 17 | PLAYER-REB
+Rudy | 39 | PLAYER-MIN
+Hayward | 23 | PLAYER-PTS
+Hayward | 7 | PLAYER-FGM
+
+Hayward | 16 | PLAYER-FGA
+Dragic | 26 | PLAYER-PTS
+Dragic | 10 | PLAYER-FGM
+Dragic | 20 | PLAYER-FGA
+Dwyane Wade | 24 | PLAYER-PTS
+Dwyane Wade | 10 | PLAYER-FGM
+Dwyane Wade | 21 | PLAYER-FGA
+Josh Richardson | 24 | PLAYER-MIN
+Josh Richardson | 3 | PLAYER-FGM
+Josh Richardson | 6 | PLAYER-FGA
+Josh Richardson | 2 | PLAYER-FG3M
+Josh Richardson | 2 | PLAYER-FG3A
+Josh Richardson | 3 | PLAYER-FG3M
+Josh Richardson | 4 | PLAYER-FTA
+Josh Richardson | 11 | PLAYER-PTS
+Jonas Valanciunas | 24 | PLAYER-PTS
+Jonas Valanciunas | 10 | PLAYER-FGM
+Jonas Valanciunas | 16 | PLAYER-FGA
+Jonas Valanciunas | 14 | PLAYER-REB
+DeMar DeRozan | 22 | PLAYER-PTS
+DeMar DeRozan | 9 | PLAYER-FGM
+DeMar DeRozan | 22 | PLAYER-FGA
+DeMar DeRozan | 19 | PLAYER-PTS
+DeMar DeRozan | 7 | PLAYER-FGM
+DeMar DeRozan | 13 | PLAYER-FGA
+DeMar DeRozan | 27 | PLAYER-MIN
+Terrence Ross | 19 | PLAYER-PTS
+Terrence Ross | 7 | PLAYER-FGM
+Terrence Ross | 13 | PLAYER-FGA
+Terrence Ross | 27 | PLAYER-MIN
+
+New Orleans Pelicans | 14 | TEAM-WINS
+New Orleans Pelicans | 27 | TEAM-LOSSES
+Minnesota Timberwolves | 13 | TEAM-WINS
+Minnesota Timberwolves | 30 | TEAM-LOSSES
+Anthony Davis | 35 | PLAYER-PTS
+Davis | 23 | PLAYER-PTS
+Davis | 11 | PLAYER-REB
+Jrue Holiday | 19 | PLAYER-PTS
+Jrue Holiday | 27 | PLAYER-MIN
+Towns | 16 | PLAYER-PTS
+Towns | 10 | PLAYER-REB
+Andrew Wiggins | 21 | PLAYER-PTS
+
+Detroit Pistons | 102 | TEAM-PTS
+Chicago Bulls | 91 | TEAM-PTS
+Pistons | 12 | TEAM-WINS
+Pistons | 11 | TEAM-LOSSES
+Bulls | 11 | TEAM-WINS
+Bulls | 10 | TEAM-LOSSES
+Tobias Harris | 40 | PLAYER-MIN
+Tobias Harris | 22 | PLAYER-PTS
+Tobias Harris | 15 | PLAYER-PTS
+Tobias Harris | 10 | PLAYER-REB
+Tobias Harris | 25 | PLAYER-MIN
+Detroit | 40 | PLAYER-MIN
+Andre Drummond | 15 | PLAYER-PTS
+Andre Drummond | 10 | PLAYER-REB
+Andre Drummond | 25 | PLAYER-MIN
+Jimmy Butler | 43 | PLAYER-MIN
+Dwyane | 19 | PLAYER-PTS
+
+Phoenix Suns | 8 | TEAM-WINS
+Phoenix Suns | 5 | TEAM-LOSSES
+Phoenix Suns | 122 | TEAM-PTS
+Philadelphia 76ers | 0 | TEAM-WINS
+Philadelphia 76ers | 12 | TEAM-LOSSES
+Philadelphia 76ers | 96 | TEAM-PTS
+McDaniels | 17 | PLAYER-PTS
+
+McDaniels | 28 | PLAYER-MIN
+
+Beal | 19 | PLAYER-PTS
+Brandon Jennings | 18 | PLAYER-PTS
+Brandon Jennings | 17 | PLAYER-PTS
+Bojan Bogdanovic | 17 | PLAYER-PTS
+UNK UNK | 16 | PLAYER-PTS
+Justin | 20 | PLAYER-PTS
+Rondae Hollis-Jefferson | 19 | PLAYER-PTS
+Jeremy Lin | 14 | PLAYER-PTS
+
+Minnesota Timberwolves | 7 | TEAM-WINS
+Minnesota Timberwolves | 32 | TEAM-LOSSES
+Minnesota Timberwolves | 113 | TEAM-PTS
+Denver Nuggets | 18 | TEAM-WINS
+Denver Nuggets | 22 | TEAM-LOSSES
+Denver Nuggets | 113 | TEAM-PTS
+Jameer Nelson | 16 | PLAYER-PTS
+
+Jameer Nelson | 19 | PLAYER-MIN
+Clippers | 15 | TEAM-WINS
+Clippers | 5 | TEAM-LOSSES
+Cavaliers | 13 | TEAM-WINS
+Cavaliers | 4 | TEAM-LOSSES
+Redick | 23 | PLAYER-PTS
+Redick | 13 | PLAYER-FGA
+Blake Griffin | 14 | PLAYER-FGA
+Blake Griffin | 13 | PLAYER-PTS
+Kyrie Irving | 28 | PLAYER-PTS
+Kyrie Irving | 19 | PLAYER-FGA
+Kyrie Irving | 25 | PLAYER-FGA
+Kevin Love | 32 | PLAYER-PTS
+Kevin Love | 25 | PLAYER-FGA
+
+Richard Jefferson | 22 | PLAYER-MIN
+Boston Celtics | 16 | TEAM-WINS
+Boston Celtics | 13 | TEAM-LOSSES
+Boston Celtics | 89 | TEAM-PTS
+Charlotte Hornets | 15 | TEAM-WINS
+Charlotte Hornets | 13 | TEAM-LOSSES
+Kelly Olynyk | 20 | PLAYER-PTS
+Jae Crowder | 19 | PLAYER-PTS
+Jae Crowder | 18 | PLAYER-PTS
+Isaiah Thomas | 18 | PLAYER-PTS
+Avery Bradley | 18 | PLAYER-PTS
+David Lee | 10 | PLAYER-PTS
+Frank Kaminsky | 23 | PLAYER-PTS
+Batum | 6 | PLAYER-FGM
+Batum | 15 | PLAYER-FGA
+
+Batum | 17 | PLAYER-PTS
+Phoenix Suns | 32 | TEAM-WINS
+Phoenix Suns | 30 | TEAM-LOSSES
+Orlando Magic | 19 | TEAM-WINS
+Orlando Magic | 43 | TEAM-LOSSES
+Knight | 28 | PLAYER-PTS
+Knight | 10 | PLAYER-FGM
+Knight | 12 | PLAYER-FGA
+Len | 22 | PLAYER-MIN
+Victor Oladipo | 11 | PLAYER-PTS
+Dedmon | 21 | PLAYER-MIN
+
+Frye | 15 | PLAYER-MIN
+San Antonio Spurs | 1 | TEAM-WINS
+San Antonio Spurs | 0 | TEAM-LOSSES
+Dallas Mavericks | 0 | TEAM-WINS
+Dallas Mavericks | 1 | TEAM-LOSSES
+Mavericks | 26 | PLAYER-PTS
+Monta Ellis | 26 | PLAYER-PTS
+Monta Ellis | 21 | PLAYER-FGA
+Dirk Nowitzki | 18 | PLAYER-PTS
+Devin Harris | 17 | PLAYER-PTS
+Tony Parker | 23 | PLAYER-PTS
+Manu Ginobili | 20 | PLAYER-PTS
+Tim Duncan | 14 | PLAYER-PTS
+Tim Duncan | 13 | PLAYER-REB
+
+Marco Belinelli | 15 | PLAYER-PTS
+Houston Rockets | 7 | TEAM-WINS
+Houston Rockets | 10 | TEAM-LOSSES
+New York Knicks | 8 | TEAM-WINS
+New York Knicks | 10 | TEAM-LOSSES
+Kristaps Porzingis | 20 | PLAYER-PTS
+Kristaps Porzingis | 13 | PLAYER-REB
+Lance Thomas | 15 | PLAYER-PTS
+Anthony | 15 | PLAYER-PTS
+Jose Calderon | 15 | PLAYER-MIN
+Robin Lopez | 15 | PLAYER-MIN
+Kevin Seraphin | 14 | PLAYER-PTS
+James Harden | 26 | PLAYER-PTS
+Thornton | 18 | PLAYER-PTS
+Clint Capela | 18 | PLAYER-PTS
+Terrence Jones | 18 | PLAYER-PTS
+Dwight Howard | 14 | PLAYER-PTS
+
+Dallas Mavericks | 49 | TEAM-WINS
+Dallas Mavericks | 31 | TEAM-LOSSES
+Los Angeles Lakers | 21 | TEAM-WINS
+Los Angeles Lakers | 59 | TEAM-LOSSES
+Mavericks | 54 | TEAM-FG_PCT
+Mavericks | 48 | TEAM-FG3_PCT
+Mavericks | 44 | TEAM-FG_PCT
+Mavericks | 38 | TEAM-FG3_PCT
+Lakers | 44 | TEAM-FG_PCT
+Dirk Nowitzki | 16 | PLAYER-PTS
+UNK UNK | 14 | PLAYER-PTS
+UNK UNK | 15 | PLAYER-PTS
+Raymond Felton | 14 | PLAYER-PTS
+Raymond Felton | 15 | PLAYER-PTS
+Jordan Clarkson | 26 | PLAYER-PTS
+Jordan Clarkson | 19 | PLAYER-FGA
+Johnson | 16 | PLAYER-PTS
+Johnson | 20 | PLAYER-MIN
+Jabari Brown | 18 | PLAYER-PTS
+Jabari Brown | 13 | PLAYER-FGA
+Jabari Brown | 42 | PLAYER-MIN
+
+Houston Rockets | 50 | TEAM-WINS
+Houston Rockets | 23 | TEAM-LOSSES
+Houston Rockets | 99 | TEAM-PTS
+Houston Rockets | 91 | TEAM-PTS
+Washington Wizards | 41 | TEAM-WINS
+Washington Wizards | 32 | TEAM-LOSSES
+Washington Wizards | 91 | TEAM-PTS
+James Harden | 24 | PLAYER-PTS
+James Harden | 7 | PLAYER-FGM
+James Harden | 20 | PLAYER-FGA
+John Wall | 25 | PLAYER-PTS
+
+John Wall | 12 | PLAYER-REB
+Nuggets | 56 | TEAM-FG_PCT
+New York | 14 | TEAM-WINS
+New York | 13 | TEAM-LOSSES
+Carmelo Anthony | 29 | PLAYER-PTS
+Carmelo Anthony | 14 | PLAYER-FGA
+Kristaps Porzingis | 22 | PLAYER-PTS
+Brandon Jennings | 14 | PLAYER-PTS
+Derrick Rose | 14 | PLAYER-PTS
+Hernangomez | 17 | PLAYER-PTS
+Denver | 11 | TEAM-WINS
+Denver | 16 | TEAM-LOSSES
+Emmanuel Mudiay | 22 | PLAYER-PTS
+Nikola Jokic | 20 | PLAYER-MIN
+Will Barton | 21 | PLAYER-FGA
+Will Barton | 42 | PLAYER-PTS
+Will Barton | 15 | PLAYER-REB
+
+Washington Wizards | 3 | TEAM-WINS
+Washington Wizards | 1 | TEAM-LOSSES
+San Antonio Spurs | 3 | TEAM-WINS
+San Antonio Spurs | 2 | TEAM-LOSSES
+Beal | 25 | PLAYER-PTS
+Beal | 36 | PLAYER-MIN
+LaMarcus Aldridge | 10 | PLAYER-PTS
+LaMarcus Aldridge | 14 | PLAYER-REB
+Wall | 17 | PLAYER-PTS
+Wall | 13 | PLAYER-REB
+Wall | 35 | PLAYER-MIN
+Otto Porter | 19 | PLAYER-PTS
+
+San Antonio Spurs | 112 | TEAM-PTS
+Washington Wizards | 100 | TEAM-PTS
+LaMarcus Aldridge | 20 | PLAYER-PTS
+Tony Parker | 20 | PLAYER-PTS
+Kawhi Leonard | 19 | PLAYER-PTS
+Pau Gasol | 17 | PLAYER-MIN
+Pau Gasol | 10 | PLAYER-REB
+Jonathan | 15 | PLAYER-PTS
+Simmons | 15 | PLAYER-PTS
+Patty Mills | 13 | PLAYER-PTS
+Wizards | 5 | TEAM-WINS
+Wizards | 10 | TEAM-LOSSES
+Bradley Beal | 25 | PLAYER-PTS
+John Wall | 21 | PLAYER-PTS
+Otto Porter | 14 | PLAYER-PTS
+Markieff Morris | 12 | PLAYER-PTS
+Markieff Morris | 10 | PLAYER-PTS
+Markieff Morris | 10 | PLAYER-REB
+Marcin Gortat | 10 | PLAYER-PTS
+
+Marcin Gortat | 10 | PLAYER-REB
+Miami Heat | 21 | TEAM-WINS
+Miami Heat | 13 | TEAM-LOSSES
+Indiana Pacers | 19 | TEAM-WINS
+Indiana Pacers | 15 | TEAM-LOSSES
+Wade | 27 | PLAYER-PTS
+Wade | 9 | PLAYER-FGM
+Wade | 22 | PLAYER-FGA
+Wade | 9 | PLAYER-FG3M
+Wade | 10 | PLAYER-FTA
+Wade | 37 | PLAYER-MIN
+Chris Bosh | 41 | PLAYER-MIN
+Chris Bosh | 31 | PLAYER-PTS
+Chris Bosh | 8 | PLAYER-FGM
+Chris Bosh | 20 | PLAYER-FGA
+Chris Bosh | 2 | PLAYER-FG3M
+Chris Bosh | 6 | PLAYER-FG3A
+Chris Bosh | 13 | PLAYER-FG3M
+Chris Bosh | 16 | PLAYER-FTA
+Chris Bosh | 11 | PLAYER-REB
+Goran Dragic | 13 | PLAYER-PTS
+Goran Dragic | 38 | PLAYER-MIN
+Ellis | 17 | PLAYER-PTS
+Ellis | 8 | PLAYER-FGM
+Ellis | 17 | PLAYER-FGA
+Ellis | 41 | PLAYER-MIN
+Paul George | 32 | PLAYER-PTS
+Paul George | 12 | PLAYER-FGM
+Paul George | 29 | PLAYER-FGA
+Paul George | 5 | PLAYER-FG3M
+Paul George | 13 | PLAYER-FG3A
+Paul George | 3 | PLAYER-FG3M
+Paul George | 4 | PLAYER-FTA
+Paul George | 41 | PLAYER-MIN
+Jordan Hill | 20 | PLAYER-MIN
+Jordan Hill | 10 | PLAYER-PTS
+Jordan Hill | 12 | PLAYER-REB
+
+Brooklyn Nets | 1 | TEAM-WINS
+Brooklyn Nets | 1 | TEAM-LOSSES
+Brooklyn Nets | 102 | TEAM-PTS
+Detroit Pistons | 0 | TEAM-WINS
+Detroit Pistons | 3 | TEAM-LOSSES
+Detroit Pistons | 90 | TEAM-PTS
+Kevin UNK | 18 | PLAYER-PTS
+Kevin UNK | 14 | PLAYER-REB
+Kevin UNK | 35 | PLAYER-MIN
+Johnson | 39 | PLAYER-MIN
+Johnson | 34 | PLAYER-PTS
+Andre Drummond | 22 | PLAYER-MIN
+Monroe | 18 | PLAYER-PTS
+Monroe | 11 | PLAYER-REB
+Monroe | 30 | PLAYER-MIN
+Kentavious Caldwell-Pope | 40 | PLAYER-MIN
+Josh Smith | 40 | PLAYER-MIN
+Smith | 2 | PLAYER-FGM
+Brandon Jennings | 18 | PLAYER-PTS
+Brandon Jennings | 36 | PLAYER-MIN
+
+Memphis Grizzlies | 104 | TEAM-PTS
+Philadelphia 76ers | 99 | TEAM-PTS
+Grizzlies | 10 | TEAM-WINS
+Grizzlies | 5 | TEAM-LOSSES
+Gasol | 27 | PLAYER-PTS
+Mike Conley | 25 | PLAYER-PTS
+JaMychal Green | 10 | PLAYER-PTS
+JaMychal Green | 11 | PLAYER-REB
+Randolph | 11 | PLAYER-PTS
+Ersan | 12 | PLAYER-REB
+Joel Embiid | 3 | PLAYER-FGM
+Joel Embiid | 12 | PLAYER-PTS
+Joel Embiid | 11 | PLAYER-REB
+Bayless | 18 | PLAYER-PTS
+Bayless | 40 | PLAYER-MIN
+Nik Stauskas | 40 | PLAYER-MIN
+
+Nik Stauskas | 10 | PLAYER-PTS
+Utah Jazz | UNK | TEAM-PTS
+New Orleans Pelicans | 94 | TEAM-PTS
+Utah | 34 | TEAM-WINS
+Utah | 19 | TEAM-LOSSES
+Joe Johnson | 27 | PLAYER-PTS
+Gobert | 16 | PLAYER-REB
+New Orleans | 20 | TEAM-WINS
+New Orleans | 33 | TEAM-LOSSES
+Anthony Davis | 12 | PLAYER-PTS
+
+Dallas Mavericks | 35 | TEAM-WINS
+Dallas Mavericks | 35 | TEAM-LOSSES
+Portland | 36 | TEAM-WINS
+Portland | 35 | TEAM-LOSSES
+Dirk Nowitzki | 40 | PLAYER-PTS
+Deron Williams | 31 | PLAYER-PTS
+Salah Mejri | 13 | PLAYER-PTS
+Salah Mejri | 14 | PLAYER-REB
+Damian Lillard | 26 | PLAYER-PTS
+
+McCollum | 22 | PLAYER-PTS
+Trail Blazers | 99 | TEAM-PTS
+Thompson | 27 | PLAYER-PTS
+Green | 17 | PLAYER-PTS
+Green | 14 | PLAYER-REB
+UNK UNK | 33 | PLAYER-MIN
+UNK UNK | 14 | PLAYER-PTS
+Stephen Curry | 33 | PLAYER-MIN
+Stephen Curry | 14 | PLAYER-PTS
+UNK | 15 | PLAYER-PTS
+UNK | 25 | PLAYER-PTS
+Mason Plumlee | 11 | PLAYER-REB
+
+San Antonio Spurs | 53 | TEAM-WINS
+San Antonio Spurs | 9 | TEAM-LOSSES
+San Antonio Spurs | 104 | TEAM-PTS
+Sacramento Kings | 25 | TEAM-WINS
+Sacramento Kings | 36 | TEAM-LOSSES
+Sacramento Kings | 94 | TEAM-PTS
+San Antonio | 25 | PLAYER-PTS
+Kawhi Leonard | 24 | PLAYER-FGA
+Kawhi Leonard | 25 | PLAYER-PTS
+Kawhi Leonard | 13 | PLAYER-REB
+Manu | 22 | PLAYER-PTS
+Manu | 8 | PLAYER-FGM
+Manu | 11 | PLAYER-FGA
+Indiana Pacers | 33 | TEAM-WINS
+Indiana Pacers | 30 | TEAM-LOSSES
+DeMarcus Cousins | 31 | PLAYER-PTS
+DeMarcus Cousins | 10 | PLAYER-FGM
+DeMarcus Cousins | 20 | PLAYER-FGA
+Quincy UNK | 16 | PLAYER-PTS
+Darren Collison | 12 | PLAYER-PTS
+Darren Collison | 5 | PLAYER-FGM
+Darren Collison | 9 | PLAYER-FGA
+Darren Collison | 33 | PLAYER-MIN
+New Orleans Pelicans | 23 | TEAM-WINS
+
+New Orleans Pelicans | 38 | TEAM-LOSSES
+Embiid | 26 | PLAYER-PTS
+Embiid | 20 | PLAYER-MIN
+Eric Bledsoe | 27 | PLAYER-PTS
+
+Patrick Beverley | 26 | PLAYER-PTS
+Patrick Beverley | 13 | PLAYER-FGA
+
+UNK UNK | 24 | PLAYER-PTS
+Timofey Mozgov | 14 | PLAYER-MIN
+
+Karl-Anthony Towns | 14 | PLAYER-MIN
+James Harden | 18 | PLAYER-PTS
+Clint Capela | 13 | PLAYER-PTS
+Clint Capela | 10 | PLAYER-REB
+Trevor Ariza | 17 | PLAYER-PTS
+Patrick Beverley | 17 | PLAYER-PTS
+Ariza | 17 | PLAYER-PTS
+Matthews | 26 | PLAYER-PTS
+Matthews | 20 | PLAYER-PTS
+
+Barnes | 20 | PLAYER-PTS
+LeBron James | 31 | PLAYER-PTS
+Jordan UNK | 21 | PLAYER-PTS
+Taj Gibson | 9 | PLAYER-FGM
+Taj Gibson | 10 | PLAYER-FGA
+Taj Gibson | 18 | PLAYER-PTS
+Nikola Mirotic | 10 | PLAYER-REB
+
+UNK McDermott | 10 | PLAYER-REB
+Indiana Pacers | 100 | TEAM-PTS
+Indiana Pacers | 99 | TEAM-PTS
+Spurs | 46 | TEAM-WINS
+Spurs | 13 | TEAM-LOSSES
+Leonard | 31 | PLAYER-PTS
+Leonard | 10 | PLAYER-REB
+Indiana | 31 | TEAM-WINS
+Indiana | 30 | TEAM-LOSSES
+Paul George | 5 | PLAYER-FGM
+Paul George | 18 | PLAYER-FGA
+George | 22 | PLAYER-PTS
+George | 10 | PLAYER-FGM
+
+Marcus Smart | 22 | PLAYER-PTS
+Isaiah Thomas | 38 | PLAYER-PTS
+Gerald Green | 15 | PLAYER-PTS
+Kelly Olynyk | 12 | PLAYER-PTS
+Davis | 36 | PLAYER-PTS
+Davis | 15 | PLAYER-REB
+Langston Galloway | 20 | PLAYER-PTS
+Langston Galloway | 22 | PLAYER-MIN
+Jrue Holiday | 13 | PLAYER-PTS
+
+Donatas Motiejunas | 20 | PLAYER-MIN
+Chicago Bulls | 35 | TEAM-WINS
+Chicago Bulls | 33 | TEAM-LOSSES
+Chicago Bulls | 92 | TEAM-PTS
+Utah Jazz | 33 | TEAM-WINS
+Utah Jazz | 36 | TEAM-LOSSES
+Utah Jazz | 85 | TEAM-PTS
+Taj Gibson | 22 | PLAYER-PTS
+Derrick Rose | 22 | PLAYER-PTS
+Derrick Favors | 24 | PLAYER-PTS
+Shelvin Mack | 15 | PLAYER-PTS
+Rodney Hood | 14 | PLAYER-PTS
+Gibson | 15 | PLAYER-PTS
+Gibson | 10 | PLAYER-REB
+Jimmy Butler | 13 | PLAYER-PTS
+
+Mirotic | 15 | PLAYER-PTS
+Houston Rockets | 128 | TEAM-PTS
+Orlando Magic | 104 | TEAM-PTS
+Rockets | 38 | TEAM-WINS
+Rockets | 17 | TEAM-LOSSES
+James Harden | 25 | PLAYER-PTS
+James Harden | 13 | PLAYER-REB
+James Harden | 36 | PLAYER-MIN
+Trevor Ariza | 20 | PLAYER-PTS
+Trevor Ariza | 7 | PLAYER-FGM
+Trevor Ariza | 15 | PLAYER-FGA
+Trevor Ariza | 36 | PLAYER-MIN
+Magic | 20 | TEAM-WINS
+Magic | 34 | TEAM-LOSSES
+Serge Ibaka | 41 | PLAYER-MIN
+Serge Ibaka | 13 | PLAYER-FGM
+Serge Ibaka | 20 | PLAYER-FGA
+Nikola Vucevic | 14 | PLAYER-PTS
+Nikola Vucevic | 19 | PLAYER-REB
+
+Nikola Vucevic | 30 | PLAYER-MIN
+Los Angeles Lakers | 4 | TEAM-WINS
+Los Angeles Lakers | 21 | TEAM-LOSSES
+Los Angeles Lakers | 113 | TEAM-PTS
+Milwaukee Bucks | 10 | TEAM-WINS
+Milwaukee Bucks | 16 | TEAM-LOSSES
+Milwaukee Bucks | 95 | TEAM-PTS
+Michael Carter-Williams | 19 | PLAYER-PTS
+Kobe Bryant | 22 | PLAYER-PTS
+Randle | 14 | PLAYER-PTS
+Randle | 14 | PLAYER-REB
+
+Randle | 19 | PLAYER-PTS
+Phoenix | 10 | TEAM-WINS
+Phoenix | 23 | TEAM-LOSSES
+Eric Bledsoe | 22 | PLAYER-PTS
+Devin Booker | 19 | PLAYER-PTS
+Toronto | 22 | TEAM-WINS
+Toronto | 10 | TEAM-LOSSES
+DeMar DeRozan | 24 | PLAYER-PTS
+
+Portland | 14 | TEAM-WINS
+Portland | 20 | TEAM-LOSSES
+Portland | 110 | TEAM-PTS
+Trail Blazers | 14 | TEAM-WINS
+Trail Blazers | 20 | TEAM-LOSSES
+Trail Blazers | 110 | TEAM-PTS
+Denver Nuggets | 12 | TEAM-WINS
+Denver Nuggets | 21 | TEAM-LOSSES
+Denver Nuggets | 110 | TEAM-PTS
+Denver Nuggets | 103 | TEAM-PTS
+Portland | 50 | TEAM-FG_PCT
+Will Barton | 31 | PLAYER-PTS
+Gary Harris | 19 | PLAYER-PTS
+
+Allen Crabbe | 20 | PLAYER-PTS
+San Antonio Spurs | 27 | TEAM-WINS
+San Antonio Spurs | 16 | TEAM-LOSSES
+San Antonio Spurs | 109 | TEAM-PTS
+Denver | 16 | TEAM-LOSSES
+Denver | 109 | TEAM-PTS
+Denver Nuggets | 18 | TEAM-WINS
+Denver Nuggets | 24 | TEAM-LOSSES
+Denver Nuggets | 99 | TEAM-PTS
+Tony Parker | 23 | PLAYER-MIN
+Tony Parker | 18 | PLAYER-PTS
+Tony Parker | 8 | PLAYER-FGM
+Tony Parker | 16 | PLAYER-FGA
+Tony Parker | 1 | PLAYER-FG3M
+Tony Parker | 1 | PLAYER-FG3A
+Utah Jazz | 23 | PLAYER-MIN
+Utah Jazz | 8 | PLAYER-FGM
+Tim Duncan | 16 | PLAYER-PTS
+Tim Duncan | 6 | PLAYER-FGM
+Tim Duncan | 10 | PLAYER-FGA
+Tim Duncan | 4 | PLAYER-FG3M
+Tim Duncan | 4 | PLAYER-FTA
+Faried | 26 | PLAYER-PTS
+Faried | 9 | PLAYER-FGM
+Faried | 17 | PLAYER-FGA
+Faried | 8 | PLAYER-FG3M
+Faried | 12 | PLAYER-FG3A
+Faried | 14 | PLAYER-REB
+Afflalo | 6 | PLAYER-FGM
+Afflalo | 11 | PLAYER-FGA
+Afflalo | 3 | PLAYER-FG3M
+Afflalo | 6 | PLAYER-FG3A
+Afflalo | 21 | PLAYER-PTS
+Jusuf Nurkic | 10 | PLAYER-PTS
+Wilson Chandler | 11 | PLAYER-PTS
+Wilson Chandler | 5 | PLAYER-FGM
+Wilson Chandler | 11 | PLAYER-FGA
+Wilson Chandler | 0 | PLAYER-FG3M
+Wilson Chandler | 1 | PLAYER-FG3A
+Wilson Chandler | 1 | PLAYER-FG3M
+Wilson Chandler | 3 | PLAYER-FTA
+
+Wilson Chandler | 37 | PLAYER-MIN
+Los Angeles Lakers | 11 | TEAM-WINS
+Los Angeles Lakers | 41 | TEAM-LOSSES
+Los Angeles Lakers | 99 | TEAM-PTS
+New Orleans Pelicans | 18 | TEAM-WINS
+New Orleans Pelicans | 31 | TEAM-LOSSES
+New Orleans Pelicans | 96 | TEAM-PTS
+Jordan Clarkson | 18 | PLAYER-PTS
+Julius Randle | 11 | PLAYER-PTS
+Anthony Davis | 11 | PLAYER-PTS
+D'Angelo Russell | 13 | PLAYER-PTS
+D'Angelo Russell | 11 | PLAYER-PTS
+Nick Young | 11 | PLAYER-PTS
+Anthony Davis | 39 | PLAYER-PTS
+Anthony Davis | 11 | PLAYER-REB
+UNK UNK | 17 | PLAYER-PTS
+Jrue Holiday | 34 | PLAYER-MIN
+Jrue Holiday | 19 | PLAYER-PTS
+
+Ryan Anderson | 17 | PLAYER-PTS
+Phoenix Suns | 22 | TEAM-WINS
+Phoenix Suns | 16 | TEAM-LOSSES
+Phoenix Suns | 113 | TEAM-PTS
+Minnesota Timberwolves | 5 | TEAM-WINS
+Minnesota Timberwolves | 29 | TEAM-LOSSES
+Minnesota Timberwolves | 111 | TEAM-PTS
+Dragic | 25 | PLAYER-PTS
+Dragic | 11 | PLAYER-FGM
+Dragic | 16 | PLAYER-FGA
+Dragic | 0 | PLAYER-FG3M
+Dragic | 4 | PLAYER-FG3A
+Dragic | 3 | PLAYER-FG3M
+Dragic | 4 | PLAYER-FTA
+Bledsoe | 17 | PLAYER-PTS
+Bledsoe | 7 | PLAYER-FGM
+Bledsoe | 17 | PLAYER-FGA
+Bledsoe | 0 | PLAYER-FG3M
+Bledsoe | 2 | PLAYER-FG3A
+Bledsoe | 3 | PLAYER-FG3M
+Bledsoe | 4 | PLAYER-FG3A
+Thomas | 17 | PLAYER-PTS
+Thomas | 6 | PLAYER-FGM
+Thomas | 14 | PLAYER-FGA
+Thomas | 2 | PLAYER-FG3M
+Thomas | 3 | PLAYER-FG3A
+Thomas | 3 | PLAYER-FG3M
+Thomas | 4 | PLAYER-FTA
+Thomas | 8 | PLAYER-FGM
+Thomas | 16 | PLAYER-FGA
+Thomas | 3 | PLAYER-FG3M
+Thomas | 8 | PLAYER-FG3A
+Thomas | 2 | PLAYER-FG3M
+Thomas | 2 | PLAYER-FTA
+Green | 6 | PLAYER-FGM
+Green | 14 | PLAYER-FGA
+Green | 2 | PLAYER-FG3M
+Green | 3 | PLAYER-FG3A
+Green | 3 | PLAYER-FG3M
+Green | 4 | PLAYER-FTA
+Green | 21 | PLAYER-PTS
+Green | 8 | PLAYER-FGM
+Green | 16 | PLAYER-FGA
+Green | 3 | PLAYER-FG3M
+Green | 8 | PLAYER-FG3A
+Green | 2 | PLAYER-FG3M
+Green | 2 | PLAYER-FTA
+Wiggins | 10 | PLAYER-FGM
+Wiggins | 16 | PLAYER-FGA
+Wiggins | 1 | PLAYER-FG3M
+Wiggins | 4 | PLAYER-FG3A
+Wiggins | 25 | PLAYER-PTS
+Mo Williams | 23 | PLAYER-PTS
+Mo Williams | 7 | PLAYER-FGM
+Mo Williams | 14 | PLAYER-FGA
+Mo Williams | 4 | PLAYER-FG3M
+Mo Williams | 7 | PLAYER-FG3A
+Mo Williams | 5 | PLAYER-FG3M
+Mo Williams | 5 | PLAYER-FTA
+Mo Williams | 11 | PLAYER-FTA
+Thaddeus Young | 13 | PLAYER-PTS
+Thaddeus Young | 6 | PLAYER-FGM
+Thaddeus Young | 18 | PLAYER-FGA
+Thaddeus Young | 1 | PLAYER-FG3M
+Thaddeus Young | 2 | PLAYER-FG3A
+Budinger | 6 | PLAYER-FGM
+Budinger | 2 | PLAYER-FG3M
+Budinger | 10 | PLAYER-PTS
+Budinger | 5 | PLAYER-FGM
+Budinger | 7 | PLAYER-FGA
+Budinger | 0 | PLAYER-FG3M
+
+Budinger | 1 | PLAYER-FG3A
+Boston Celtics | 99 | TEAM-PTS
+Minnesota Timberwolves | 93 | TEAM-PTS
+Timberwolves | 4 | TEAM-WINS
+Timberwolves | 9 | TEAM-LOSSES
+Celtics | 8 | TEAM-WINS
+Celtics | 6 | TEAM-LOSSES
+Thomas | 29 | PLAYER-PTS
+Thomas | 20 | PLAYER-PTS
+Thomas | 36 | PLAYER-MIN
+Al Horford | 20 | PLAYER-PTS
+Al Horford | 36 | PLAYER-MIN
+Karl-Anthony Towns | 11 | PLAYER-FGM
+Karl-Anthony Towns | 19 | PLAYER-FGA
+Karl-Anthony Towns | 2 | PLAYER-FG3M
+Karl-Anthony Towns | 4 | PLAYER-FG3A
+Karl-Anthony Towns | 27 | PLAYER-PTS
+Karl-Anthony Towns | 18 | PLAYER-REB
+Andrew Wiggins | 14 | PLAYER-PTS
+Andrew Wiggins | 5 | PLAYER-FGM
+Andrew Wiggins | 18 | PLAYER-FGA
+
+Miami Heat | 35 | TEAM-WINS
+Miami Heat | 45 | TEAM-LOSSES
+Toronto Raptors | 48 | TEAM-WINS
+Toronto Raptors | 32 | TEAM-LOSSES
+Lou Williams | 29 | PLAYER-PTS
+Lou Williams | 30 | PLAYER-MIN
+Terrence Ross | 17 | PLAYER-MIN
+Jonas Valanciunas | 10 | PLAYER-MIN
+Dwyane Wade | 30 | PLAYER-PTS
+Hassan Whiteside | 35 | PLAYER-MIN
+Hassan Whiteside | 16 | PLAYER-PTS
+
+Hassan Whiteside | 18 | PLAYER-REB
+Charlotte Hornets | 3 | TEAM-WINS
+Charlotte Hornets | 4 | TEAM-LOSSES
+Minnesota Timberwolves | 4 | TEAM-WINS
+Minnesota Timberwolves | 3 | TEAM-LOSSES
+Charlotte | 57 | PLAYER-PTS
+Nicolas Batum | 17 | PLAYER-PTS
+Zach LaVine | 20 | PLAYER-PTS
+
+Rubio | 20 | PLAYER-PTS
+Chicago Bulls | 24 | TEAM-WINS
+Chicago Bulls | 16 | TEAM-LOSSES
+Detroit Pistons | 22 | TEAM-WINS
+Detroit Pistons | 19 | TEAM-LOSSES
+Pau Gasol | 31 | PLAYER-PTS
+Pau Gasol | 12 | PLAYER-REB
+Derrick Rose | 36 | PLAYER-PTS
+Jimmy Butler | 36 | PLAYER-PTS
+Andre Drummond | 13 | PLAYER-PTS
+
+Andre Drummond | 16 | PLAYER-REB
+Memphis Grizzlies | 102 | TEAM-PTS
+Lakers | 13 | TEAM-WINS
+Lakers | 25 | TEAM-LOSSES
+Los Angeles | 51 | TEAM-FG_PCT
+Nick Young | 20 | PLAYER-PTS
+Nick Young | 6 | PLAYER-FGM
+Nick Young | 11 | PLAYER-FGA
+Memphis | 22 | TEAM-WINS
+Memphis | 15 | TEAM-LOSSES
+
+LeBron James | 36 | PLAYER-MIN
+LeBron James | 25 | PLAYER-PTS
+Love | 18 | PLAYER-PTS
+Mo Williams | 19 | PLAYER-PTS
+Derrick Rose | 32 | PLAYER-MIN
+Nikola Mirotic | 19 | PLAYER-PTS
+Chicago | 19 | PLAYER-PTS
+Joakim Noah | 17 | PLAYER-MIN
+
+Portland | 34 | TEAM-WINS
+Portland | 16 | TEAM-LOSSES
+Trail Blazers | 34 | TEAM-WINS
+Trail Blazers | 16 | TEAM-LOSSES
+Phoenix Suns | 28 | TEAM-WINS
+Phoenix Suns | 23 | TEAM-LOSSES
+LaMarcus | 19 | PLAYER-PTS
+LaMarcus | 13 | PLAYER-REB
+
+Spurs | 42 | TEAM-WINS
+Spurs | 13 | TEAM-LOSSES
+Kawhi Leonard | 32 | PLAYER-PTS
+LaMarcus Aldridge | 22 | PLAYER-FGA
+LaMarcus Aldridge | 19 | PLAYER-PTS
+Pacers | 29 | TEAM-WINS
+Pacers | 26 | TEAM-LOSSES
+Paul George | 27 | PLAYER-PTS
+Myles Turner | 22 | PLAYER-PTS
+Jeff Teague | 15 | PLAYER-PTS
+Rodney UNK | 23 | PLAYER-PTS
+
+Monta Ellis | 23 | PLAYER-PTS
+Houston Rockets | 29 | TEAM-WINS
+Houston Rockets | 13 | TEAM-LOSSES
+Houston Rockets | 110 | TEAM-PTS
+Houston Rockets | 98 | TEAM-PTS
+Indiana Pacers | 15 | TEAM-WINS
+Indiana Pacers | 27 | TEAM-LOSSES
+Indiana Pacers | 98 | TEAM-PTS
+Harden | 45 | PLAYER-PTS
+Harden | 12 | PLAYER-FGM
+Harden | 18 | PLAYER-FGA
+Harden | 7 | PLAYER-FG3M
+Harden | 12 | PLAYER-FG3A
+Harden | 14 | PLAYER-FG3M
+Houston | 25 | PLAYER-PTS
+
+Blazers | 30 | TEAM-WINS
+Blazers | 37 | TEAM-LOSSES
+Damian Lillard | 36 | PLAYER-PTS
+McCollum | 26 | PLAYER-PTS
+Jusuf Nurkic | 16 | PLAYER-PTS
+Spurs | 52 | TEAM-WINS
+Spurs | 15 | TEAM-LOSSES
+Kawhi Leonard | 34 | PLAYER-PTS
+LaMarcus Aldridge | 19 | PLAYER-PTS
+Patty Mills | 13 | PLAYER-PTS
+Tony Parker | 13 | PLAYER-PTS
+David Lee | 12 | PLAYER-PTS
+
+Pau Gasol | 12 | PLAYER-PTS
+Houston Rockets | UNK | TEAM-PTS
+Phoenix Suns | 115 | TEAM-PTS
+Houston | 23 | TEAM-WINS
+Houston | 9 | TEAM-LOSSES
+Harden | 32 | PLAYER-PTS
+Gordon | 15 | PLAYER-PTS
+Rockets | 50 | TEAM-FG_PCT
+Phoenix | 9 | TEAM-WINS
+Phoenix | 22 | TEAM-LOSSES
+
+Eric Bledsoe | 24 | PLAYER-PTS
+Indiana Pacers | 10 | TEAM-WINS
+Indiana Pacers | 5 | TEAM-LOSSES
+Chicago Bulls | 9 | TEAM-WINS
+Chicago Bulls | 5 | TEAM-LOSSES
+UNK UNK | 9 | PLAYER-PTS
+George | 33 | PLAYER-PTS
+Miles | 16 | PLAYER-PTS
+Nikola Mirotic | 25 | PLAYER-PTS
+Jimmy Butler | 16 | PLAYER-PTS
+UNK UNK | 22 | PLAYER-MIN
+
+Cousins | 29 | PLAYER-PTS
+Cousins | 16 | PLAYER-REB
+Davis | 30 | PLAYER-PTS
+Davis | 13 | PLAYER-REB
+New Orleans | 51 | TEAM-FG_PCT
+New Orleans | 40 | TEAM-FG3_PCT
+Mavericks | 31 | TEAM-WINS
+Mavericks | 43 | TEAM-LOSSES
+Dirk Nowitzki | 23 | PLAYER-PTS
+Dirk Nowitzki | 14 | PLAYER-FGA
+Dirk Nowitzki | 31 | PLAYER-MIN
+
+Golden State Warriors | 54 | TEAM-WINS
+Golden State Warriors | 13 | TEAM-LOSSES
+Atlanta Hawks | 53 | TEAM-WINS
+Atlanta Hawks | 15 | TEAM-LOSSES
+Warriors | 52 | TEAM-FG_PCT
+Warriors | 47 | TEAM-FG3_PCT
+Harrison Barnes | 13 | PLAYER-FGA
+Harrison Barnes | 25 | PLAYER-PTS
+Harrison Barnes | 28 | PLAYER-MIN
+Andre UNK | 21 | PLAYER-PTS
+Stephen Curry | 16 | PLAYER-PTS
+Stephen Curry | 30 | PLAYER-MIN
+Draymond Green | 18 | PLAYER-PTS
+DeMarre Carroll | 16 | PLAYER-PTS
+Paul Millsap | 16 | PLAYER-PTS
+Paul Millsap | 14 | PLAYER-FGA
+Carroll | 16 | PLAYER-PTS
+
+Carroll | 14 | PLAYER-FGA
+Toronto Raptors | 37 | TEAM-WINS
+Toronto Raptors | 18 | TEAM-LOSSES
+Houston Rockets | 37 | TEAM-WINS
+Houston Rockets | 18 | TEAM-LOSSES
+Houston | 33 | TEAM-FG_PCT
+Toronto | 33 | TEAM-FG_PCT
+Brewer | 26 | PLAYER-PTS
+
+Brewer | 35 | PLAYER-MIN
+Toronto Raptors | 17 | TEAM-WINS
+Toronto Raptors | 11 | TEAM-LOSSES
+Toronto Raptors | 108 | TEAM-PTS
+Miami | 108 | TEAM-PTS
+Miami Heat | 15 | TEAM-WINS
+Miami Heat | 10 | TEAM-LOSSES
+Miami Heat | 94 | TEAM-PTS
+Toronto | 51 | TEAM-FG_PCT
+Toronto | 81 | TEAM-FG3_PCT
+DeMar DeRozan | 30 | PLAYER-PTS
+DeMar DeRozan | 10 | PLAYER-FGM
+DeMar DeRozan | 17 | PLAYER-FGA
+DeMar DeRozan | 10 | PLAYER-FG3M
+DeMar DeRozan | 13 | PLAYER-FG3A
+DeRozan | 40 | PLAYER-MIN
+Kyle Lowry | 21 | PLAYER-PTS
+Kyle Lowry | 37 | PLAYER-MIN
+Luis Scola | 9 | PLAYER-FGM
+Luis Scola | 16 | PLAYER-FGA
+Luis Scola | 20 | PLAYER-PTS
+Terrence Ross | 17 | PLAYER-PTS
+Terrence Ross | 6 | PLAYER-FGM
+Terrence Ross | 9 | PLAYER-FGA
+Terrence Ross | 5 | PLAYER-FG3M
+Terrence Ross | 8 | PLAYER-FG3A
+Gerald Green | 20 | PLAYER-PTS
+Goran Dragic | 33 | PLAYER-MIN
+Goran Dragic | 18 | PLAYER-PTS
+Goran Dragic | 8 | PLAYER-FGM
+Goran Dragic | 13 | PLAYER-FGA
+Goran Dragic | 2 | PLAYER-FG3M
+Goran Dragic | 3 | PLAYER-FTA
+Raptors | 1 | TEAM-WINS
+Raptors | 2 | TEAM-LOSSES
+
+Oklahoma City Thunder | 14 | TEAM-WINS
+Oklahoma City Thunder | 16 | TEAM-LOSSES
+Oklahoma City Thunder | 102 | TEAM-PTS
+San Antonio Spurs | 18 | TEAM-WINS
+San Antonio Spurs | 12 | TEAM-LOSSES
+San Antonio Spurs | 102 | TEAM-PTS
+San Antonio Spurs | 91 | TEAM-PTS
+Russell Westbrook | 35 | PLAYER-MIN
+Steven Adams | 16 | PLAYER-PTS
+Steven Adams | 15 | PLAYER-REB
+Steven Adams | 31 | PLAYER-MIN
+Matt UNK | 17 | PLAYER-PTS
+
+Russell Westbrook | 63 | PLAYER-PTS
+Russell Westbrook | 16 | PLAYER-REB
+Westbrook | 30 | PLAYER-PTS
+Westbrook | 12 | PLAYER-REB
+Durant | 10 | PLAYER-FGM
+Durant | 15 | PLAYER-FGA
+Curry | 24 | PLAYER-PTS
+Draymond Green | 9 | PLAYER-FGA
+
+Lillard | 49 | PLAYER-PTS
+Lillard | 14 | PLAYER-FGM
+Lillard | 21 | PLAYER-FGA
+Jusuf Nurkic | 21 | PLAYER-PTS
+McCollum | 18 | PLAYER-PTS
+Whiteside | 17 | PLAYER-PTS
+
+James Johnson | 24 | PLAYER-PTS
+Dragic | 35 | PLAYER-MIN
+Dragic | 33 | PLAYER-PTS
+
+Clippers | 37 | TEAM-WINS
+Clippers | 25 | TEAM-LOSSES
+Bulls | 31 | TEAM-WINS
+Bulls | 31 | TEAM-LOSSES
+Jamal Crawford | 25 | PLAYER-PTS
+Chris Paul | 17 | PLAYER-PTS
+Blake Griffin | 16 | PLAYER-PTS
+DeAndre Jordan | 14 | PLAYER-REB
+
+Jimmy Butler | 16 | PLAYER-PTS
+Philadelphia 76ers | 16 | TEAM-WINS
+Philadelphia 76ers | 52 | TEAM-LOSSES
+Philadelphia 76ers | 94 | TEAM-PTS
+Philadelphia | 94 | TEAM-PTS
+Detroit Pistons | 24 | TEAM-WINS
+Detroit Pistons | 44 | TEAM-LOSSES
+Detroit Pistons | 83 | TEAM-PTS
+Nerlens Noel | 22 | PLAYER-MIN
+Smith | 15 | PLAYER-PTS
+Smith | 6 | PLAYER-FGM
+Smith | 12 | PLAYER-FGA
+Smith | 26 | PLAYER-MIN
+Canaan | 2 | PLAYER-FGM
+Canaan | 10 | PLAYER-FGA
+Canaan | 22 | PLAYER-MIN
+Jason Richardson | 15 | PLAYER-PTS
+Jason Richardson | 4 | PLAYER-FGM
+Jason Richardson | 7 | PLAYER-FGA
+Jason Richardson | 25 | PLAYER-MIN
+Robert Covington | 22 | PLAYER-MIN
+Robert Covington | 1 | PLAYER-FGM
+Robert Covington | 6 | PLAYER-FGA
+Reggie Jackson | 32 | PLAYER-MIN
+Reggie Jackson | 11 | PLAYER-PTS
+Reggie Jackson | 4 | PLAYER-FGM
+Reggie Jackson | 17 | PLAYER-FGA
+Reggie Jackson | 11 | PLAYER-REB
+Kentavious Caldwell-Pope | 36 | PLAYER-MIN
+Kentavious Caldwell-Pope | 20 | PLAYER-PTS
+Kentavious Caldwell-Pope | 7 | PLAYER-FGM
+
+Kentavious Caldwell-Pope | 16 | PLAYER-FGA
+Lakers | 15 | TEAM-WINS
+Lakers | 29 | TEAM-LOSSES
+Jordan Clarkson | 21 | PLAYER-PTS
+Brandon Ingram | 14 | PLAYER-PTS
+D'Angelo Russell | 14 | PLAYER-FGA
+Clippers | 28 | TEAM-WINS
+Clippers | 14 | TEAM-LOSSES
+DeAndre Jordan | 24 | PLAYER-PTS
+DeAndre Jordan | 22 | PLAYER-REB
+DeAndre Jordan | 13 | PLAYER-FGA
+DeAndre Jordan | 20 | PLAYER-PTS
+
+Raymond Felton | 15 | PLAYER-PTS
+Joel Embiid | 25 | PLAYER-PTS
+Gerald Henderson | 12 | PLAYER-PTS
+Gerald Henderson | 10 | PLAYER-PTS
+Robert Covington | 10 | PLAYER-PTS
+Monta Ellis | 19 | PLAYER-PTS
+
+Monta Ellis | 36 | PLAYER-MIN
+Atlanta Hawks | 12 | TEAM-WINS
+Atlanta Hawks | 8 | TEAM-LOSSES
+Atlanta Hawks | 106 | TEAM-PTS
+Oklahoma City Thunder | 11 | TEAM-WINS
+Oklahoma City Thunder | 7 | TEAM-LOSSES
+Oklahoma City Thunder | 106 | TEAM-PTS
+Teague | 25 | PLAYER-PTS
+Paul Millsap | 35 | PLAYER-MIN
+Paul Millsap | 26 | PLAYER-PTS
+Paul Millsap | 11 | PLAYER-REB
+Al Horford | 21 | PLAYER-PTS
+Al Horford | 13 | PLAYER-REB
+Al Horford | 35 | PLAYER-MIN
+Westbrook | 34 | PLAYER-PTS
+Westbrook | 11 | PLAYER-REB
+Westbrook | 36 | PLAYER-MIN
+Kevin Durant | 25 | PLAYER-PTS
+Kevin Durant | 40 | PLAYER-MIN
+Kevin Durant | 35 | PLAYER-MIN
+Serge Ibaka | 17 | PLAYER-PTS
+Serge Ibaka | 35 | PLAYER-MIN
+
+Oklahoma City | 24 | PLAYER-PTS
+Memphis Grizzlies | 13 | TEAM-WINS
+Memphis Grizzlies | 10 | TEAM-LOSSES
+Memphis Grizzlies | 93 | TEAM-PTS
+Detroit | 13 | TEAM-WINS
+Detroit | 93 | TEAM-PTS
+Detroit Pistons | 12 | TEAM-WINS
+Detroit Pistons | 11 | TEAM-LOSSES
+Detroit Pistons | 93 | TEAM-PTS
+Detroit Pistons | 92 | TEAM-PTS
+Marc Gasol | 19 | PLAYER-PTS
+Marc Gasol | 12 | PLAYER-REB
+Mike Conley | 11 | PLAYER-PTS
+UNK Lee | 14 | PLAYER-PTS
+Andre Drummond | 37 | PLAYER-MIN
+Andre Drummond | 18 | PLAYER-PTS
+Andre Drummond | 19 | PLAYER-REB
+Reggie Jackson | 18 | PLAYER-PTS
+Morris | 16 | PLAYER-PTS
+Steven | 16 | PLAYER-MIN
+Steven | 11 | PLAYER-PTS
+Blake | 16 | PLAYER-MIN
+
+Milwaukee Bucks | 8 | TEAM-WINS
+Milwaukee Bucks | 7 | TEAM-LOSSES
+Milwaukee Bucks | 98 | TEAM-PTS
+Milwaukee | 98 | TEAM-PTS
+Detroit Pistons | 3 | TEAM-WINS
+Detroit Pistons | 11 | TEAM-LOSSES
+Detroit Pistons | 86 | TEAM-PTS
+Brandon Knight | 7 | PLAYER-FGM
+Brandon Knight | 12 | PLAYER-FGA
+Brandon Knight | 3 | PLAYER-FG3M
+Brandon Knight | 5 | PLAYER-FG3A
+Brandon Knight | 4 | PLAYER-FTA
+UNK | 12 | PLAYER-PTS
+UNK | 14 | PLAYER-PTS
+Parker | 14 | PLAYER-PTS
+Andre | 23 | PLAYER-PTS
+Andre | 10 | PLAYER-REB
+Andre | 32 | PLAYER-MIN
+
+Greg Monroe | 15 | PLAYER-PTS
+Chicago Bulls | 22 | TEAM-WINS
+Chicago Bulls | 12 | TEAM-LOSSES
+Boston Celtics | 19 | TEAM-WINS
+Boston Celtics | 17 | TEAM-LOSSES
+Pau Gasol | 17 | PLAYER-PTS
+Pau Gasol | 18 | PLAYER-REB
+Jimmy Butler | 19 | PLAYER-PTS
+Jae Crowder | 17 | PLAYER-PTS
+Jae Crowder | 17 | PLAYER-FGA
+Jared Sullinger | 25 | PLAYER-MIN
+
+Jared Sullinger | 13 | PLAYER-PTS
+New York | 36 | TEAM-FG_PCT
+Spurs | 36 | TEAM-FG_PCT
+Knicks | 50 | TEAM-FG_PCT
+Knicks | 64 | TEAM-FG3_PCT
+Kawhi Leonard | 36 | PLAYER-PTS
+LaMarcus Aldridge | 15 | PLAYER-PTS
+Carmelo Anthony | 25 | PLAYER-PTS
+Derrick Rose | 18 | PLAYER-PTS
+
+Kristaps Porzingis | 16 | PLAYER-PTS
+San Antonio Spurs | 55 | TEAM-WINS
+San Antonio Spurs | 10 | TEAM-LOSSES
+Chicago Bulls | 32 | TEAM-WINS
+Chicago Bulls | 31 | TEAM-LOSSES
+Kawhi Leonard | 29 | PLAYER-PTS
+Kawhi Leonard | 26 | PLAYER-PTS
+LaMarcus Aldridge | 26 | PLAYER-PTS
+Derrick Rose | 16 | PLAYER-FGA
+Derrick Rose | 21 | PLAYER-PTS
+Pau Gasol | 16 | PLAYER-FGA
+Pau Gasol | 21 | PLAYER-PTS
+E'Twaun Moore | 20 | PLAYER-PTS
+Jimmy Butler | 20 | PLAYER-PTS
+
+Jamal Murray | 12 | PLAYER-FGA
+Jamal Murray | 6 | PLAYER-PTS
+Danilo Gallinari | 7 | PLAYER-FGM
+Danilo Gallinari | 13 | PLAYER-FGA
+Danilo Gallinari | 19 | PLAYER-PTS
+Damian Lillard | 32 | PLAYER-PTS
+Damian Lillard | 21 | PLAYER-PTS
+McCollum | 21 | PLAYER-PTS
+
+Portland | 7 | TEAM-LOSSES
+Trail Blazers | 25 | TEAM-WINS
+Trail Blazers | 7 | TEAM-LOSSES
+Trail Blazers | 101 | TEAM-PTS
+New York Knicks | 5 | TEAM-WINS
+New York Knicks | 28 | TEAM-LOSSES
+New York Knicks | 101 | TEAM-PTS
+New York Knicks | 79 | TEAM-PTS
+Wesley Matthews | 28 | PLAYER-PTS
+Damian Lillard | 11 | PLAYER-PTS
+Kaman | 20 | PLAYER-MIN
+Kaman | 13 | PLAYER-PTS
+Joel Freeland | 25 | PLAYER-MIN
+Joel Freeland | 10 | PLAYER-PTS
+Joel Freeland | 10 | PLAYER-REB
+
+San Antonio | 29 | PLAYER-PTS
+Hornets | 20 | TEAM-WINS
+Hornets | 18 | TEAM-LOSSES
+Kemba Walker | 18 | PLAYER-PTS
+Jeremy Lamb | 13 | PLAYER-PTS
+Spurs | 30 | TEAM-WINS
+Spurs | 7 | TEAM-LOSSES
+LaMarcus Aldridge | 15 | PLAYER-PTS
+Kawhi Leonard | 19 | PLAYER-PTS
+
+Dewayne Dedmon | 15 | PLAYER-PTS
+Pistons | 11 | TEAM-WINS
+Pistons | 10 | TEAM-LOSSES
+Pistons | 54 | TEAM-FG_PCT
+Tobias Harris | 18 | PLAYER-PTS
+Andre Drummond | 14 | PLAYER-PTS
+Andre Drummond | 14 | PLAYER-REB
+Ish Smith | 13 | PLAYER-REB
+Jon Leuer | 16 | PLAYER-PTS
+Dennis | 10 | PLAYER-FGM
+Dennis | 17 | PLAYER-PTS
+Hawks | 10 | TEAM-WINS
+Hawks | 10 | TEAM-LOSSES
+Kent Bazemore | 14 | PLAYER-PTS
+Kyle Korver | 14 | PLAYER-PTS
+Thabo Sefolosha | 25 | PLAYER-MIN
+Paul Millsap | 25 | PLAYER-MIN
+
+Dwight Howard | 25 | PLAYER-MIN
+Denver Nuggets | 11 | TEAM-WINS
+Denver Nuggets | 14 | TEAM-LOSSES
+Denver Nuggets | 112 | TEAM-PTS
+Minnesota Timberwolves | 9 | TEAM-WINS
+Minnesota Timberwolves | 15 | TEAM-LOSSES
+Minnesota Timberwolves | 112 | TEAM-PTS
+Minnesota Timberwolves | 100 | TEAM-PTS
+UNK UNK | 19 | PLAYER-PTS
+UNK UNK | 25 | PLAYER-MIN
+Danilo Gallinari | 15 | PLAYER-PTS
+UNK UNK | 11 | PLAYER-PTS
+UNK UNK | 37 | PLAYER-MIN
+Jameer Nelson | 10 | PLAYER-PTS
+Emmanuel Mudiay | 10 | PLAYER-PTS
+Will Barton | 14 | PLAYER-PTS
+Andrew Wiggins | 23 | PLAYER-PTS
+Karl-Anthony Towns | 18 | PLAYER-PTS
+Kevin Martin | 1 | PLAYER-FGM
+Kevin Martin | 8 | PLAYER-FGA
+Zach LaVine | 25 | PLAYER-MIN
+Zach LaVine | 20 | PLAYER-PTS
+
+Atlanta Hawks | 25 | TEAM-WINS
+Atlanta Hawks | 8 | TEAM-LOSSES
+Portland | 26 | TEAM-WINS
+Portland | 8 | TEAM-LOSSES
+Trail Blazers | 26 | TEAM-WINS
+Trail Blazers | 8 | TEAM-LOSSES
+Hawks | 51 | TEAM-FG_PCT
+LaMarcus Aldridge | 30 | PLAYER-PTS
+
+LaMarcus Aldridge | 12 | PLAYER-REB
+Kyle Lowry | 10 | PLAYER-PTS
+Andre Drummond | 16 | PLAYER-PTS
+Valanciunas | 16 | PLAYER-PTS
+Ish Smith | 10 | PLAYER-PTS
+
+Indiana Pacers | 11 | TEAM-WINS
+Indiana Pacers | 20 | TEAM-LOSSES
+Brooklyn Nets | 13 | TEAM-WINS
+Brooklyn Nets | 16 | TEAM-LOSSES
+Rodney UNK | 20 | PLAYER-PTS
+Nets | 36 | TEAM-FG_PCT
+
+Heat | 21 | TEAM-WINS
+Heat | 30 | TEAM-LOSSES
+Ersan Ilyasova | 21 | PLAYER-PTS
+Dion Waiters | 21 | PLAYER-PTS
+Whiteside | 21 | PLAYER-PTS
+Goran Dragic | 16 | PLAYER-PTS
+
+Tyler Johnson | 16 | PLAYER-PTS
+Robert Covington | 16 | PLAYER-PTS
+Robert Covington | 15 | PLAYER-PTS
+Ersan Ilyasova | 15 | PLAYER-PTS
+Marcus Morris | 28 | PLAYER-PTS
+Marcus Morris | 14 | PLAYER-PTS
+Marcus Morris | 14 | PLAYER-REB
+Andre Drummond | 14 | PLAYER-PTS
+Andre Drummond | 14 | PLAYER-REB
+
+Heat | 25 | TEAM-WINS
+Heat | 32 | TEAM-LOSSES
+Atlanta | 32 | TEAM-WINS
+Atlanta | 25 | TEAM-LOSSES
+Miami | 40 | TEAM-FG_PCT
+Hawks | 38 | TEAM-FG_PCT
+
+Paul Millsap | 21 | PLAYER-PTS
+Denver Nuggets | 54 | TEAM-FG_PCT
+Nikola Jokic | 18 | PLAYER-PTS
+Nikola Jokic | 12 | PLAYER-REB
+Danilo Gallinari | 18 | PLAYER-PTS
+Danilo Gallinari | 12 | PLAYER-REB
+Mason Plumlee | 15 | PLAYER-PTS
+Mason Plumlee | 10 | PLAYER-REB
+Mason Plumlee | 36 | PLAYER-MIN
+Jamal Murray | 22 | PLAYER-PTS
+Jamal Murray | 30 | PLAYER-MIN
+Will Barton | 22 | PLAYER-PTS
+Will Barton | 30 | PLAYER-MIN
+Jokic | 8 | PLAYER-FGM
+Jokic | 13 | PLAYER-FGA
+Jokic | 8 | PLAYER-FGM
+Murray | 8 | PLAYER-FGM
+UNK | 30 | PLAYER-MIN
+UNK | 25 | PLAYER-PTS
+UNK | 11 | PLAYER-REB
+Jordan Clarkson | 19 | PLAYER-PTS
+Jordan Clarkson | 7 | PLAYER-FGM
+Jordan Clarkson | 18 | PLAYER-FGA
+Jordan Clarkson | 14 | PLAYER-PTS
+Brandon Ingram | 7 | PLAYER-FGM
+Brandon Ingram | 18 | PLAYER-FGA
+Brandon Ingram | 14 | PLAYER-PTS
