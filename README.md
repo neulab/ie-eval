@@ -47,9 +47,9 @@ $ ./ie_eval.sh
 
 ## Train your own IE model
 
-We release [pretrained weights](https://github.com/neulab/ie-eval/releases/) for 6 models with different architectures and random seeds, which we
-use as an ensemble for evaluation. However, the following commands can be used to train a new model
-with different configurations.
+We release [pretrained weights](https://github.com/neulab/ie-eval/releases/download/v1.0/models.tar.bz2)
+for 6 models (3 CNN models, 3 LSTM models) for each language, which we use as an ensemble for evaluation.
+However, the following commands can be used to train a new model with different configurations.
 
 ```sh
 # Set accordingly
@@ -86,3 +86,30 @@ python src/extractor.py \
     --initial-lr 0.7 \
     --seed $LANG
 ```
+
+---
+
+For more information, please take a look at the [shared task overview](https://www.aclweb.org/anthology/D19-5601):
+
+```bibtex
+@inproceedings{hayashi2019findings,
+    title = "Findings of the Third Workshop on Neural Generation and Translation",
+    author = "Hayashi, Hiroaki  and
+      Oda, Yusuke  and
+      Birch, Alexandra  and
+      Konstas, Ioannis  and
+      Finch, Andrew  and
+      Luong, Minh-Thang  and
+      Neubig, Graham  and
+      Sudoh, Katsuhito",
+    booktitle = "Proceedings of the 3rd Workshop on Neural Generation and Translation",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D19-5601",
+    doi = "10.18653/v1/D19-5601",
+    pages = "1--14",
+}
+```
+
