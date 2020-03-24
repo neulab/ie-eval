@@ -6,6 +6,8 @@ This repository contains evaluation tools and data for the DGT task at Workshop 
 
 * Download the [Rotowire English-German dataset](https://github.com/neulab/DGT/releases/download/v1.5/rotowire_english-german_1.5.tar.bz2).
 
+* Clone this repository.
+
 * Download the model weights used to run content accuracy evaluation.
 
 ```sh
